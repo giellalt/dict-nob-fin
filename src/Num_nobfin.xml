@@ -1,0 +1,1402 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Num">en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">fire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">fem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">elleve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yksitoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tolv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksitoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tretten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmetoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">fjorten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljätoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisitoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seksten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusitoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">søtten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäntoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">atten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksantoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nitten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäntoista</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuetre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuefire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuefem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuesju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tretti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtiett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førtini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femtini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sekstini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttiett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seventyseven</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">syttini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åttini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">ninety</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittiett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäyksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäkaksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäkolme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäneljä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäviisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäkuusi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäseitsemän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäkahdeksan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nittini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentäyhdeksän</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">hundre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Num">sata</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,30 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Interj">moi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">ha_det</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Interj">heippa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

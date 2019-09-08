@@ -1,0 +1,30 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Pr">uten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pr">ilman</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">over</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pr">yli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

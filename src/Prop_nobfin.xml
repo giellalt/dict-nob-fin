@@ -1,0 +1,1962 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Prop">Finland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Suomi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Russland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Venäjä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sverige</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Ruotsi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Danmark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tanska</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Belgia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Belgia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Grønland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Grönlanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Albania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Albania</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sodankylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Sodankylä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Karlsvogna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Otava</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Enare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Inari</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Teno</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Armenia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Armenia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Bulgaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Bulgaria</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">England</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Englanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Indonesia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Indonesia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Island</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Islanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Handelskompaniet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kauppakomppania</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kiina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kiribati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kiribati</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kongo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kongo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kroatia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kroatia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Latvia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Latvia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Litauen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Liettua</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Mali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Mali</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Malta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Malta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Moldova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Moldova</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nauru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Nauru</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nepal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Nepal</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tyskland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Saksa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tonga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tonga</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tuvalu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tuvalu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Ukraina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Ukraina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Vietnam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Vietnam</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sovjetunionen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Neuvostoliitto</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Frankrike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Ranska</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Åbo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Turku</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Japan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Japani</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Italia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Italia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Spania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Espanja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Polen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Puola</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Afrika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Afrikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Paris</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pariisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Lappland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Lappi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Karelen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Karjala</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Jesus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Jeesus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Hellas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kreikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Norge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Norja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Bibelen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Raamattu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Ungarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Unkari</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Estkand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Viro</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Lahtis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Lahti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tyrkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Turkki</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Storbritannia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Iso-Britannia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Portugal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Portugali</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nyland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Uusimaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Åland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Ahvenanmaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Österbotten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pohjanmaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nederland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Alankomaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tavastehus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Hämeenlinna</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Midtøsten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Lähi-itä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Preussen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Preussi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Villemannstrand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Lappeenranta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">St._Michel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Mikkeli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Korea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Korea</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Serbia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Serbia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Syria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Syyria</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Mari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Mari</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Berghäll</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kallio</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Thailand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Thaimaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Norden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pohjola</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Raumo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Rauma</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kotka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kotka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Satakunda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Satakunta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Savolax</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Savo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Marokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Marokko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sahara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Sahara</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Holland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Hollanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">SI-system</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">SI-järjestelmä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Träskenda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Järvenpää</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nådendal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Naantali</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tibet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tiibet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Melkeveien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Linnunrata</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kyrkslätt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kirkkonummi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">USA</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Yhdysvallat</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Europa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Eurooppa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Helsingfors</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Helsinki</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Jorda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Maa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Roma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Rooma</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Gud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Jumala</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tammerfors</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tampere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">India</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Intia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Uleåborg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Oulu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">St._Petersburg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pietari</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Egypt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Egypti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Moskva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Moskova</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Karl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kaarle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Aurinko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">London</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Lontoo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Canada</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kanada</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Berlin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Berliini</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Vasa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Vaasa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Asia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Aasia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Amerika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Amerikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Bjørneborg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pori</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nord-Amerika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pohjois-Amerikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sveits</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Sveitsi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Bysants</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Bysantti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Gustav</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kustaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Viborg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Viipuri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Stockholm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tukholma</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Esbo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Espoo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sør-Amerika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Etelä-Amerikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Konstantinopel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Konstantinopoli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Vanda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Vantaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Argentina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Argentiina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Aten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Ateena</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Donald_Duck</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Aku_Ankka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Irland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Irlanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Atlanterhavet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Atlantti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Cuba</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kuuba</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">California</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kalifornia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Skottland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Skotlanti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Borgå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Porvoo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Baltikum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Baltia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Torneå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tornio</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Sibir</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Siperia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Warsava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Varsova</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Øst-Europa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Itä-Eurooppa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Koranen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Koraani</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Palestina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Palestiina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Riga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Riika</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Ladoga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Laatokka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Dickursby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tikkurila</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kenya</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kenia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">København</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kööpenhamina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Eurasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Euraasia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Tallinn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Tallinna</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Lovisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Loviisa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Nord-Europa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Pohjois-Eurooppa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Prop">Kampen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Prop">Kamppi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,198 @@
+<r>
+   <e>
+      <lg>
+         <l pos="CS">at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">fordi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">sillä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">at_ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">dersom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">hvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">fordi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">koska</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">koska</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">entä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

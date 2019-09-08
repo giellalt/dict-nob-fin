@@ -1,0 +1,240 @@
+<r>
+   <e>
+      <lg>
+         <l pos="CC">da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">hvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">eli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">samt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">ja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">og</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">ja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">enten_..._eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">joko_..._tai</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">men</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">mutta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">tai</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">tai</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">vai</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">selv_om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">vaikka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">vain</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">enten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">joko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">både</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">sekä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

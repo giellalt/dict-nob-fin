@@ -1,0 +1,1374 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Pcle">likevel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuitenkin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">allikevel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuitenkin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">bare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">vain</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">til_og_med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">jopa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik_som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">akkurat_som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">allerede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">jo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">oi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">voi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">enda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">vielä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nesten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">lähes</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">taas</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nettopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">vasta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">mer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">enää</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">altså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">siis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">enda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">yhä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">bare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ainoastaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">temmelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">melko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">melko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">varsin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">nyt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nettopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">juuri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">bare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">liian</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">siten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">aivan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kanskje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ehkä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">likevel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">silti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tilsammen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kaikkiaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">desto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">sitä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">tid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">aika</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">aika</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">asti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">fem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">viisi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">samme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">samoin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">første</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ensi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">førstkommende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ensi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">aller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kaikkein</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">i_retning_av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">päin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">lähtien</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">hel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">koko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">veldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kovin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">spørsmål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kyse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">derfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">siksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">saakka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">meget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">hyvin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">jasså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">jaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">omtrent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">noin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">siinä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ytterligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">lisää</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">så</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kyllä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">allerede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kyllä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">sann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tosi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">niin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">no</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">no</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">også</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">myös</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">også</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">myös</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">myös</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">unnskyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">anteeksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">såvidt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tuskin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">mangel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tuskin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">direkte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">suorastaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">suorastaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">sann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">totta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">alltid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">aina</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">så</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">sitten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">gang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kerta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">over</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">yli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">selvfølgelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tietenkin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">alene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">yksin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">näin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ordentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kunnon</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ellers</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">muuten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">puolestaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nemlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">erityisesti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">riktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">oikein</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nemlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">näet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ihan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">også</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">myöskin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">unntatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">paitsi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">hver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">joka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">siden_av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">puoli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">del</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">puoli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">halv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">puoli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">täten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kanskje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">kai</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">virkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tosiaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">noe_ekstra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">liika</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">kanskje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">varmaankin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">naturligvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tietysti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">i_alle_fall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">ainakin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nesten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">melkein</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">nemlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">nimittäin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">entä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">sår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">haava</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">velkommen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tervetuloa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">eri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">akkurat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">tarkalleen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pcle">se_ut_til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pcle">näköjään</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
