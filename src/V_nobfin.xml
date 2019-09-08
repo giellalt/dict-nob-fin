@@ -57,7 +57,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_en_plaget_eller_klaustrofobisk_følelse</l>
+         <l pos="V">gi en plaget eller klaustrofobisk følelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -99,7 +99,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forårsaket_av</l>
+         <l pos="V">bli forårsaket av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -183,7 +183,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til_å_kjøre</l>
+         <l pos="V">få til å kjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -225,7 +225,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_og_kjøre</l>
+         <l pos="V">drive og kjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -267,7 +267,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">senke_seg</l>
+         <l pos="V">senke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -295,7 +295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle_sammen</l>
+         <l pos="V">falle sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -309,7 +309,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_ned</l>
+         <l pos="V">gå ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -337,7 +337,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">underkaste_seg</l>
+         <l pos="V">underkaste seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -393,7 +393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_i_gang</l>
+         <l pos="V">få i gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -407,7 +407,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_i_gang</l>
+         <l pos="V">få i gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -575,7 +575,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">overgi_seg</l>
+         <l pos="V">overgi seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -589,7 +589,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_opp</l>
+         <l pos="V">gi opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -603,7 +603,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_sjenert</l>
+         <l pos="V">være sjenert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -617,7 +617,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_øm</l>
+         <l pos="V">bli øm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -631,7 +631,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forbarme_seg</l>
+         <l pos="V">forbarme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -645,7 +645,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_til_et_arr</l>
+         <l pos="V">bli til et arr</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -659,7 +659,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kaste_lodd</l>
+         <l pos="V">kaste lodd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -841,7 +841,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stille_seg</l>
+         <l pos="V">stille seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -855,7 +855,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_seg</l>
+         <l pos="V">sette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -869,7 +869,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_seg</l>
+         <l pos="V">legge seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -883,7 +883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_på_med_husarbeid</l>
+         <l pos="V">holde på med husarbeid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -897,7 +897,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">pusle_med_og_lage_noe</l>
+         <l pos="V">pusle med og lage noe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -925,7 +925,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_et_skritt</l>
+         <l pos="V">ta et skritt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -953,7 +953,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_et_måltid</l>
+         <l pos="V">holde et måltid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -967,7 +967,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">åpne_seg</l>
+         <l pos="V">åpne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -995,7 +995,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forstått</l>
+         <l pos="V">bli forstått</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1065,7 +1065,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gifte_seg</l>
+         <l pos="V">gifte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1219,7 +1219,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rykke_fram</l>
+         <l pos="V">rykke fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1233,7 +1233,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_fram</l>
+         <l pos="V">gå fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1247,7 +1247,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utvikle_seg</l>
+         <l pos="V">utvikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1261,7 +1261,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utvikle_seg</l>
+         <l pos="V">utvikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1275,7 +1275,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_framgang</l>
+         <l pos="V">ha framgang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1387,7 +1387,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_seg_vill</l>
+         <l pos="V">gå seg vill</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1415,7 +1415,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">livne_til</l>
+         <l pos="V">livne til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1653,7 +1653,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">isolere_seg</l>
+         <l pos="V">isolere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1723,7 +1723,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">piple_fram</l>
+         <l pos="V">piple fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1765,7 +1765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skille_seg_ut</l>
+         <l pos="V">skille seg ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1779,7 +1779,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle_over_ende</l>
+         <l pos="V">falle over ende</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1905,7 +1905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skille_seg_ut</l>
+         <l pos="V">skille seg ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2045,7 +2045,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forhindra</l>
+         <l pos="V">bli forhindra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2255,7 +2255,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_oppløst</l>
+         <l pos="V">bli oppløst</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2269,7 +2269,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_splitta</l>
+         <l pos="V">bli splitta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2297,7 +2297,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_i_stykker</l>
+         <l pos="V">gå i stykker</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2325,7 +2325,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spre_utover</l>
+         <l pos="V">spre utover</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2395,7 +2395,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">søke_seg_til</l>
+         <l pos="V">søke seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2507,7 +2507,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rå_over</l>
+         <l pos="V">rå over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2605,7 +2605,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_med</l>
+         <l pos="V">drive med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2661,7 +2661,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_interessert_i</l>
+         <l pos="V">være interessert i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2675,7 +2675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_med</l>
+         <l pos="V">drive med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2703,7 +2703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skjelle_ut</l>
+         <l pos="V">skjelle ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2815,7 +2815,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_svak</l>
+         <l pos="V">bli svak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2913,7 +2913,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_andpusten</l>
+         <l pos="V">bli andpusten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2969,7 +2969,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_på_ski</l>
+         <l pos="V">gå på ski</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3263,7 +3263,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ymte_om_at_en_vil</l>
+         <l pos="V">ymte om at en vil</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3305,7 +3305,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tiltrekke_seg</l>
+         <l pos="V">tiltrekke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3417,7 +3417,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sukke_plutselig_eller_en_gang</l>
+         <l pos="V">sukke plutselig eller en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3431,7 +3431,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sørge_for</l>
+         <l pos="V">sørge for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3445,7 +3445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_vare_på</l>
+         <l pos="V">ta vare på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3459,7 +3459,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bekymre_seg</l>
+         <l pos="V">bekymre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3473,7 +3473,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bry_seg_om</l>
+         <l pos="V">bry seg om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3487,7 +3487,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sørge_for</l>
+         <l pos="V">sørge for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3501,7 +3501,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_merke_til</l>
+         <l pos="V">legge merke til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3515,7 +3515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_oppmerksom_på</l>
+         <l pos="V">gjøre oppmerksom på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3571,7 +3571,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_dårligere</l>
+         <l pos="V">bli dårligere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3599,7 +3599,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rope_plutselig</l>
+         <l pos="V">rope plutselig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3641,7 +3641,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_rimbelagt</l>
+         <l pos="V">bli rimbelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3683,7 +3683,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_til_auksjon</l>
+         <l pos="V">sette til auksjon</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3977,7 +3977,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_blendet</l>
+         <l pos="V">bli blendet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4005,7 +4005,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forstyrret</l>
+         <l pos="V">bli forstyrret</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4117,7 +4117,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skamme_seg</l>
+         <l pos="V">skamme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4187,7 +4187,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kaste_ut</l>
+         <l pos="V">kaste ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4229,7 +4229,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">straks_like</l>
+         <l pos="V">straks like</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4243,7 +4243,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fascineres_av</l>
+         <l pos="V">fascineres av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4257,7 +4257,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forundra</l>
+         <l pos="V">bli forundra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4271,7 +4271,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_noen_glad</l>
+         <l pos="V">gjøre noen glad</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4285,7 +4285,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">glede_seg</l>
+         <l pos="V">glede seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4369,7 +4369,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_seg</l>
+         <l pos="V">vise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4397,7 +4397,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">melde_til_myndighetene</l>
+         <l pos="V">melde til myndighetene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4523,7 +4523,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_oppmuntret</l>
+         <l pos="V">bli oppmuntret</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4551,7 +4551,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ivre_for</l>
+         <l pos="V">ivre for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4663,7 +4663,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">si_opp</l>
+         <l pos="V">si opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4677,7 +4677,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utføre_grimaser</l>
+         <l pos="V">utføre grimaser</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4705,7 +4705,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_seg</l>
+         <l pos="V">sette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4733,7 +4733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_på_å_sitte</l>
+         <l pos="V">holde på å sitte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4775,7 +4775,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_seg</l>
+         <l pos="V">sette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4887,7 +4887,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dele_opp</l>
+         <l pos="V">dele opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4985,7 +4985,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_veg</l>
+         <l pos="V">vise veg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5069,7 +5069,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">følge_spor</l>
+         <l pos="V">følge spor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5083,7 +5083,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_tid_til</l>
+         <l pos="V">ha tid til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5209,7 +5209,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">løpe_etter_noe</l>
+         <l pos="V">løpe etter noe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5265,7 +5265,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snakke_sammen</l>
+         <l pos="V">snakke sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5279,7 +5279,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_heftet</l>
+         <l pos="V">bli heftet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5349,7 +5349,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">finne_spor</l>
+         <l pos="V">finne spor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5489,7 +5489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trekke_seg</l>
+         <l pos="V">trekke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5559,7 +5559,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_igjen</l>
+         <l pos="V">bli igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5755,7 +5755,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stille_på_skrå</l>
+         <l pos="V">stille på skrå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5783,7 +5783,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_dyrere</l>
+         <l pos="V">bli dyrere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5867,7 +5867,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lønne_seg</l>
+         <l pos="V">lønne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5881,7 +5881,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klage_på</l>
+         <l pos="V">klage på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5923,7 +5923,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_opprør</l>
+         <l pos="V">gjøre opprør</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5979,7 +5979,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">jage_bort</l>
+         <l pos="V">jage bort</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6049,7 +6049,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_til</l>
+         <l pos="V">legge til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6091,7 +6091,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">samle_seg_opp</l>
+         <l pos="V">samle seg opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6119,7 +6119,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_våt</l>
+         <l pos="V">bli våt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6161,7 +6161,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bryte_av</l>
+         <l pos="V">bryte av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6231,7 +6231,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">titte_på</l>
+         <l pos="V">titte på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6357,7 +6357,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_smalere</l>
+         <l pos="V">gjøre smalere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6385,7 +6385,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_trang</l>
+         <l pos="V">bli trang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6413,7 +6413,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utvikle_seg</l>
+         <l pos="V">utvikle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6497,7 +6497,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skryte_av</l>
+         <l pos="V">skryte av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6525,7 +6525,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">finne_på</l>
+         <l pos="V">finne på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6581,7 +6581,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ferdig</l>
+         <l pos="V">bli ferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6623,7 +6623,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">samle_seg_opp</l>
+         <l pos="V">samle seg opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6693,7 +6693,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_avbrutt</l>
+         <l pos="V">bli avbrutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6707,7 +6707,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">konsentrere_seg</l>
+         <l pos="V">konsentrere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6721,7 +6721,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">samle_sammen</l>
+         <l pos="V">samle sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6833,7 +6833,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til_å_koke</l>
+         <l pos="V">få til å koke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6875,7 +6875,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_avslag</l>
+         <l pos="V">gi avslag</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6959,7 +6959,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sint</l>
+         <l pos="V">bli sint</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7015,7 +7015,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_fast</l>
+         <l pos="V">bli fast</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7043,7 +7043,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_fast</l>
+         <l pos="V">sette fast</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7057,7 +7057,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skynde_seg</l>
+         <l pos="V">skynde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7071,7 +7071,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skynde_seg</l>
+         <l pos="V">skynde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7239,7 +7239,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_lemster</l>
+         <l pos="V">bli lemster</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7253,7 +7253,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_stram</l>
+         <l pos="V">bli stram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7281,7 +7281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stramme_til</l>
+         <l pos="V">stramme til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7379,7 +7379,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">la_skrive</l>
+         <l pos="V">la skrive</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7463,7 +7463,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sint_på_hverandre</l>
+         <l pos="V">bli sint på hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7603,7 +7603,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rette_seg_mot</l>
+         <l pos="V">rette seg mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7617,7 +7617,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fiffe_opp</l>
+         <l pos="V">fiffe opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7981,7 +7981,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">pynte_seg</l>
+         <l pos="V">pynte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8023,7 +8023,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bøte_på</l>
+         <l pos="V">bøte på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8065,7 +8065,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_reparert</l>
+         <l pos="V">få reparert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8191,7 +8191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_borti</l>
+         <l pos="V">komme borti</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8247,7 +8247,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_fuktig</l>
+         <l pos="V">bli fuktig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8317,7 +8317,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lære_opp</l>
+         <l pos="V">lære opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8443,7 +8443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vandre_omkring</l>
+         <l pos="V">vandre omkring</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8499,7 +8499,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sliten</l>
+         <l pos="V">bli sliten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8513,7 +8513,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_slutt</l>
+         <l pos="V">ta slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8555,7 +8555,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bøye_seg</l>
+         <l pos="V">bøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8639,7 +8639,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_ugyldig</l>
+         <l pos="V">gjøre ugyldig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8793,7 +8793,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snurpe_sammen</l>
+         <l pos="V">snurpe sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9031,7 +9031,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_varm</l>
+         <l pos="V">bli varm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9143,7 +9143,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forestille_seg</l>
+         <l pos="V">forestille seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9185,7 +9185,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_lei</l>
+         <l pos="V">bli lei</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9269,7 +9269,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ferdigkokt_bli_moden</l>
+         <l pos="V">bli ferdigkokt bli moden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9325,7 +9325,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">koble_seg_til</l>
+         <l pos="V">koble seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9563,7 +9563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjømme_seg</l>
+         <l pos="V">gjømme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9619,7 +9619,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stikke_innom</l>
+         <l pos="V">stikke innom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9675,7 +9675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_i_gang</l>
+         <l pos="V">få i gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9703,7 +9703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppføre_seg</l>
+         <l pos="V">oppføre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9745,7 +9745,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vende_om</l>
+         <l pos="V">vende om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9759,7 +9759,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snu_seg</l>
+         <l pos="V">snu seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9815,7 +9815,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_fattig</l>
+         <l pos="V">bli fattig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9843,7 +9843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utvide_seg</l>
+         <l pos="V">utvide seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9927,7 +9927,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">laste_ned</l>
+         <l pos="V">laste ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9969,7 +9969,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_mager</l>
+         <l pos="V">bli mager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10039,7 +10039,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">låne_bort</l>
+         <l pos="V">låne bort</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10249,7 +10249,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">la_renne</l>
+         <l pos="V">la renne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10319,7 +10319,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_av</l>
+         <l pos="V">gå av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10473,7 +10473,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bake_brød</l>
+         <l pos="V">bake brød</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10501,7 +10501,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fly_hit_og_dit</l>
+         <l pos="V">fly hit og dit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10515,7 +10515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stryke_av_sted</l>
+         <l pos="V">stryke av sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10543,7 +10543,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bre_ut</l>
+         <l pos="V">bre ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10557,7 +10557,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bre_seg</l>
+         <l pos="V">bre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10599,7 +10599,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bre_seg</l>
+         <l pos="V">bre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10655,7 +10655,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_feit</l>
+         <l pos="V">bli feit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10683,7 +10683,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bevege_seg</l>
+         <l pos="V">bevege seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10725,7 +10725,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_sammen</l>
+         <l pos="V">gå sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10739,7 +10739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">knytte_seg_til</l>
+         <l pos="V">knytte seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10781,7 +10781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_til</l>
+         <l pos="V">legge til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10809,7 +10809,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forplante_seg</l>
+         <l pos="V">forplante seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10823,7 +10823,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_bløytt</l>
+         <l pos="V">bli bløytt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10851,7 +10851,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bevege_seg</l>
+         <l pos="V">bevege seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10893,7 +10893,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forsvinne_plutselig</l>
+         <l pos="V">forsvinne plutselig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10991,7 +10991,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_ned</l>
+         <l pos="V">legge ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11005,7 +11005,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_slutt</l>
+         <l pos="V">ta slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11019,7 +11019,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rote_opp</l>
+         <l pos="V">rote opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11075,7 +11075,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skade_seg</l>
+         <l pos="V">skade seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11103,7 +11103,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til_å_lese</l>
+         <l pos="V">få til å lese</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11131,7 +11131,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_på_skøyter</l>
+         <l pos="V">gå på skøyter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11201,7 +11201,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_innløst</l>
+         <l pos="V">bli innløst</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11215,7 +11215,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">løse_ut</l>
+         <l pos="V">løse ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11341,7 +11341,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stole_på</l>
+         <l pos="V">stole på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11467,7 +11467,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nærme_seg</l>
+         <l pos="V">nærme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11481,7 +11481,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nærme_seg</l>
+         <l pos="V">nærme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11509,7 +11509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nærme_seg</l>
+         <l pos="V">nærme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11537,7 +11537,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå_med_flat_hånd</l>
+         <l pos="V">slå med flat hånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11565,7 +11565,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_varm</l>
+         <l pos="V">bli varm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11593,7 +11593,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">varme_opp</l>
+         <l pos="V">varme opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11607,7 +11607,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_varm</l>
+         <l pos="V">bli varm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11635,7 +11635,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">behandle_for_sykdom</l>
+         <l pos="V">behandle for sykdom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11733,7 +11733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_plass</l>
+         <l pos="V">få plass</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11761,7 +11761,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reklamere_for</l>
+         <l pos="V">reklamere for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11789,7 +11789,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smake_på</l>
+         <l pos="V">smake på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11859,7 +11859,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_ro_til_noe</l>
+         <l pos="V">få ro til noe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11887,7 +11887,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_deprimert</l>
+         <l pos="V">gjøre deprimert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11901,7 +11901,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_deprimert</l>
+         <l pos="V">bli deprimert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12013,7 +12013,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_opptøyer</l>
+         <l pos="V">gjøre opptøyer</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12069,7 +12069,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppføre_seg</l>
+         <l pos="V">oppføre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12083,7 +12083,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_fram</l>
+         <l pos="V">gå fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12209,7 +12209,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">straks_like</l>
+         <l pos="V">straks like</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12377,7 +12377,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dumme_seg_ut</l>
+         <l pos="V">dumme seg ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12475,7 +12475,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forme_seg</l>
+         <l pos="V">forme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12601,7 +12601,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dreie_seg</l>
+         <l pos="V">dreie seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12671,7 +12671,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forandre_seg</l>
+         <l pos="V">forandre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12699,7 +12699,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forsinket</l>
+         <l pos="V">bli forsinket</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12741,7 +12741,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tygge_drøv</l>
+         <l pos="V">tygge drøv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12881,7 +12881,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_samleie</l>
+         <l pos="V">ha samleie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12951,7 +12951,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_på_å_le</l>
+         <l pos="V">holde på å le</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12993,7 +12993,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_råd</l>
+         <l pos="V">gi råd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13105,7 +13105,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå_gras</l>
+         <l pos="V">slå gras</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13217,7 +13217,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lene_seg</l>
+         <l pos="V">lene seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13231,7 +13231,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lene_seg</l>
+         <l pos="V">lene seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13287,7 +13287,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reise_opp</l>
+         <l pos="V">reise opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13343,7 +13343,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_til_etterretning</l>
+         <l pos="V">ta til etterretning</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13357,7 +13357,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">heve_seg</l>
+         <l pos="V">heve seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13455,7 +13455,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fiske_med_not</l>
+         <l pos="V">fiske med not</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13469,7 +13469,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rykke_til</l>
+         <l pos="V">rykke til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13567,7 +13567,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_seg</l>
+         <l pos="V">vise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13609,7 +13609,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vente_lenge</l>
+         <l pos="V">vente lenge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13679,7 +13679,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rette_ut</l>
+         <l pos="V">rette ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13693,7 +13693,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rette_ut</l>
+         <l pos="V">rette ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13763,7 +13763,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">strekke_ut</l>
+         <l pos="V">strekke ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13805,7 +13805,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til_å_spy</l>
+         <l pos="V">få til å spy</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13819,7 +13819,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppholde_seg</l>
+         <l pos="V">oppholde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13861,7 +13861,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilegne_seg</l>
+         <l pos="V">tilegne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13959,7 +13959,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_veg</l>
+         <l pos="V">vise veg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13973,7 +13973,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lære_seg</l>
+         <l pos="V">lære seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14169,7 +14169,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klumpe_seg</l>
+         <l pos="V">klumpe seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14225,7 +14225,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_verre</l>
+         <l pos="V">gjøre verre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14421,7 +14421,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tynges_ned</l>
+         <l pos="V">tynges ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14505,7 +14505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">pakke_inn</l>
+         <l pos="V">pakke inn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14575,7 +14575,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vende_tilbake</l>
+         <l pos="V">vende tilbake</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14757,7 +14757,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">satse,_lade</l>
+         <l pos="V">satse, lade</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14799,7 +14799,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_bedre</l>
+         <l pos="V">bli bedre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14841,7 +14841,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_myk</l>
+         <l pos="V">bli myk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14953,7 +14953,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_ei_innføring</l>
+         <l pos="V">gi ei innføring</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15135,7 +15135,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vaske_seg</l>
+         <l pos="V">vaske seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15177,7 +15177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_skuffet</l>
+         <l pos="V">bli skuffet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15205,7 +15205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_på_noe</l>
+         <l pos="V">holde på noe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15247,7 +15247,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_igjen</l>
+         <l pos="V">holde igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15331,7 +15331,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjømme_seg</l>
+         <l pos="V">gjømme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15373,7 +15373,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ødelagt</l>
+         <l pos="V">bli ødelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15415,7 +15415,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_narr_av</l>
+         <l pos="V">gjøre narr av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15443,7 +15443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_mørkt</l>
+         <l pos="V">bli mørkt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15527,7 +15527,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">henholde_seg</l>
+         <l pos="V">henholde seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15611,7 +15611,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_unger</l>
+         <l pos="V">få unger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15667,7 +15667,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fjerne_seg</l>
+         <l pos="V">fjerne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15765,7 +15765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_syk</l>
+         <l pos="V">være syk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15905,7 +15905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blåse_lenge</l>
+         <l pos="V">blåse lenge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15989,7 +15989,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_hullet</l>
+         <l pos="V">bli hullet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16073,7 +16073,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kle_på</l>
+         <l pos="V">kle på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16087,7 +16087,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kle_på_seg</l>
+         <l pos="V">kle på seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16199,7 +16199,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bite_litt</l>
+         <l pos="V">bite litt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16311,7 +16311,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_fra_hverandre</l>
+         <l pos="V">ta fra hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16325,7 +16325,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">løse_opp</l>
+         <l pos="V">løse opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16367,7 +16367,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gripe_inn</l>
+         <l pos="V">gripe inn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16395,7 +16395,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">streve_etter</l>
+         <l pos="V">streve etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16409,7 +16409,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reise_opp</l>
+         <l pos="V">reise opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16745,7 +16745,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">greie_seg</l>
+         <l pos="V">greie seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16801,7 +16801,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slippe_løs</l>
+         <l pos="V">slippe løs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16871,7 +16871,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">konkludere_med</l>
+         <l pos="V">konkludere med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16899,7 +16899,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_slutt</l>
+         <l pos="V">ta slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16969,7 +16969,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_til_å</l>
+         <l pos="V">komme til å</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16983,7 +16983,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">å_bli_støvet</l>
+         <l pos="V">å bli støvet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17011,7 +17011,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrape_såvidt</l>
+         <l pos="V">skrape såvidt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17081,7 +17081,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_rasende</l>
+         <l pos="V">bli rasende</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17137,7 +17137,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forelske_seg</l>
+         <l pos="V">forelske seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17151,7 +17151,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">la_bygge</l>
+         <l pos="V">la bygge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17207,7 +17207,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">åpne_på_gløtt</l>
+         <l pos="V">åpne på gløtt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17319,7 +17319,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle_for_tidsfristen</l>
+         <l pos="V">falle for tidsfristen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17361,7 +17361,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">frede_roe_ned</l>
+         <l pos="V">frede roe ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17515,7 +17515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stryke_til_eksamen</l>
+         <l pos="V">stryke til eksamen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17599,7 +17599,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vikle_opp</l>
+         <l pos="V">vikle opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17641,7 +17641,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_rik</l>
+         <l pos="V">bli rik</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17711,7 +17711,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå_istykker</l>
+         <l pos="V">slå istykker</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17739,7 +17739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ødelagt</l>
+         <l pos="V">bli ødelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17837,7 +17837,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bryte_sammen</l>
+         <l pos="V">bryte sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18033,7 +18033,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springe_i_flokk</l>
+         <l pos="V">springe i flokk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18243,7 +18243,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_syk</l>
+         <l pos="V">være syk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18271,7 +18271,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_syk</l>
+         <l pos="V">bli syk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18327,7 +18327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_hemmelig</l>
+         <l pos="V">holde hemmelig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18509,7 +18509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reise_seg</l>
+         <l pos="V">reise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18537,7 +18537,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_stående</l>
+         <l pos="V">bli stående</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18579,7 +18579,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blande_sammen</l>
+         <l pos="V">blande sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18621,7 +18621,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_oppholdsvær</l>
+         <l pos="V">bli oppholdsvær</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18719,7 +18719,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">finne_ut</l>
+         <l pos="V">finne ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18761,7 +18761,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_til_besinnelse</l>
+         <l pos="V">komme til besinnelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18775,7 +18775,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">greie_seg</l>
+         <l pos="V">greie seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18943,7 +18943,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_reint</l>
+         <l pos="V">gjøre reint</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18985,7 +18985,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_reint</l>
+         <l pos="V">gjøre reint</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19013,7 +19013,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">befinne_seg</l>
+         <l pos="V">befinne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19083,7 +19083,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">se_litt_på</l>
+         <l pos="V">se litt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19111,7 +19111,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skjære_i_små_biter</l>
+         <l pos="V">skjære i små biter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19223,7 +19223,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_bundet</l>
+         <l pos="V">bli bundet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19237,7 +19237,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forplikte_seg</l>
+         <l pos="V">forplikte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19419,7 +19419,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">føre_krig</l>
+         <l pos="V">føre krig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19433,7 +19433,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rote_til</l>
+         <l pos="V">rote til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19671,7 +19671,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sperre_av</l>
+         <l pos="V">sperre av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19797,7 +19797,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rette_ut</l>
+         <l pos="V">rette ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19825,7 +19825,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ferdig</l>
+         <l pos="V">bli ferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19881,7 +19881,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_med_på</l>
+         <l pos="V">gå med på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19895,7 +19895,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bøye_seg</l>
+         <l pos="V">bøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19937,7 +19937,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_trang</l>
+         <l pos="V">bli trang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20049,7 +20049,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rette_seg</l>
+         <l pos="V">rette seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20063,7 +20063,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_sikte_på</l>
+         <l pos="V">ta sikte på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20105,7 +20105,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_større</l>
+         <l pos="V">bli større</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20119,7 +20119,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_stor</l>
+         <l pos="V">bli stor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20147,7 +20147,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sint</l>
+         <l pos="V">bli sint</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20175,7 +20175,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_sint</l>
+         <l pos="V">gjøre sint</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20315,7 +20315,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tenne_på</l>
+         <l pos="V">tenne på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20511,7 +20511,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_redd</l>
+         <l pos="V">bli redd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20623,7 +20623,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_i_stykker</l>
+         <l pos="V">gå i stykker</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20651,7 +20651,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">farge_av</l>
+         <l pos="V">farge av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20679,7 +20679,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">synes_synd_på</l>
+         <l pos="V">synes synd på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20833,7 +20833,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bøye_seg</l>
+         <l pos="V">bøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21141,7 +21141,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå_med_flat_hånd</l>
+         <l pos="V">slå med flat hånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21281,7 +21281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_sykdom_til_å_smitte</l>
+         <l pos="V">få sykdom til å smitte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21365,7 +21365,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_jevnere</l>
+         <l pos="V">bli jevnere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21393,7 +21393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">prøve_å_nå</l>
+         <l pos="V">prøve å nå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21421,7 +21421,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_tak_i</l>
+         <l pos="V">få tak i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21435,7 +21435,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">late_som</l>
+         <l pos="V">late som</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21449,7 +21449,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">la_gjøre</l>
+         <l pos="V">la gjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21463,7 +21463,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_noen_til_å_gjøre</l>
+         <l pos="V">få noen til å gjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21519,7 +21519,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">late_som</l>
+         <l pos="V">late som</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21533,7 +21533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hilse_på</l>
+         <l pos="V">hilse på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21617,7 +21617,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forhøre_seg</l>
+         <l pos="V">forhøre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21855,7 +21855,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_seg</l>
+         <l pos="V">komme seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21897,7 +21897,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjenta_seg</l>
+         <l pos="V">gjenta seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22079,7 +22079,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_vant</l>
+         <l pos="V">bli vant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22177,7 +22177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">demme_opp</l>
+         <l pos="V">demme opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22247,7 +22247,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrive_ut</l>
+         <l pos="V">skrive ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22261,7 +22261,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_flom</l>
+         <l pos="V">bli flom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22275,7 +22275,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flomme_over</l>
+         <l pos="V">flomme over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22303,7 +22303,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trengeseg_på</l>
+         <l pos="V">trengeseg på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22331,7 +22331,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kjenne_igjen</l>
+         <l pos="V">kjenne igjen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22541,7 +22541,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_noe_trygt</l>
+         <l pos="V">gjøre noe trygt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22555,7 +22555,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stole_på</l>
+         <l pos="V">stole på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22583,7 +22583,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_gretten</l>
+         <l pos="V">bli gretten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22625,7 +22625,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forske_på</l>
+         <l pos="V">forske på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22639,7 +22639,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_kjent</l>
+         <l pos="V">bli kjent</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22681,7 +22681,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_tom</l>
+         <l pos="V">bli tom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22723,7 +22723,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_det_kjedelig</l>
+         <l pos="V">ha det kjedelig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22765,7 +22765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_slutt</l>
+         <l pos="V">ta slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22793,7 +22793,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nøye_seg_med</l>
+         <l pos="V">nøye seg med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22905,7 +22905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_full</l>
+         <l pos="V">bli full</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22975,7 +22975,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stå_oppreist</l>
+         <l pos="V">stå oppreist</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23199,7 +23199,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_idrett</l>
+         <l pos="V">drive idrett</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23283,7 +23283,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ivre_for</l>
+         <l pos="V">ivre for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23535,7 +23535,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hysse_på</l>
+         <l pos="V">hysse på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23619,7 +23619,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">byttes_ut</l>
+         <l pos="V">byttes ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23717,7 +23717,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snuse_på</l>
+         <l pos="V">snuse på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23885,7 +23885,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">velge_ut</l>
+         <l pos="V">velge ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24039,7 +24039,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_seg_klar</l>
+         <l pos="V">gjøre seg klar</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24067,7 +24067,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_seg_klar</l>
+         <l pos="V">gjøre seg klar</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24095,7 +24095,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ferdig</l>
+         <l pos="V">bli ferdig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24179,7 +24179,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">føre_tilsyn</l>
+         <l pos="V">føre tilsyn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24235,7 +24235,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">våke_over</l>
+         <l pos="V">våke over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24263,7 +24263,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_gammel</l>
+         <l pos="V">bli gammel</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24389,7 +24389,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_på_lager</l>
+         <l pos="V">sette på lager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24445,7 +24445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forberede_seg_for</l>
+         <l pos="V">forberede seg for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24515,7 +24515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">passe_seg_for</l>
+         <l pos="V">passe seg for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24585,7 +24585,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_seg_klar</l>
+         <l pos="V">gjøre seg klar</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24599,7 +24599,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_imot</l>
+         <l pos="V">ta imot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24683,7 +24683,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forgjeldet</l>
+         <l pos="V">bli forgjeldet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24753,7 +24753,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dekke_til</l>
+         <l pos="V">dekke til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24781,7 +24781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_seg</l>
+         <l pos="V">vise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24809,7 +24809,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trekke_seg</l>
+         <l pos="V">trekke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24851,7 +24851,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bringe_bort</l>
+         <l pos="V">bringe bort</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24893,7 +24893,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rulle,_scrolle</l>
+         <l pos="V">rulle, scrolle</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24963,7 +24963,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_rasende</l>
+         <l pos="V">bli rasende</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25019,7 +25019,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ymte_om</l>
+         <l pos="V">ymte om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25131,7 +25131,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_heftet</l>
+         <l pos="V">bli heftet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25145,7 +25145,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_påståelig</l>
+         <l pos="V">være påståelig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25187,7 +25187,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">peke_på_noe</l>
+         <l pos="V">peke på noe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25201,7 +25201,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rekke_opp_hånda</l>
+         <l pos="V">rekke opp hånda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25243,7 +25243,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forsinket</l>
+         <l pos="V">bli forsinket</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25285,7 +25285,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">se_litt_på</l>
+         <l pos="V">se litt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25327,7 +25327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_opp</l>
+         <l pos="V">sette opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25495,7 +25495,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bygsle_bort</l>
+         <l pos="V">bygsle bort</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25509,7 +25509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">leie_av_noen</l>
+         <l pos="V">leie av noen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25649,7 +25649,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bry_seg_om</l>
+         <l pos="V">bry seg om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25789,7 +25789,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">farge_av</l>
+         <l pos="V">farge av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25845,7 +25845,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trøtte_ut</l>
+         <l pos="V">trøtte ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25859,7 +25859,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_trøtt</l>
+         <l pos="V">bli trøtt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25929,7 +25929,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vri_seg</l>
+         <l pos="V">vri seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26027,7 +26027,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_vanligere</l>
+         <l pos="V">bli vanligere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26167,7 +26167,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_i_hevd</l>
+         <l pos="V">holde i hevd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26223,7 +26223,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_overraska</l>
+         <l pos="V">bli overraska</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26251,7 +26251,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">strekke_seg_ut_til</l>
+         <l pos="V">strekke seg ut til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26349,7 +26349,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_vett_til</l>
+         <l pos="V">ha vett til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26391,7 +26391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_gretten</l>
+         <l pos="V">bli gretten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26405,7 +26405,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_en_lyd_fra_seg_som_ikke_er_en_språklyd</l>
+         <l pos="V">gi en lyd fra seg som ikke er en språklyd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26447,7 +26447,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vurdere_høyt</l>
+         <l pos="V">vurdere høyt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26517,7 +26517,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_på_med_turn</l>
+         <l pos="V">drive på med turn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26559,7 +26559,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gynge_slingre</l>
+         <l pos="V">gynge slingre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26797,7 +26797,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_på_tur</l>
+         <l pos="V">gå på tur</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26811,7 +26811,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kle_av_seg</l>
+         <l pos="V">kle av seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26825,7 +26825,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_badstue</l>
+         <l pos="V">ta badstue</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26853,7 +26853,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sjenere_seg</l>
+         <l pos="V">sjenere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26909,7 +26909,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vurdere_lavt</l>
+         <l pos="V">vurdere lavt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -26951,7 +26951,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flytte_seg</l>
+         <l pos="V">flytte seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27049,7 +27049,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">plassere_seg</l>
+         <l pos="V">plassere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27091,7 +27091,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fordele_seg</l>
+         <l pos="V">fordele seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27105,7 +27105,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forholde_seg_til</l>
+         <l pos="V">forholde seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27189,7 +27189,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_interessert</l>
+         <l pos="V">bli interessert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27203,7 +27203,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_selvstendig</l>
+         <l pos="V">bli selvstendig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27245,7 +27245,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_egg</l>
+         <l pos="V">legge egg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27329,7 +27329,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vise_seg</l>
+         <l pos="V">vise seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27357,7 +27357,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">basere_seg_på</l>
+         <l pos="V">basere seg på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27371,7 +27371,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">minske_i_antall</l>
+         <l pos="V">minske i antall</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27441,7 +27441,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_lettere</l>
+         <l pos="V">bli lettere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27455,7 +27455,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå_knyte_på</l>
+         <l pos="V">slå knyte på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27469,7 +27469,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spesialisere_seg</l>
+         <l pos="V">spesialisere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27525,7 +27525,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fordele_seg</l>
+         <l pos="V">fordele seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27567,7 +27567,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">erklære_seg</l>
+         <l pos="V">erklære seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27595,7 +27595,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dra_fordel_av</l>
+         <l pos="V">dra fordel av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27637,7 +27637,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oversette_til_finsk</l>
+         <l pos="V">oversette til finsk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27679,7 +27679,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilpasse_seg</l>
+         <l pos="V">tilpasse seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27693,7 +27693,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">organisere_seg</l>
+         <l pos="V">organisere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27735,7 +27735,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_i_gang</l>
+         <l pos="V">gå i gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27749,7 +27749,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_spørsmålstegn_ved</l>
+         <l pos="V">sette spørsmålstegn ved</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27791,7 +27791,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">liste_opp</l>
+         <l pos="V">liste opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27875,7 +27875,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_greit</l>
+         <l pos="V">gå greit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -27987,7 +27987,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">åpne_seg</l>
+         <l pos="V">åpne seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28029,7 +28029,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_seg_skyldig_i</l>
+         <l pos="V">gjøre seg skyldig i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28043,7 +28043,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">registrere_seg</l>
+         <l pos="V">registrere seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28071,7 +28071,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">glede_seg_over</l>
+         <l pos="V">glede seg over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28169,7 +28169,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bekymre_seg</l>
+         <l pos="V">bekymre seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28183,7 +28183,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_såret</l>
+         <l pos="V">bli såret</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28197,7 +28197,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">irritere_seg_over</l>
+         <l pos="V">irritere seg over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28253,7 +28253,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_uthevet</l>
+         <l pos="V">bli uthevet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28281,7 +28281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette_seg_inn_i</l>
+         <l pos="V">sette seg inn i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28309,7 +28309,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_eldre</l>
+         <l pos="V">bli eldre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28337,7 +28337,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sikker</l>
+         <l pos="V">bli sikker</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28463,7 +28463,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">øke_hastigheten</l>
+         <l pos="V">øke hastigheten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28491,7 +28491,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_bygd</l>
+         <l pos="V">bli bygd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28505,7 +28505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dukke_opp</l>
+         <l pos="V">dukke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28645,7 +28645,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_fornøyd</l>
+         <l pos="V">være fornøyd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28687,7 +28687,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_enklere</l>
+         <l pos="V">bli enklere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28729,7 +28729,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til_å_snakke</l>
+         <l pos="V">få til å snakke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28757,7 +28757,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spare_seg</l>
+         <l pos="V">spare seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28785,7 +28785,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">introdusere_seg_selv</l>
+         <l pos="V">introdusere seg selv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28827,7 +28827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_forferdelig</l>
+         <l pos="V">være forferdelig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28841,7 +28841,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_vertskap_for</l>
+         <l pos="V">være vertskap for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28855,7 +28855,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fornye_seg</l>
+         <l pos="V">fornye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28883,7 +28883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_på_med</l>
+         <l pos="V">holde på med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28911,7 +28911,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">si_seg_lei_for</l>
+         <l pos="V">si seg lei for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28925,7 +28925,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sakne_farta</l>
+         <l pos="V">sakne farta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28981,7 +28981,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_merke_til</l>
+         <l pos="V">legge merke til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29023,7 +29023,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_overraska</l>
+         <l pos="V">være overraska</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29051,7 +29051,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trekke_opp_linjene_for</l>
+         <l pos="V">trekke opp linjene for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29079,7 +29079,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_voksen</l>
+         <l pos="V">bli voksen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29093,7 +29093,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_tettere</l>
+         <l pos="V">bli tettere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29121,7 +29121,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi_vei</l>
+         <l pos="V">gi vei</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29135,7 +29135,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilby_seg</l>
+         <l pos="V">tilby seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29163,7 +29163,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_forvirrende</l>
+         <l pos="V">være forvirrende</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29177,7 +29177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">køe_stå_i_kø</l>
+         <l pos="V">køe stå i kø</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29191,7 +29191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå_rundt_rotere</l>
+         <l pos="V">gå rundt rotere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29219,7 +29219,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tre_i_kraft</l>
+         <l pos="V">tre i kraft</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29233,7 +29233,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begrense_seg</l>
+         <l pos="V">begrense seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29261,7 +29261,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_skada</l>
+         <l pos="V">bli skada</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29289,7 +29289,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_eldre</l>
+         <l pos="V">bli eldre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29303,7 +29303,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bry_seg_om</l>
+         <l pos="V">bry seg om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29331,7 +29331,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fornye_seg</l>
+         <l pos="V">fornye seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29359,7 +29359,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slite_seg_ut</l>
+         <l pos="V">slite seg ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29373,7 +29373,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tippe_gjette</l>
+         <l pos="V">tippe gjette</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29387,7 +29387,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_sammen</l>
+         <l pos="V">legge sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29401,7 +29401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_på_og_love</l>
+         <l pos="V">drive på og love</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29415,7 +29415,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forurensa</l>
+         <l pos="V">bli forurensa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29443,7 +29443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_nervøs</l>
+         <l pos="V">bli nervøs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29485,7 +29485,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_på_vakt</l>
+         <l pos="V">være på vakt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29499,7 +29499,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">le_xxx</l>
+         <l pos="V">le xxx</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29513,7 +29513,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_seg_i_stand</l>
+         <l pos="V">gjøre seg i stand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29527,7 +29527,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rulle_over_bulldose_seg_fram</l>
+         <l pos="V">rulle over bulldose seg fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29541,7 +29541,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_utbrudd</l>
+         <l pos="V">få utbrudd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29569,7 +29569,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle_for</l>
+         <l pos="V">falle for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29583,7 +29583,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_på_og_klage</l>
+         <l pos="V">drive på og klage</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29611,7 +29611,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_behandlet</l>
+         <l pos="V">bli behandlet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29625,7 +29625,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_interessant</l>
+         <l pos="V">være interessant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29667,7 +29667,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kvikke_opp</l>
+         <l pos="V">kvikke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29695,7 +29695,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stikke_innom</l>
+         <l pos="V">stikke innom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29709,7 +29709,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kaste_seg_inn_i</l>
+         <l pos="V">kaste seg inn i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29723,7 +29723,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slappe_av</l>
+         <l pos="V">slappe av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29737,7 +29737,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_opp_status</l>
+         <l pos="V">gjøre opp status</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29765,7 +29765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">regne_ut</l>
+         <l pos="V">regne ut</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29779,7 +29779,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ligge_eller_havne_på_et_lavere_nivå_enn_noe_annet</l>
+         <l pos="V">ligge eller havne på et lavere nivå enn noe annet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29793,7 +29793,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lure_på</l>
+         <l pos="V">lure på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29807,7 +29807,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta_i_betraktning</l>
+         <l pos="V">ta i betraktning</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29891,7 +29891,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre_forretninger</l>
+         <l pos="V">gjøre forretninger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29919,7 +29919,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_overskredet</l>
+         <l pos="V">bli overskredet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29961,7 +29961,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spille_inn_på_plate</l>
+         <l pos="V">spille inn på plate</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29989,7 +29989,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">prøve_hardt</l>
+         <l pos="V">prøve hardt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30003,7 +30003,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_med_idéer</l>
+         <l pos="V">komme med idéer</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30017,7 +30017,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde_konsert</l>
+         <l pos="V">holde konsert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30101,7 +30101,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">starte_opp</l>
+         <l pos="V">starte opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30129,7 +30129,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_sammen</l>
+         <l pos="V">legge sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30157,7 +30157,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">drive_med_pusle_med</l>
+         <l pos="V">drive med pusle med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30185,7 +30185,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">driste_seg_til_å</l>
+         <l pos="V">driste seg til å</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30199,7 +30199,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bryte_seg_inn</l>
+         <l pos="V">bryte seg inn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30213,7 +30213,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hjelpe_fram</l>
+         <l pos="V">hjelpe fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30241,7 +30241,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_sterkere</l>
+         <l pos="V">bli sterkere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30255,7 +30255,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lukke_seg</l>
+         <l pos="V">lukke seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30297,7 +30297,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lengte_etter</l>
+         <l pos="V">lengte etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30353,7 +30353,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">samle_seg</l>
+         <l pos="V">samle seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30367,7 +30367,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lure_på</l>
+         <l pos="V">lure på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30395,7 +30395,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge_grunnlaget_for</l>
+         <l pos="V">legge grunnlaget for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30409,7 +30409,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha_skrupler</l>
+         <l pos="V">ha skrupler</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30423,7 +30423,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rydde_opp</l>
+         <l pos="V">rydde opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30437,7 +30437,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_ført</l>
+         <l pos="V">bli ført</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30451,7 +30451,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilspisse_seg</l>
+         <l pos="V">tilspisse seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30465,7 +30465,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skygge_over</l>
+         <l pos="V">skygge over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30479,7 +30479,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forplikte_seg_til</l>
+         <l pos="V">forplikte seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30493,7 +30493,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">arbeide_hardt</l>
+         <l pos="V">arbeide hardt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30521,7 +30521,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få_til</l>
+         <l pos="V">få til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30549,7 +30549,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stotre_fram</l>
+         <l pos="V">stotre fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30563,7 +30563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_opprørt</l>
+         <l pos="V">bli opprørt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30591,7 +30591,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">henge_opp</l>
+         <l pos="V">henge opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30633,7 +30633,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_vanskeligere</l>
+         <l pos="V">bli vanskeligere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30647,7 +30647,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_innblandet</l>
+         <l pos="V">bli innblandet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30661,7 +30661,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli_forbløffet</l>
+         <l pos="V">bli forbløffet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30689,7 +30689,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tvile_på</l>
+         <l pos="V">tvile på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30703,7 +30703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forholde_seg_til</l>
+         <l pos="V">forholde seg til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30731,7 +30731,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dukke_opp</l>
+         <l pos="V">dukke opp</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30815,7 +30815,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle_ned</l>
+         <l pos="V">falle ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30829,7 +30829,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme_hjem</l>
+         <l pos="V">komme hjem</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -30885,7 +30885,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være_eventyrlystne</l>
+         <l pos="V">være eventyrlystne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

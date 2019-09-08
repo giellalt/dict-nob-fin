@@ -113,11 +113,11 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">enten_..._eller</l>
+         <l pos="CC">enten ... eller</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="CC">joko_..._tai</t>
+            <t pos="CC">joko ... tai</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -183,7 +183,7 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">selv_om</l>
+         <l pos="CC">selv om</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

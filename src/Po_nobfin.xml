@@ -1,11 +1,11 @@
 <r>
    <e>
       <lg>
-         <l pos="Po">rundt</l>
+         <l pos="Adv">rundt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">ympärille</t>
+            <t pos="Adv">ympärille</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -15,21 +15,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ved_siden_av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Po">muassa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">over</l>
+         <l pos="Pr">over</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -43,8 +29,26 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bak</l>
+         <l pos="Pr">bak</l>
       </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">taakse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takaa</t>
@@ -57,22 +61,17 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bak</l>
+         <l pos="Pr">blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">taakse</t>
+            <t pos="Po">sekaan</t>
             <xg>
               <x></x>
               <xt></xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">blant</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
@@ -82,10 +81,19 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seasta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Po">rundt</l>
+         <l pos="Pr">rundt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -99,7 +107,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">omkring</l>
+         <l pos="Pr">omkring</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -113,7 +121,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">innenfor</l>
+         <l pos="Pr">innenfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -127,7 +135,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">utenfor</l>
+         <l pos="Pr">utenfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141,7 +149,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">etter</l>
+         <l pos="Pr">etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -155,7 +163,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">framfor</l>
+         <l pos="Pr">framfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -169,7 +177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">inni</l>
+         <l pos="Pr">inni</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -183,7 +191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ovenfor</l>
+         <l pos="Pr">ovenfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -197,7 +205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">nedenfor</l>
+         <l pos="Pr">nedenfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -211,7 +219,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">overfor</l>
+         <l pos="Pr">overfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -222,11 +230,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">overfor</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
@@ -239,7 +242,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">utover</l>
+         <l pos="Pr">utover</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -253,7 +256,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mot</l>
+         <l pos="Pr">mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -267,7 +270,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bak</l>
+         <l pos="Pr">bak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -281,7 +284,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">nedenfra</l>
+         <l pos="Pr">nedenfra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -295,7 +298,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">under</l>
+         <l pos="Pr">under</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -306,10 +309,28 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Po">innunder</l>
+         <l pos="Pr">innunder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -323,21 +344,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">under</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Po">alta</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">til</l>
+         <l pos="Pr">til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -351,7 +358,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">fra</l>
+         <l pos="Pr">fra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -365,7 +372,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">foran</l>
+         <l pos="Pr">foran</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -376,11 +383,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">foran</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
@@ -393,7 +395,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i_eie</l>
+         <l pos="Pr">i eie</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -407,7 +409,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">blant</l>
+         <l pos="Pr">blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -421,7 +423,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">med</l>
+         <l pos="Pr">med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -435,7 +437,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">via</l>
+         <l pos="Pr">via</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -449,7 +451,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i_slutten</l>
+         <l pos="Pr">i slutten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -463,7 +465,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">gjennom</l>
+         <l pos="Pr">gjennom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -477,7 +479,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">langs</l>
+         <l pos="Pr">langs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -491,7 +493,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">med</l>
+         <l pos="Pr">med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -505,7 +507,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_vegne_av</l>
+         <l pos="Pr">på vegne av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -519,7 +521,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">opp_på</l>
+         <l pos="Pr">opp på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -533,7 +535,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på</l>
+         <l pos="Pr">på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -547,7 +549,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ned_fra</l>
+         <l pos="Pr">ned fra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -561,7 +563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på</l>
+         <l pos="Pr">på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -575,7 +577,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">oppe_på</l>
+         <l pos="Pr">oppe på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -589,7 +591,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">etter</l>
+         <l pos="Pr">etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -603,7 +605,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">etter</l>
+         <l pos="Pr">etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -617,7 +619,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">etter</l>
+         <l pos="Pr">etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -631,7 +633,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ved_siden_av</l>
+         <l pos="Pr">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -645,7 +647,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i</l>
+         <l pos="Pr">i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -659,7 +661,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">blant</l>
+         <l pos="Pr">blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -673,7 +675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -687,7 +689,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">blant</l>
+         <l pos="Pr">blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -701,7 +703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i</l>
+         <l pos="Pr">i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -715,7 +717,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">blant</l>
+         <l pos="Pr">blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -729,7 +731,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -743,7 +745,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">med</l>
+         <l pos="Pr">med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -757,7 +759,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i</l>
+         <l pos="Pr">i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -771,7 +773,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i_stedet_for</l>
+         <l pos="Pr">i stedet for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -785,7 +787,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i_stedet_for</l>
+         <l pos="Pr">i stedet for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -799,7 +801,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">inn_i</l>
+         <l pos="Pr">inn i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -813,7 +815,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">inn_i</l>
+         <l pos="Pr">inn i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -827,7 +829,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">inne_i</l>
+         <l pos="Pr">inne i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -841,7 +843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">inne_i</l>
+         <l pos="Pr">inne i</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -855,7 +857,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">i_forhold_til</l>
+         <l pos="Pr">i forhold til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -869,7 +871,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">sammenlignet_med</l>
+         <l pos="Pr">sammenlignet med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -883,7 +885,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bak</l>
+         <l pos="Pr">bak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -897,7 +899,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for_..._siden</l>
+         <l pos="Pr">for ... siden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -911,7 +913,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bakenfor</l>
+         <l pos="Pr">bakenfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -925,7 +927,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bakom</l>
+         <l pos="Pr">bakom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -939,7 +941,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bak</l>
+         <l pos="Pr">bak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -953,7 +955,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for</l>
+         <l pos="Pr">for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -967,7 +969,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_grunn_av</l>
+         <l pos="Pr">på grunn av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -981,7 +983,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">bakfra</l>
+         <l pos="Pr">bakfra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -995,7 +997,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">hos</l>
+         <l pos="Pr">hos</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1009,7 +1011,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">hos</l>
+         <l pos="Pr">hos</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1023,7 +1025,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">fra</l>
+         <l pos="Pr">fra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1037,7 +1039,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_grunn_av</l>
+         <l pos="Pr">på grunn av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1051,7 +1053,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_grunnav</l>
+         <l pos="Pr">på grunnav</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1065,7 +1067,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for</l>
+         <l pos="Pr">for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1079,7 +1081,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">derfor</l>
+         <l pos="Pr">derfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1093,7 +1095,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for_..._skyld</l>
+         <l pos="Pr">for ... skyld</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1107,7 +1109,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for</l>
+         <l pos="Pr">for</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1121,7 +1123,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mot</l>
+         <l pos="Pr">mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1135,7 +1137,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mot</l>
+         <l pos="Pr">mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1149,7 +1151,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ved_siden_av</l>
+         <l pos="Pr">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1163,7 +1165,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">(fra)_ved_siden_av</l>
+         <l pos="Pr">(fra) ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1177,7 +1179,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">ved_siden_av</l>
+         <l pos="Pr">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1191,7 +1193,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for_..._skyld</l>
+         <l pos="Pr">for ... skyld</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1205,7 +1207,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_grunn_av</l>
+         <l pos="Pr">på grunn av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1219,7 +1221,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">for_sikkerhets_skyld</l>
+         <l pos="Pr">for sikkerhets skyld</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1233,7 +1235,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">derfor</l>
+         <l pos="Pr">derfor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1247,7 +1249,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1261,7 +1263,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1275,7 +1277,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">imellom</l>
+         <l pos="Pr">imellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1289,7 +1291,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1303,7 +1305,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">imellom</l>
+         <l pos="Pr">imellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1317,7 +1319,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1331,7 +1333,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">imellom</l>
+         <l pos="Pr">imellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1345,7 +1347,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">mellom</l>
+         <l pos="Pr">mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1359,7 +1361,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">imellom</l>
+         <l pos="Pr">imellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1373,7 +1375,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">omkring</l>
+         <l pos="Pr">omkring</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1387,7 +1389,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">rundt</l>
+         <l pos="Pr">rundt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1401,7 +1403,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">uten</l>
+         <l pos="Pr">uten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1415,7 +1417,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">på_tvers_av</l>
+         <l pos="Pr">på tvers av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1429,7 +1431,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">til</l>
+         <l pos="Pr">til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1443,7 +1445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Po">hos</l>
+         <l pos="Pr">hos</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

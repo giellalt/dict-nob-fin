@@ -869,7 +869,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">St._Michel</l>
+         <l pos="Prop">St. Michel</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1289,7 +1289,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">St._Petersburg</l>
+         <l pos="Prop">St. Petersburg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1625,11 +1625,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">Donald_Duck</l>
+         <l pos="Prop">Donald Duck</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Aku_Ankka</t>
+            <t pos="Prop">Aku Ankka</t>
             <xg>
               <x></x>
               <xt></xt>

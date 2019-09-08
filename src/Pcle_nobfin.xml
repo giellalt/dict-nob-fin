@@ -43,7 +43,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">til_og_med</l>
+         <l pos="Pcle">til og med</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -57,7 +57,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">slik_som</l>
+         <l pos="Pcle">slik som</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -71,7 +71,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">akkurat_som</l>
+         <l pos="Pcle">akkurat som</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -505,7 +505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">i_retning_av</l>
+         <l pos="Pcle">i retning av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1121,7 +1121,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">siden_av</l>
+         <l pos="Pcle">siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1205,7 +1205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">noe_ekstra</l>
+         <l pos="Pcle">noe ekstra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1247,7 +1247,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">i_alle_fall</l>
+         <l pos="Pcle">i alle fall</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1359,7 +1359,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pcle">se_ut_til</l>
+         <l pos="Pcle">se ut til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

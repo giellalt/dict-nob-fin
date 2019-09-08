@@ -127,7 +127,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">den_eneste</l>
+         <l pos="A">den eneste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1443,7 +1443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">ikke_ødelagt</l>
+         <l pos="A">ikke ødelagt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1919,7 +1919,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_ulik_størrelse</l>
+         <l pos="A">av ulik størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1961,7 +1961,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">med_forskjellig_navn</l>
+         <l pos="A">med forskjellig navn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3291,7 +3291,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">i_dårlig_form</l>
+         <l pos="A">i dårlig form</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3585,7 +3585,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_bestemt_alder</l>
+         <l pos="A">av en bestemt alder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4019,7 +4019,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">godt_voksen</l>
+         <l pos="A">godt voksen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4145,7 +4145,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">hva_slags</l>
+         <l pos="A">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4439,7 +4439,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">to_i_mellom</l>
+         <l pos="A">to i mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4523,7 +4523,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">med_to_sylindre</l>
+         <l pos="A">med to sylindre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5965,7 +5965,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_gull</l>
+         <l pos="A">av gull</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7827,7 +7827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">hva_slags</l>
+         <l pos="A">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7841,7 +7841,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">noen_slags</l>
+         <l pos="A">noen slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7911,7 +7911,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">forskjellige_slags</l>
+         <l pos="A">forskjellige slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8471,7 +8471,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">med_navnet</l>
+         <l pos="A">med navnet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9353,7 +9353,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">ganske_mye</l>
+         <l pos="A">ganske mye</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9577,7 +9577,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">begjærlig_etter</l>
+         <l pos="A">begjærlig etter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12027,7 +12027,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">lei_seg</l>
+         <l pos="A">lei seg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13287,7 +13287,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">slik_som_det_der</l>
+         <l pos="A">slik som det der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13609,7 +13609,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">en_slik</l>
+         <l pos="A">en slik</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14267,7 +14267,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">vanskelig_å_gå</l>
+         <l pos="A">vanskelig å gå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14491,7 +14491,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">helt_hvit</l>
+         <l pos="A">helt hvit</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -16367,7 +16367,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">nordøst_nordøstlig</l>
+         <l pos="A">nordøst nordøstlig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17445,7 +17445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">en_slags</l>
+         <l pos="A">en slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17585,7 +17585,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">retta_mot</l>
+         <l pos="A">retta mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17739,7 +17739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">mindre_enn</l>
+         <l pos="A">mindre enn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -17795,7 +17795,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">en_slags</l>
+         <l pos="A">en slags</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18173,7 +18173,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">person_på_venstresida</l>
+         <l pos="A">person på venstresida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18467,7 +18467,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">liten_av_størrelse</l>
+         <l pos="A">liten av størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18509,7 +18509,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_tre</l>
+         <l pos="A">av tre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18747,7 +18747,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">med_samme_navn</l>
+         <l pos="A">med samme navn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -18971,7 +18971,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">stor_av_størrelse</l>
+         <l pos="A">stor av størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19461,7 +19461,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">person_på_høyresida</l>
+         <l pos="A">person på høyresida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19741,7 +19741,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">ikke_bundet</l>
+         <l pos="A">ikke bundet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19853,7 +19853,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">litt_liten</l>
+         <l pos="A">litt liten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -19923,7 +19923,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">den_som_er_ved_siden_av</l>
+         <l pos="A">den som er ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20273,7 +20273,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">liten_av_størrelse</l>
+         <l pos="A">liten av størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20301,7 +20301,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_ikke_hører_til</l>
+         <l pos="A">som ikke hører til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20889,7 +20889,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">mot_betaling</l>
+         <l pos="A">mot betaling</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -20931,7 +20931,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_er_på_sørsida</l>
+         <l pos="A">som er på sørsida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21169,7 +21169,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">laga_av_sølv</l>
+         <l pos="A">laga av sølv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21295,7 +21295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_middels_størrelse</l>
+         <l pos="A">av middels størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21323,7 +21323,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_må_betales</l>
+         <l pos="A">som må betales</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21351,7 +21351,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_høyde</l>
+         <l pos="A">av en viss høyde</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21575,7 +21575,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_farge</l>
+         <l pos="A">av en viss farge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -21813,7 +21813,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">fra_jernalderen</l>
+         <l pos="A">fra jernalderen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22065,7 +22065,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_kreves</l>
+         <l pos="A">som kreves</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22079,7 +22079,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">en_slik_en</l>
+         <l pos="A">en slik en</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22121,7 +22121,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_skal_flyttes</l>
+         <l pos="A">som skal flyttes</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22317,7 +22317,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">værende_i_naturtilstand</l>
+         <l pos="A">værende i naturtilstand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22345,7 +22345,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_høy_kvalitet</l>
+         <l pos="A">av høy kvalitet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22821,7 +22821,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">tilhørende_universitetet</l>
+         <l pos="A">tilhørende universitetet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -22989,7 +22989,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_tjukkelse</l>
+         <l pos="A">av en viss tjukkelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23087,7 +23087,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_styrke</l>
+         <l pos="A">av en viss styrke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23101,7 +23101,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_retning</l>
+         <l pos="A">av en viss retning</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23157,7 +23157,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">i_diameter</l>
+         <l pos="A">i diameter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23479,7 +23479,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">som_går_med_tap</l>
+         <l pos="A">som går med tap</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23563,7 +23563,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">på_høyt_nivå</l>
+         <l pos="A">på høyt nivå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23773,7 +23773,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">i_ferd_med_å_bli_oppløst</l>
+         <l pos="A">i ferd med å bli oppløst</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23927,7 +23927,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_en_viss_bredde</l>
+         <l pos="A">av en viss bredde</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -23941,7 +23941,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">ute_av_stand_til_å_fly</l>
+         <l pos="A">ute av stand til å fly</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25453,7 +25453,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">etter_døden</l>
+         <l pos="A">etter døden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25649,7 +25649,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">av_høy_kvalitet</l>
+         <l pos="A">av høy kvalitet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -25915,7 +25915,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">på_nordsida</l>
+         <l pos="A">på nordsida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

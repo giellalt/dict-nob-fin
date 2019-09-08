@@ -43,7 +43,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_tide</l>
+         <l pos="Adv">i tide</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -127,7 +127,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">inn_under</l>
+         <l pos="Adv">inn under</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141,7 +141,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_begynnelsen</l>
+         <l pos="Adv">i begynnelsen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -155,7 +155,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_begynnelsen</l>
+         <l pos="Adv">fra begynnelsen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -225,7 +225,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_veien</l>
+         <l pos="Adv">i veien</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -253,7 +253,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_veien</l>
+         <l pos="Adv">i veien</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -295,7 +295,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_går</l>
+         <l pos="Adv">i går</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -323,7 +323,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_det_meste</l>
+         <l pos="Adv">for det meste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -393,7 +393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_det_første</l>
+         <l pos="Adv">for det første</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -421,7 +421,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">først_og_fremst</l>
+         <l pos="Adv">først og fremst</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -533,7 +533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_forhånd</l>
+         <l pos="Adv">på forhånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -617,7 +617,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_morgen</l>
+         <l pos="Adv">i morgen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -715,7 +715,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_blant</l>
+         <l pos="Adv">i blant</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -771,7 +771,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">to_ganger</l>
+         <l pos="Adv">to ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -799,7 +799,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_overalt</l>
+         <l pos="Adv">til overalt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -827,7 +827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt_bort</l>
+         <l pos="Adv">langt bort</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -841,7 +841,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt_borte</l>
+         <l pos="Adv">langt borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -869,7 +869,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">en_gang</l>
+         <l pos="Adv">en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -883,7 +883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">midt_på</l>
+         <l pos="Adv">midt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -897,7 +897,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">midt_på</l>
+         <l pos="Adv">midt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -911,7 +911,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">midt_på</l>
+         <l pos="Adv">midt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -939,7 +939,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_sommeren</l>
+         <l pos="Adv">om sommeren</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -953,7 +953,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_våren</l>
+         <l pos="Adv">om våren</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -995,7 +995,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">midt_på</l>
+         <l pos="Adv">midt på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1191,7 +1191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_slutt</l>
+         <l pos="Adv">til slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1317,7 +1317,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">etter_oppfatning</l>
+         <l pos="Adv">etter oppfatning</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1345,7 +1345,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ikke_noe_sted</l>
+         <l pos="Adv">ikke noe sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1457,7 +1457,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">mange_ganger</l>
+         <l pos="Adv">mange ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1471,7 +1471,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">før_i_tiden</l>
+         <l pos="Adv">før i tiden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1639,7 +1639,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_syne</l>
+         <l pos="Adv">til syne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1653,7 +1653,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_syne</l>
+         <l pos="Adv">til syne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1681,7 +1681,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_synlig</l>
+         <l pos="Adv">fra synlig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1695,7 +1695,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1709,7 +1709,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1765,7 +1765,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">her_og_der</l>
+         <l pos="Adv">her og der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1877,7 +1877,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_tvers</l>
+         <l pos="Adv">på tvers</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1905,7 +1905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_dagen</l>
+         <l pos="Adv">om dagen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2017,7 +2017,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2031,7 +2031,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2045,7 +2045,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_kryss</l>
+         <l pos="Adv">på kryss</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2059,7 +2059,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hemmelighet</l>
+         <l pos="Adv">i hemmelighet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2073,7 +2073,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hemmelighet</l>
+         <l pos="Adv">i hemmelighet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2157,7 +2157,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_det</l>
+         <l pos="Adv">til det</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2185,7 +2185,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_det</l>
+         <l pos="Adv">fra det</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2269,7 +2269,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ut_fra</l>
+         <l pos="Adv">ut fra</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2339,7 +2339,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">rett_rakt</l>
+         <l pos="Adv">rett rakt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2367,7 +2367,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_høsten</l>
+         <l pos="Adv">om høsten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2395,7 +2395,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_en_tid_siden</l>
+         <l pos="Adv">for en tid siden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2409,7 +2409,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_vilje</l>
+         <l pos="Adv">med vilje</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2535,7 +2535,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_det_der_borte</l>
+         <l pos="Adv">til det der borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2549,7 +2549,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">der_borte</l>
+         <l pos="Adv">der borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2577,7 +2577,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">der_borte</l>
+         <l pos="Adv">der borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2591,7 +2591,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">av_det_der_borte</l>
+         <l pos="Adv">av det der borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2605,7 +2605,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_dette</l>
+         <l pos="Adv">til dette</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2647,7 +2647,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_dag</l>
+         <l pos="Adv">i dag</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2675,7 +2675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">av_dette</l>
+         <l pos="Adv">av dette</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2843,7 +2843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">pâ_nytt</l>
+         <l pos="Adv">pâ nytt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2857,7 +2857,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">en_gang_til</l>
+         <l pos="Adv">en gang til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2927,7 +2927,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_mot</l>
+         <l pos="Adv">i mot</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2941,7 +2941,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">mot_hverandre</l>
+         <l pos="Adv">mot hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2955,7 +2955,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">så_mye_som</l>
+         <l pos="Adv">så mye som</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2969,7 +2969,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2983,7 +2983,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -2997,7 +2997,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_ved_siden_av</l>
+         <l pos="Adv">fra ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3081,7 +3081,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_makt</l>
+         <l pos="Adv">med makt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3095,7 +3095,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">inn_mellom</l>
+         <l pos="Adv">inn mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3109,7 +3109,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">av_og_til</l>
+         <l pos="Adv">av og til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3179,7 +3179,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_sammen</l>
+         <l pos="Adv">til sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3193,7 +3193,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_alt</l>
+         <l pos="Adv">i alt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3333,7 +3333,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">opp_ned</l>
+         <l pos="Adv">opp ned</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3389,7 +3389,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_rundt_om_kring</l>
+         <l pos="Adv">fra rundt om kring</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3417,7 +3417,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_en_tid_siden</l>
+         <l pos="Adv">for en tid siden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3445,7 +3445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3459,7 +3459,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av</l>
+         <l pos="Adv">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3473,7 +3473,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_natten</l>
+         <l pos="Adv">om natten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3571,7 +3571,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_tillegg</l>
+         <l pos="Adv">i tillegg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3725,7 +3725,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">nå_for_tida</l>
+         <l pos="Adv">nå for tida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3739,7 +3739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">nå_for_tida</l>
+         <l pos="Adv">nå for tida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3753,7 +3753,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">andre_steder</l>
+         <l pos="Adv">andre steder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3795,7 +3795,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_den_andre_sida</l>
+         <l pos="Adv">på den andre sida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3837,7 +3837,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_lang_tid</l>
+         <l pos="Adv">i lang tid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -3949,7 +3949,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_de_fleste_tilfeller</l>
+         <l pos="Adv">i de fleste tilfeller</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4075,7 +4075,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">av_og_til</l>
+         <l pos="Adv">av og til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4089,7 +4089,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_hverandre</l>
+         <l pos="Adv">med hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4173,7 +4173,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_det_hele_tatt</l>
+         <l pos="Adv">i det hele tatt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4187,7 +4187,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_slutt</l>
+         <l pos="Adv">til slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4257,7 +4257,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">her_og_der</l>
+         <l pos="Adv">her og der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4271,7 +4271,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ut_fram</l>
+         <l pos="Adv">ut fram</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4285,7 +4285,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt_på_veg</l>
+         <l pos="Adv">langt på veg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4425,7 +4425,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_tid_til_annen</l>
+         <l pos="Adv">fra tid til annen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4439,7 +4439,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">over_hele_verden</l>
+         <l pos="Adv">over hele verden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4565,7 +4565,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_all_hovedsak</l>
+         <l pos="Adv">i all hovedsak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4607,7 +4607,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_to</l>
+         <l pos="Adv">i to</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4635,7 +4635,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_slutt</l>
+         <l pos="Adv">til slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4649,7 +4649,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">så_langt</l>
+         <l pos="Adv">så langt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4677,7 +4677,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_sitt_beste</l>
+         <l pos="Adv">på sitt beste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4747,7 +4747,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_kjent</l>
+         <l pos="Adv">som kjent</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4775,7 +4775,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">andre_steder</l>
+         <l pos="Adv">andre steder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4803,7 +4803,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ganske_enkelt</l>
+         <l pos="Adv">ganske enkelt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4831,7 +4831,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_sin_tid</l>
+         <l pos="Adv">i sin tid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4845,7 +4845,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_hverandre</l>
+         <l pos="Adv">fra hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4873,7 +4873,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_stede</l>
+         <l pos="Adv">til stede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4943,7 +4943,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_store_trekk</l>
+         <l pos="Adv">i store trekk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4985,7 +4985,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_forhånd</l>
+         <l pos="Adv">på forhånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5041,7 +5041,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">gjentatte_ganger</l>
+         <l pos="Adv">gjentatte ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5055,7 +5055,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_andre_steder</l>
+         <l pos="Adv">fra andre steder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5125,7 +5125,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">smått_om_senn</l>
+         <l pos="Adv">smått om senn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5153,7 +5153,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt_på_veg</l>
+         <l pos="Adv">langt på veg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5209,7 +5209,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_det_hele_tatt</l>
+         <l pos="Adv">i det hele tatt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5279,7 +5279,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_hånd</l>
+         <l pos="Adv">for hånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5293,7 +5293,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_landsbasis</l>
+         <l pos="Adv">på landsbasis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5307,7 +5307,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">etter_hverandre</l>
+         <l pos="Adv">etter hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5321,7 +5321,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_følger</l>
+         <l pos="Adv">som følger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5349,7 +5349,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_noen_måte</l>
+         <l pos="Adv">på noen måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5363,7 +5363,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_unna</l>
+         <l pos="Adv">lenger unna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5419,7 +5419,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_si_tid</l>
+         <l pos="Adv">i si tid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5433,7 +5433,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">nå_for_tida</l>
+         <l pos="Adv">nå for tida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5447,7 +5447,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">svakt_dårlig</l>
+         <l pos="Adv">svakt dårlig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5475,7 +5475,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_slutt</l>
+         <l pos="Adv">til slutt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5489,7 +5489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_mye</l>
+         <l pos="Adv">for mye</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5657,7 +5657,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">bokstavelig_talt</l>
+         <l pos="Adv">bokstavelig talt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5685,7 +5685,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_før</l>
+         <l pos="Adv">fra før</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5699,7 +5699,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_den_annen_side</l>
+         <l pos="Adv">på den annen side</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5741,7 +5741,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_stede</l>
+         <l pos="Adv">til stede</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5783,7 +5783,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">tre_ganger</l>
+         <l pos="Adv">tre ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5853,7 +5853,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_frivillig_basis</l>
+         <l pos="Adv">på frivillig basis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5951,7 +5951,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">relativt_sett</l>
+         <l pos="Adv">relativt sett</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6077,7 +6077,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_em_måte</l>
+         <l pos="Adv">på em måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6119,7 +6119,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_mer_detalj</l>
+         <l pos="Adv">i mer detalj</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6133,7 +6133,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_høyre</l>
+         <l pos="Adv">til høyre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6147,7 +6147,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_utgangspunktet</l>
+         <l pos="Adv">i utgangspunktet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6175,7 +6175,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_bevegelse</l>
+         <l pos="Adv">i bevegelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6203,7 +6203,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_makta</l>
+         <l pos="Adv">til makta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6245,7 +6245,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">litt_etter_litt</l>
+         <l pos="Adv">litt etter litt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6329,7 +6329,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_makta</l>
+         <l pos="Adv">ved makta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6399,7 +6399,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_gangen</l>
+         <l pos="Adv">om gangen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6427,7 +6427,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_stedet_hvil</l>
+         <l pos="Adv">på stedet hvil</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6483,7 +6483,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_live</l>
+         <l pos="Adv">i live</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6497,7 +6497,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">en_andre_gang</l>
+         <l pos="Adv">en andre gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6637,7 +6637,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">først_av_alt</l>
+         <l pos="Adv">først av alt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6651,7 +6651,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_før</l>
+         <l pos="Adv">som før</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6777,7 +6777,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_ukentlig_basis</l>
+         <l pos="Adv">på ukentlig basis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6861,7 +6861,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_hverandre</l>
+         <l pos="Adv">fra hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6875,7 +6875,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av_hverandre</l>
+         <l pos="Adv">ved siden av hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -6903,7 +6903,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">andre_ganger</l>
+         <l pos="Adv">andre ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7057,7 +7057,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">bokstavelig_talt</l>
+         <l pos="Adv">bokstavelig talt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7113,7 +7113,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">av_seg_selv</l>
+         <l pos="Adv">av seg selv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7155,7 +7155,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_farten</l>
+         <l pos="Adv">på farten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7183,7 +7183,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_en_gang</l>
+         <l pos="Adv">på en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7253,7 +7253,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_toppen</l>
+         <l pos="Adv">på toppen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7281,7 +7281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_ingen_nytte</l>
+         <l pos="Adv">til ingen nytte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7337,7 +7337,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_venstre_side</l>
+         <l pos="Adv">på venstre side</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7407,7 +7407,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_live</l>
+         <l pos="Adv">i live</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7505,7 +7505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_før</l>
+         <l pos="Adv">som før</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7589,7 +7589,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_avstand</l>
+         <l pos="Adv">fra avstand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7673,7 +7673,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_sitt_verste</l>
+         <l pos="Adv">på sitt verste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7701,7 +7701,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_detalj</l>
+         <l pos="Adv">i detalj</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7757,7 +7757,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_vinteren</l>
+         <l pos="Adv">om vinteren</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7785,7 +7785,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_land_til_land</l>
+         <l pos="Adv">fra land til land</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7827,7 +7827,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_avstand</l>
+         <l pos="Adv">fra avstand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7883,7 +7883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fire_ganger</l>
+         <l pos="Adv">fire ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7897,7 +7897,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_et_sted</l>
+         <l pos="Adv">fra et sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7967,7 +7967,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">oppå_hverandre</l>
+         <l pos="Adv">oppå hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8037,7 +8037,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_den_ene_siden</l>
+         <l pos="Adv">på den ene siden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8051,7 +8051,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">trinn_for_trinn</l>
+         <l pos="Adv">trinn for trinn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8093,7 +8093,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_en_finsk_måte</l>
+         <l pos="Adv">på en finsk måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8177,7 +8177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">inn_under</l>
+         <l pos="Adv">inn under</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8191,7 +8191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_det_hele_tatt</l>
+         <l pos="Adv">i det hele tatt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8205,7 +8205,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_samme_tid</l>
+         <l pos="Adv">på samme tid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8219,7 +8219,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_venstre</l>
+         <l pos="Adv">til venstre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8289,7 +8289,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_døden</l>
+         <l pos="Adv">til døden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8373,7 +8373,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">så_snart_som_mulig</l>
+         <l pos="Adv">så snart som mulig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8401,7 +8401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ganske_mye</l>
+         <l pos="Adv">ganske mye</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8443,7 +8443,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_et_sted</l>
+         <l pos="Adv">til et sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8555,7 +8555,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_en_eller_annen_måte</l>
+         <l pos="Adv">på en eller annen måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8653,7 +8653,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">frem_og_tilbake</l>
+         <l pos="Adv">frem og tilbake</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8681,7 +8681,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_gjensidig_basis</l>
+         <l pos="Adv">på gjensidig basis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8709,7 +8709,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_høyre</l>
+         <l pos="Adv">til høyre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8821,7 +8821,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fem_ganger</l>
+         <l pos="Adv">fem ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8849,7 +8849,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lengst_borte</l>
+         <l pos="Adv">lengst borte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8905,7 +8905,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">etter_tur</l>
+         <l pos="Adv">etter tur</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -8975,7 +8975,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">mange_ganger</l>
+         <l pos="Adv">mange ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9045,7 +9045,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av_hverandre</l>
+         <l pos="Adv">ved siden av hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9087,7 +9087,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">per_telefon</l>
+         <l pos="Adv">per telefon</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9101,7 +9101,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_nord</l>
+         <l pos="Adv">lenger nord</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9115,7 +9115,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">over_land</l>
+         <l pos="Adv">over land</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9129,7 +9129,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">nær_hverandre</l>
+         <l pos="Adv">nær hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9171,7 +9171,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">tilbake_til_livet</l>
+         <l pos="Adv">tilbake til livet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9199,7 +9199,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_mot_sør</l>
+         <l pos="Adv">lenger mot sør</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9213,7 +9213,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_sør</l>
+         <l pos="Adv">lenger sør</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9227,7 +9227,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">den_øvre</l>
+         <l pos="Adv">den øvre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9241,7 +9241,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">én_etter_én</l>
+         <l pos="Adv">én etter én</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9297,7 +9297,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">så_vidt</l>
+         <l pos="Adv">så vidt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9311,7 +9311,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_kjent</l>
+         <l pos="Adv">som kjent</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9353,7 +9353,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_verste_måte</l>
+         <l pos="Adv">på verste måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9451,7 +9451,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">et_eller_annet_sted</l>
+         <l pos="Adv">et eller annet sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9521,7 +9521,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_bunnen</l>
+         <l pos="Adv">fra bunnen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9549,7 +9549,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_utsiden</l>
+         <l pos="Adv">fra utsiden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9605,7 +9605,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_forventet</l>
+         <l pos="Adv">som forventet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9675,7 +9675,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">før_tiden</l>
+         <l pos="Adv">før tiden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9703,7 +9703,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_tidlig</l>
+         <l pos="Adv">for tidlig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9745,7 +9745,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_tusenvis</l>
+         <l pos="Adv">i tusenvis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9843,7 +9843,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">under_hverandre</l>
+         <l pos="Adv">under hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9913,7 +9913,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_en_sak-for-sak-basis</l>
+         <l pos="Adv">på en sak-for-sak-basis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -9955,7 +9955,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_plass</l>
+         <l pos="Adv">på plass</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10039,7 +10039,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_overlegg</l>
+         <l pos="Adv">med overlegg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10095,7 +10095,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hopetall</l>
+         <l pos="Adv">i hopetall</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10193,7 +10193,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hemmelighet</l>
+         <l pos="Adv">i hemmelighet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10221,7 +10221,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_tog</l>
+         <l pos="Adv">med tog</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10305,7 +10305,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_bil</l>
+         <l pos="Adv">med bil</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10333,7 +10333,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">seks_ganger</l>
+         <l pos="Adv">seks ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10361,7 +10361,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_forhånd</l>
+         <l pos="Adv">på forhånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10431,7 +10431,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_absolutte_termer</l>
+         <l pos="Adv">i absolutte termer</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10473,7 +10473,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">senere_i_livet</l>
+         <l pos="Adv">senere i livet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10501,7 +10501,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for_fullt</l>
+         <l pos="Adv">for fullt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10529,7 +10529,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">md_ryggen_til</l>
+         <l pos="Adv">md ryggen til</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10571,7 +10571,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_sanntid</l>
+         <l pos="Adv">i sanntid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10641,7 +10641,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_eget_initiativ</l>
+         <l pos="Adv">på eget initiativ</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10725,7 +10725,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_moderate_mengder</l>
+         <l pos="Adv">i moderate mengder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10753,7 +10753,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_seg_selv</l>
+         <l pos="Adv">i seg selv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10781,7 +10781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_enkleste_måte</l>
+         <l pos="Adv">på enkleste måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10963,7 +10963,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_nå_av</l>
+         <l pos="Adv">fra nå av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -10977,7 +10977,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_reservasjoner</l>
+         <l pos="Adv">med reservasjoner</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11089,7 +11089,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_dagtid</l>
+         <l pos="Adv">på dagtid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11103,7 +11103,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_en_gang</l>
+         <l pos="Adv">med en gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11173,7 +11173,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">tre_ganger</l>
+         <l pos="Adv">tre ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11187,7 +11187,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">per_brev</l>
+         <l pos="Adv">per brev</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11201,7 +11201,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">et_sted</l>
+         <l pos="Adv">et sted</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11229,7 +11229,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">få_og_langt_mellom</l>
+         <l pos="Adv">få og langt mellom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11271,7 +11271,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_mindretall</l>
+         <l pos="Adv">i mindretall</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11327,7 +11327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_gang</l>
+         <l pos="Adv">i gang</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11341,7 +11341,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">mest_nøyaktig</l>
+         <l pos="Adv">mest nøyaktig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11397,7 +11397,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_søndager</l>
+         <l pos="Adv">på søndager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11551,7 +11551,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_høyre</l>
+         <l pos="Adv">fra høyre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11579,7 +11579,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_vestsida</l>
+         <l pos="Adv">via vestsida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11649,7 +11649,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_fots</l>
+         <l pos="Adv">til fots</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11663,7 +11663,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_østsida</l>
+         <l pos="Adv">via østsida</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11705,7 +11705,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_lufta</l>
+         <l pos="Adv">via lufta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11733,7 +11733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">som_før</l>
+         <l pos="Adv">som før</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11747,7 +11747,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_forhånd</l>
+         <l pos="Adv">på forhånd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -11929,7 +11929,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_hensiktsmessig_måte</l>
+         <l pos="Adv">på hensiktsmessig måte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12013,7 +12013,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_egen_hand</l>
+         <l pos="Adv">på egen hand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12153,7 +12153,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_kveldene</l>
+         <l pos="Adv">på kveldene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12279,7 +12279,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_strekk</l>
+         <l pos="Adv">i strekk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12363,7 +12363,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_heltid</l>
+         <l pos="Adv">på heltid</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12391,7 +12391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">to_ganger</l>
+         <l pos="Adv">to ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12447,7 +12447,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">hulter_til_bulter</l>
+         <l pos="Adv">hulter til bulter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12461,7 +12461,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">bokstavlig_talt</l>
+         <l pos="Adv">bokstavlig talt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12475,7 +12475,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_tvers</l>
+         <l pos="Adv">på tvers</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12489,7 +12489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_radio</l>
+         <l pos="Adv">via radio</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12503,7 +12503,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hovedtrekk</l>
+         <l pos="Adv">i hovedtrekk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12517,7 +12517,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_prosent</l>
+         <l pos="Adv">i prosent</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12531,7 +12531,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_post</l>
+         <l pos="Adv">via post</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12615,7 +12615,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_moderate_mengder</l>
+         <l pos="Adv">i moderate mengder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12643,7 +12643,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_landevegen</l>
+         <l pos="Adv">via landevegen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12755,7 +12755,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_midten</l>
+         <l pos="Adv">i midten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12769,7 +12769,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_gjennomsnitt</l>
+         <l pos="Adv">i gjennomsnitt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12825,7 +12825,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_fots</l>
+         <l pos="Adv">til fots</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12895,7 +12895,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_sør</l>
+         <l pos="Adv">lenger sør</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -12937,7 +12937,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_hverdager</l>
+         <l pos="Adv">på hverdager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13035,7 +13035,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_makt</l>
+         <l pos="Adv">med makt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13063,7 +13063,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_lur</l>
+         <l pos="Adv">på lur</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13217,7 +13217,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">innenfor_hverandre</l>
+         <l pos="Adv">innenfor hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13231,7 +13231,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_side</l>
+         <l pos="Adv">til side</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13245,7 +13245,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_rygg</l>
+         <l pos="Adv">på rygg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13259,7 +13259,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">klart_og_tydelig</l>
+         <l pos="Adv">klart og tydelig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13273,7 +13273,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_samme_retning</l>
+         <l pos="Adv">i samme retning</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13287,7 +13287,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_hundrevis</l>
+         <l pos="Adv">i hundrevis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13343,7 +13343,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_hest</l>
+         <l pos="Adv">til hest</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13455,7 +13455,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">via_forhandlinger</l>
+         <l pos="Adv">via forhandlinger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13497,7 +13497,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">uten_tillatelse</l>
+         <l pos="Adv">uten tillatelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13595,7 +13595,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_sitt_høyeste</l>
+         <l pos="Adv">på sitt høyeste</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13651,7 +13651,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_ett_slag</l>
+         <l pos="Adv">med ett slag</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13749,7 +13749,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_overlegg</l>
+         <l pos="Adv">med overlegg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13805,7 +13805,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">lenger_sør</l>
+         <l pos="Adv">lenger sør</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13833,7 +13833,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_forskjellige_tider</l>
+         <l pos="Adv">til forskjellige tider</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13847,7 +13847,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_økende_grad</l>
+         <l pos="Adv">i økende grad</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13917,7 +13917,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">om_morgenen</l>
+         <l pos="Adv">om morgenen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13959,7 +13959,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_vakt</l>
+         <l pos="Adv">på vakt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -13973,7 +13973,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_store_vanskeligheter</l>
+         <l pos="Adv">med store vanskeligheter</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14001,7 +14001,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fra_nå_av</l>
+         <l pos="Adv">fra nå av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14015,7 +14015,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_stil</l>
+         <l pos="Adv">med stil</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14225,7 +14225,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">rad_for_rad</l>
+         <l pos="Adv">rad for rad</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14239,7 +14239,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">uavhengig_av_hverandre</l>
+         <l pos="Adv">uavhengig av hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14281,7 +14281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_vanvare</l>
+         <l pos="Adv">i vanvare</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14365,7 +14365,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_fredager</l>
+         <l pos="Adv">på fredager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14393,7 +14393,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til_randen</l>
+         <l pos="Adv">til randen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14449,7 +14449,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_rette</l>
+         <l pos="Adv">med rette</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14645,7 +14645,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">tre_ganger</l>
+         <l pos="Adv">tre ganger</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14715,7 +14715,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_jevne_mellomrom</l>
+         <l pos="Adv">med jevne mellomrom</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14967,7 +14967,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med_åpne_armer</l>
+         <l pos="Adv">med åpne armer</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -14995,7 +14995,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på_hverdager</l>
+         <l pos="Adv">på hverdager</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15163,7 +15163,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">uten_forsinkelse</l>
+         <l pos="Adv">uten forsinkelse</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15177,7 +15177,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i_helgene</l>
+         <l pos="Adv">i helgene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -15191,7 +15191,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">ved_siden_av_hverandre</l>
+         <l pos="Adv">ved siden av hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

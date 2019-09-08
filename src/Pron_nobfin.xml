@@ -99,7 +99,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">seg_sjøl</l>
+         <l pos="Pron">seg sjøl</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -113,7 +113,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">seg_selv</l>
+         <l pos="Pron">seg selv</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -127,11 +127,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hver_og_en</l>
+         <l pos="Pron">hver og en</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pron">itse_kukin</t>
+            <t pos="Pron">itse kukin</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -169,7 +169,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hver_og_en</l>
+         <l pos="Pron">hver og en</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -197,7 +197,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">en_eller_annen</l>
+         <l pos="Pron">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -239,7 +239,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hvem_sin</l>
+         <l pos="Pron">hvem sin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -267,7 +267,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hvem_av_to</l>
+         <l pos="Pron">hvem av to</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -281,7 +281,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hvilken_av_to</l>
+         <l pos="Pron">hvilken av to</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -407,7 +407,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">hvilken_i_ei_rekke</l>
+         <l pos="Pron">hvilken i ei rekke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -463,7 +463,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">en_eller_annen</l>
+         <l pos="Pron">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -491,7 +491,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">de_der</l>
+         <l pos="Pron">de der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -505,7 +505,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">disse_her</l>
+         <l pos="Pron">disse her</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -645,7 +645,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">den_der</l>
+         <l pos="Pron">den der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -659,7 +659,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">det_der</l>
+         <l pos="Pron">det der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -673,7 +673,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">den_her</l>
+         <l pos="Pron">den her</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -687,7 +687,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">denne_her</l>
+         <l pos="Pron">denne her</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -701,7 +701,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">dette_her</l>
+         <l pos="Pron">dette her</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -925,7 +925,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">de_om_dyr_og_gjenstander</l>
+         <l pos="Pron">de om dyr og gjenstander</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -981,7 +981,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">den_det_der</l>
+         <l pos="Pron">den det der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1009,7 +1009,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">den_ene</l>
+         <l pos="Pron">den ene</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1051,7 +1051,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">en_viss</l>
+         <l pos="Pron">en viss</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1065,7 +1065,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">noen_få</l>
+         <l pos="Pron">noen få</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
