@@ -981,7 +981,21 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">den det der</l>
+         <l pos="Pron">den der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pron">tuo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">det der</l>
       </lg>
       <mg>
          <tg xml:lang="fin">

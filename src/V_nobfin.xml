@@ -91,22 +91,8 @@
          <tg xml:lang="fin">
             <t pos="V">aiheuttaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bli forårsaket av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">aiheutua</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+            <x>Oppdateringa av Windows 10 forårsaker et irriterende lydproblem.</x>
+            <xt>Windows 10:n päivitys aiheuttaa ärsyttävää ääniongelmaa</xt>
             </xg>
          </tg>
       </mg>
@@ -117,10 +103,19 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <t pos="V">kunnioittaa</t>
+            <xg>
+            <x>Du skal akte foreldrene dine.</x>
+            <xt>Sinun pitää kuuioittaa vanhempiasi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
             <t pos="V">aikoa</t>
             <xg>
-              <x></x>
-              <xt></xt>
+            <x>Jeg akter å dra heim.</x>
+            <xt>Aion lähteä kotiin.</xt>
             </xg>
          </tg>
       </mg>
@@ -133,8 +128,8 @@
          <tg xml:lang="fin">
             <t pos="V">aistia</t>
             <xg>
-              <x></x>
-              <xt></xt>
+            <x>I Kairo kan du sanse Midtøstens mystikk.</x>
+            <xt>Kairossa voi aistia Lähi-idän mystiikkaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -161,8 +156,12 @@
          <tg xml:lang="fin">
             <t pos="V">ajaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
+            <x>Pekka kjører lastebil.</x>
+            <xt>Pekka ajaa kuorma-autoa.</xt>
+            </xg>
+            <xg>
+            <x>Hun kan kjøre deg hjem.</x>
+            <xt>Hän voi ajaa sinut kotiin.</xt>
             </xg>
          </tg>
       </mg>
@@ -175,22 +174,8 @@
          <tg xml:lang="fin">
             <t pos="V">ajatella</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">få til å kjøre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">ajattaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+            <x>Jeg tenker på deg.</x>
+            <xt>Ajattelen sinua.</xt>
             </xg>
          </tg>
       </mg>
@@ -201,7 +186,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">ajattaa</t>
+            <t pos="V">kuljettaa</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -217,22 +202,8 @@
          <tg xml:lang="fin">
             <t pos="V">ajelehtia</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">drive og kjøre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">ajella</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+            <x>Spøkelsesskipet dreiv rundt på havet uten mannskap.</x>
+            <xt>Aavelaiva ajelehti merellä ilman miehistöä.</xt>
             </xg>
          </tg>
       </mg>
@@ -259,23 +230,13 @@
          <tg xml:lang="fin">
             <t pos="V">alentaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">senke seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">alentua</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
+              <x>Regjeringa senker barnehageavgiftene for lavtlønte.</x>
+              <xt>Hallitus alentaa pienituloisten päivähoitomaksuja.</xt>
+	    </xg>
+	    <xg>
+              <xt>Et voi alentua tähän tasoon!</xt>
+              <x>Du kan ikke senke deg til dette nivået!</x>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -287,8 +248,8 @@
          <tg xml:lang="fin">
             <t pos="V">aleta</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Skatten på bil synker, skatten på alkohol og energi øker.</x>
+              <xt>Autovero alenee, alkoholin ja energian verotus kiristyy.</xt>
             </xg>
          </tg>
       </mg>
@@ -329,8 +290,8 @@
          <tg xml:lang="fin">
             <t pos="V">alistaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Tjærekapitalismen undertrykte folk i Kainuu på 1800-tallet.</x>
+              <xt>Tervakapitalismi alisti 1800-luvun kainuulaisia.</xt>
             </xg>
          </tg>
       </mg>
@@ -343,8 +304,8 @@
          <tg xml:lang="fin">
             <t pos="V">alistua</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Anglosakserne underkastet seg normannernes styre.</x>
+              <xt>Anglosaksit alistuivat normannien valtaan.</xt>
             </xg>
          </tg>
       </mg>
@@ -357,8 +318,8 @@
          <tg xml:lang="fin">
             <t pos="V">alkaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Jeg begynner snart å lage pizza, der eg har oppi kjøttfarse av storfekjøtt.</x>
+              <xt>Alan kohta tehdä pizzaa, johon laitan naudan jauhelihaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -14161,8 +14122,8 @@
          <tg xml:lang="fin">
             <t pos="V">ottaa</t>
             <xg>
-              <x></x>
-              <xt></xt>
+            <x>Jeg tok han i kragen og klemte han opp i et hjørne.</x>
+            <xt>Otin kravatista kiinni ja ahdistin hänet nurkkaan.</xt>
             </xg>
          </tg>
       </mg>

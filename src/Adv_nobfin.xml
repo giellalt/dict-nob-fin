@@ -1,6 +1,20 @@
 <r>
    <e>
       <lg>
+         <l pos="Adv">rundt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ympärille</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">før</l>
       </lg>
       <mg>
