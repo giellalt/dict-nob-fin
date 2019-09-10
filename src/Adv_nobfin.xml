@@ -128,11 +128,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">alene</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">yksistään</t>
@@ -164,20 +159,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">aina</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">alltid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">alati</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -220,20 +201,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vakaasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">alvorlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">vakavasti</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -299,34 +266,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">andre steder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">muualla</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">andre steder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">muualle</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">arkeologisk</l>
       </lg>
       <mg>
@@ -383,20 +322,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">autokratisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">yksinvaltaisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">automatisk</l>
       </lg>
       <mg>
@@ -430,20 +355,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tästä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">av og til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">toisinaan</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -513,20 +424,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">perässä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="Adv">perään</t>
             <xg>
               <x></x>
@@ -534,11 +431,15 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bak</l>
-      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">perässä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">takana</t>
@@ -562,28 +463,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bakfra</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">takaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bakfra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">takaapäin</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -604,11 +486,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bakover</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">takaperin</t>
@@ -770,48 +647,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">betraktelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">merkitsevästi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">betraktelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">merkittävästi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">betraktelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tuntuvasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">betydelig</l>
       </lg>
       <mg>
@@ -887,34 +722,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kirjaimellisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bokstavelig talt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">sananmukaisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bokstavlig talt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">sanatarkasti</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1005,31 +812,12 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">da</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">tuolloin</t>
+            <t pos="Adv">-han</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">da</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tällöin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+              <x>Det var jo fint.</x>
+              <xt>Sehän oli hieno</xt>
             </xg>
          </tg>
       </mg>
@@ -1069,34 +857,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">peitossa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">delvis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">osaksi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">delvis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">osin</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1159,11 +919,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">der borte</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tuossa</t>
@@ -1266,53 +1021,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">diagonalt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">vinosti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">diagonalt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">vinottain</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">diagonalt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">yläviistoon</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">digitalt</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">digitaalisesti</t>
@@ -1336,11 +1044,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">direkte</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">suorasti</t>
@@ -1437,34 +1140,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">dyktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">taidokkaasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">dyktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">taitavasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">dynamisk</l>
       </lg>
       <mg>
@@ -1504,11 +1179,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">dypt</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">syvästi</t>
@@ -1532,42 +1202,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">dårlig</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">kehnosti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">dårlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">kipeästi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">dårlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">pahoin</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1596,20 +1233,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tehokkaasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">egentlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">oikeasti</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1675,20 +1298,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">eksplisitt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">nimenomaisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">eksplosivt</l>
       </lg>
       <mg>
@@ -1708,20 +1317,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">eksponentiaalisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">eksternt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">etäisesti</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1773,7 +1368,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">elektronisk</l>
+         <l pos="Adv">elektrisk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1911,49 +1506,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">lopullisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">endelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="Adv">vihdoin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">endelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">vihdoinkin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">endelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">viimein</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1968,20 +1521,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">helposti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">enormt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">suunnattomasti</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -2177,34 +1716,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">jälkeen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">etterpå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">jälkeenpäin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">etterpå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="Adv">jälkikäteen</t>
             <xg>
               <x></x>
@@ -2257,20 +1768,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">faktisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tosiasiallisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">fargerikt</l>
       </lg>
       <mg>
@@ -2303,20 +1800,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Adv">kiinni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="Adv">kiinteästi</t>
             <xg>
               <x></x>
@@ -2324,11 +1807,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fast</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">tukevasti</t>
@@ -2338,11 +1816,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fast</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vakituisesti</t>
@@ -2436,28 +1909,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fint</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">hyvin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fire ganger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">neljästi</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -2565,90 +2019,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">for en tid siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">taannoin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for en tid siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">äskettäin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for fullt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">täysipainoisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for hånd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">käsin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for mye</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">liikaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for tidlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">ennenaikaisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">foran</l>
       </lg>
       <mg>
@@ -2660,11 +2030,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">foran</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">edessä</t>
@@ -2674,11 +2039,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">foran</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">eteen</t>
@@ -2803,34 +2163,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">forsettlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tarkoituksellisesti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">forsiktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">loivasti</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">forsiktig</l>
       </lg>
       <mg>
@@ -2842,11 +2174,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">forsiktig</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">varovasti</t>
@@ -2957,39 +2284,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">fortrinnsvis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">mieluiten</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">fra andre steder</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">muualta</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fra avstand</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">kauempaa</t>
             <xg>
               <x></x>
               <xt></xt>
