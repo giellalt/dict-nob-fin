@@ -1,6 +1,20 @@
 <r>
    <e>
       <lg>
+         <l pos="CC">både</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">sekä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="CC">da</l>
       </lg>
       <mg>
@@ -15,123 +29,11 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">når</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">kun</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">enn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">kun</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">hvis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">jos</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">om</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">jos</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="CC">eller</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="CC">eli</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">samt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">ja</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">og</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">ja</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">enten ... eller</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">joko ... tai</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="CC">men</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="CC">mutta</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -183,11 +85,11 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">selv om</l>
+         <l pos="CC">eller</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="CC">vaikka</t>
+            <t pos="CC">vain</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -197,11 +99,25 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">eller</l>
+         <l pos="CC">enn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="CC">vain</t>
+            <t pos="CC">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">enten ... eller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">joko ... tai</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -225,11 +141,95 @@
    </e>
    <e>
       <lg>
-         <l pos="CC">både</l>
+         <l pos="CC">hvis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="CC">sekä</t>
+            <t pos="CC">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">men</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">mutta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">kun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">og</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">ja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">jos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">samt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">ja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CC">selv om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CC">vaikka</t>
             <xg>
               <x></x>
               <xt></xt>
