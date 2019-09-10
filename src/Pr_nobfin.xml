@@ -1,6 +1,1417 @@
 <r>
    <e>
       <lg>
+         <l pos="Adv">rundt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ympärille</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">over</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">yli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pr">yli</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">taakse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sekaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seasta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">rundt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ympäri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ympäri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">innenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisäpuolella</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">utenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ulkopuolella</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">jälkeen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">framfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">eteen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">inni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisällä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ovenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">yläpuolella</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">nedenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alapuolella</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">overfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vastapuolella</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">edessä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">utover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ulospäin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">kohti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">nedenfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alapuolelta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">under</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alla</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">innunder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">alle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">asti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">asti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">foran</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">eteen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">edessä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i eie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">hallussa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">joukossa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">kanssa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">via</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">kautta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i slutten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">lopulla</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">gjennom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">läpi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">langs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">myöten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">myötä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på vegne av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">puolesta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">opp på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">päälle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">päälle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ned fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">päältä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">päällä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">oppe på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">päällä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">perään</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">perässä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">perästä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ved siden av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">rinnalla</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seasta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sekaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">blant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sekaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sekaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seurassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">seurassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i stedet for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sijassa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i stedet for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sijasta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">inn i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisään</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">inn i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisälle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">inne i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisällä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">inne i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">sisässä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i forhold til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">suhteen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">sammenlignet med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">suhteen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">taka</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for ... siden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takaisin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bakenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bakom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takana</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på grunn av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">bakfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">takaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">hos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tykö</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">hos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tykönä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tyköä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på grunn av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tähden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på grunnav</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tähden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tähden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">derfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">tähden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for ... skyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">varten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">varten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vasten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vastaan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ved siden av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vieressä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">(fra) ved siden av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vierestä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ved siden av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">viereen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for ... skyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vuoksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">på grunn av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vuoksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">for sikkerhets skyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vuoksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">derfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">vuoksi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">väliin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välille</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">imellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välille</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">väliltä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">imellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">väliltä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välillä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">imellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välillä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välissä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">imellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">välissä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ympäri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">rundt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">ympäri</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Pr">uten</l>
       </lg>
       <mg>
@@ -15,11 +1426,39 @@
    </e>
    <e>
       <lg>
-         <l pos="Pr">over</l>
+         <l pos="Pr">på tvers av</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pr">yli</t>
+            <t pos="Po">poikki</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">luokse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">hos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">luona</t>
             <xg>
               <x></x>
               <xt></xt>
