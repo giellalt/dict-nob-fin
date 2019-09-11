@@ -15,118 +15,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">androgyyni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">androgyyni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">elämänkatsomustieto</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">maahanmuuttajaopetus</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">mielenterveysseura</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">mielenvirkeys</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">møller</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N"></l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">telkkari</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ABC-bok</l>
       </lg>
       <mg>
@@ -138,11 +26,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ABC-bok</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">aapiskirja</t>
@@ -187,7 +70,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">manala</t>
+            <t pos="N">Tuonela</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -202,20 +85,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">Kominterni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NGO</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kansalaisjärjestö</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -432,28 +301,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">adel</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">aatelisto</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">adel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">ylimystö</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -558,11 +408,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">administrator</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">ylläpitäjä</t>
@@ -1026,7 +871,8 @@
          <l pos="N">akkord</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>om musikk</re>
             <t pos="N">sointu</t>
             <xg>
               <x></x>
@@ -1034,13 +880,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">akkord</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>om arbeid</re>
             <t pos="N">urakka</t>
             <xg>
               <x></x>
@@ -1135,7 +977,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">akselerasjon</l>
+         <l pos="N">akselerasjonsevne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -1370,25 +1212,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">aktivitet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">funktio</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">aktivitet</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">touhu</t>
@@ -1448,20 +1271,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">asiakirja</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">aktør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">tekijä</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1611,20 +1420,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">alder</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">ikävuosi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">alderdom</l>
       </lg>
       <mg>
@@ -1681,20 +1476,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">aldersklasse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">vuosiluokka</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">alderspensjon</l>
       </lg>
       <mg>
@@ -1728,34 +1509,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">aakkonen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">alfabet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">aakkosto</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">alfabet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kirjaimisto</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1980,20 +1733,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">allergikko</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">allianse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">allianssi</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -2353,34 +2092,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">amatør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">harrastaja</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ambassade</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">lähetystyö</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ambassade</l>
       </lg>
       <mg>
@@ -2686,11 +2397,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">and</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">sorsa</t>
