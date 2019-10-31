@@ -5205,29 +5205,37 @@
          <tg xml:lang="fin">
             <t pos="V">kaatua</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Gutten falt</x>
+              <xt>Poika kaatui.</xt>
+            </xg>
+            <xg>
+              <x>Regjeringa falt i 1982</x>
+              <xt>Hallitus kaatui vuonna 1982.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">falle</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="inn i noe">
             <t pos="V">langeta</t>
+            <xg>
+              <x>Jeg falt i fella.</x>
+              <xt>Minä lankesin ansaan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin" re="falle ned">
+            <t pos="V">pudota</t>
             <xg>
               <x></x>
               <xt></xt>
             </xg>
          </tg>
-      </mg>
+      </mg>      
    </e>
    <e>
       <lg>
-         <l pos="V">falle</l>
+         <l pos="V">falle sammen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -5241,21 +5249,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">falle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">pudota</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">falle</l>
+         <l pos="V">stupe</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -7957,39 +7951,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fryse</l>
+         <l pos="V">bli kald</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="bli kald">
             <t pos="V">jäätyä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fryse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">kylmetä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fryse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">paheksua</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -8010,11 +7976,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fryse</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">paleltua</t>
@@ -11616,8 +11577,8 @@
          <tg xml:lang="fin">
             <t pos="V">kutsua</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Du kan invitere så mange kamerater som du vil.</x>
+              <xt>Voit kutsua niin monta kaveria, kuin haluat.</xt>
             </xg>
          </tg>
       </mg>
@@ -11896,50 +11857,8 @@
          <tg xml:lang="fin">
             <t pos="V">kutsua</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kalle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">kutsuttaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kalle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">nimittää</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kalle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">otaksua</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+              <x>Ja tuota irrationaalisuutta voi kutsua poliittiseksi populismiksi.</x>
+              <xt>Og den der irrasjonaliteten kam kan kalle politisk populisme.</xt>
             </xg>
          </tg>
       </mg>
@@ -12048,52 +11967,10 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">heitellä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kaste</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="V">heittää</t>
             <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kaste</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">viskata</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">kurkistaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
+              <x>Det var forferdelig å følge med på hvordan Bush kasta Kyoto-avtalen i søppelbøtta.</x>
+              <xt>Oli hirveää seurata, kuinka Bush heitti Kioton sopimuksen roskakoriin .</xt>
             </xg>
          </tg>
       </mg>
@@ -12223,11 +12100,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kjølne</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">viiletä</t>
@@ -24591,7 +24463,7 @@
          <l pos="V">svekke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="få noe til å bli svekka">
             <t pos="V">heikentää</t>
             <xg>
               <x></x>
@@ -24599,13 +24471,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svekke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="bli svekka">
             <t pos="V">heiketä</t>
             <xg>
               <x></x>
@@ -24616,21 +24483,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svekke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">huonontaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svekke</l>
+         <l pos="V">fortynne</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -24644,25 +24497,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svekke</l>
+         <l pos="V">bli fortynna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">laimeta</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svekke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">pahentaa</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -26387,7 +26226,7 @@
          <l pos="V">tørke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="få til å bli tørr">
             <t pos="V">kuivata</t>
             <xg>
               <x></x>
@@ -26395,13 +26234,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="få noen til å tørke">
             <t pos="V">kuivattaa</t>
             <xg>
               <x></x>
@@ -26409,13 +26243,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="bli tørr">
             <t pos="V">kuivua</t>
             <xg>
               <x></x>
@@ -26423,13 +26252,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="tørke med tue eller handduk">
             <t pos="V">pyyhkiä</t>
             <xg>
               <x></x>
@@ -26437,13 +26261,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="tørke fort over">
             <t pos="V">pyyhkäistä</t>
             <xg>
               <x></x>
@@ -28166,20 +27985,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">nähdä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vokte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="V">vahtia</t>
             <xg>
               <x></x>
@@ -28190,7 +27995,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vokte</l>
+         <l pos="V">overvåke</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28857,7 +28662,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ødelegge</l>
+         <l pos="V">spre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28871,7 +28676,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ødelegge</l>
+         <l pos="V">tilintetgjøre</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -28888,7 +28693,7 @@
          <l pos="V">ødelegge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="gjøre ubrukelig">
             <t pos="V">pilata</t>
             <xg>
               <x></x>
@@ -28896,13 +28701,8 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ødelegge</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" re="få til å gå i stykker">
             <t pos="V">rikkoa</t>
             <xg>
               <x></x>
@@ -28913,25 +28713,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ødelegge</l>
+         <l pos="V">kondemnere</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">romuttaa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ødelegge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">turmella</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -28983,21 +28769,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">øke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">runsastua</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">øke</l>
+         <l pos="V">befrukte</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -29011,7 +28783,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">øke</l>
+         <l pos="V">bli vanlig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
