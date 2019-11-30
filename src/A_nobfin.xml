@@ -4308,14 +4308,14 @@
             <t pos="A">kamala</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">forferdelig</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kauhistuttava</t>
+        <tg xml:lang="fin">
+	  <re>være forferdelig</re>
+            <t pos="V">hirvittää</t>
+            <xg>
+              <x>Jeg syns det er forferdelig.</x>
+              <xt>Minua hirvittää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6951,11 +6951,21 @@
    </e>
    <e>
       <lg>
+         <l pos="A">skrekkinngytende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kauhistuttava</t>
+         </tg>
+      </mg>
+    </e>
+   <e>
+      <lg>
          <l pos="A">integrert</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">sulautettu</t>
+            <t pos="A">integroitunut</t>
          </tg>
       </mg>
    </e>
@@ -7626,6 +7636,17 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">selvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">assimilert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sulautettu</t>
+            <t pos="A">assimiloitunut</t>
          </tg>
       </mg>
    </e>
