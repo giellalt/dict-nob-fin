@@ -5334,10 +5334,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">takaosa</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -5557,10 +5553,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">yhtye</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -10132,10 +10124,6 @@
          <tg xml:lang="fin">
 	   <re>straffebetaling</re>
            <t pos="N">sakko</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
       <mg>

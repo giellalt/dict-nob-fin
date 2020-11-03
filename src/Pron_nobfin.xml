@@ -6,10 +6,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kaikki</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -20,10 +16,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kaikki</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34,10 +26,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kaikki</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -48,10 +36,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">toinen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -62,10 +46,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">muu</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -76,10 +56,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">toinen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -90,10 +66,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kumpikin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -104,10 +76,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">molemmat</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -118,10 +86,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">nuo</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -132,10 +96,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">ne</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -146,10 +106,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">he</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -160,10 +116,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">he</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -174,10 +126,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">ne</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -188,10 +136,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -202,10 +146,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -216,10 +156,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">yksi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -230,10 +166,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -244,10 +176,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">se</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -258,10 +186,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -272,10 +196,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -286,10 +206,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">te</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -300,10 +216,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -314,10 +226,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">se</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -328,10 +236,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -342,10 +246,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">nämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -356,10 +256,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">nämä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -370,10 +266,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">sinä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -384,10 +276,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">sinä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -398,10 +286,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joku</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -412,10 +296,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">muuan</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -426,10 +306,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">eräs</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -440,10 +316,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">yksi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -454,10 +326,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">yksi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -468,10 +336,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">eri</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -482,10 +346,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">hän</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -496,10 +356,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">hän</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -510,10 +366,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">se</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -524,10 +376,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">hän</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -538,10 +386,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">hän</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -552,10 +396,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">se</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -566,10 +406,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -580,10 +416,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -594,10 +426,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -608,10 +436,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kumpi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -622,10 +446,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kenen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -636,10 +456,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -650,10 +466,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kuka</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -664,10 +476,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">itse kukin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -678,10 +486,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">jokainen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -692,10 +496,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joka</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -706,10 +506,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">toinen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -720,10 +516,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">kumpi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -734,10 +526,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">monesko</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -748,10 +536,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mones</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -762,10 +546,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">yksikhään</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -776,10 +556,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">minä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -790,10 +566,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">moni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -804,10 +576,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">monta</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -818,10 +586,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">jokin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -832,10 +596,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">jotain</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -846,10 +606,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">jotakin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -860,10 +616,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">muutama</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -874,10 +626,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">jokin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -888,10 +636,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joku</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -902,10 +646,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joku</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -916,10 +656,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">moni</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -930,10 +666,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">sama</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -944,10 +676,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">itse</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -958,10 +686,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">itse</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -972,10 +696,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">itse</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -986,10 +706,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">itse</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1000,10 +716,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1014,19 +726,11 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">joka</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1037,10 +741,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">me</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1051,10 +751,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Pron">me</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>

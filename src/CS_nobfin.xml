@@ -6,10 +6,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -20,10 +16,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">että</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -34,10 +26,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">että</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -48,10 +36,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -62,10 +46,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">jos</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -76,10 +56,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">entä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -90,10 +66,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -104,10 +76,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -118,10 +86,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">sillä</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -132,10 +96,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">jos</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -146,10 +106,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -160,10 +116,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -174,10 +126,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">jos</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -188,10 +136,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
