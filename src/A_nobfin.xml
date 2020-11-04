@@ -4245,17 +4245,14 @@
          <l pos="A">fredelig</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>om tilstand</re>
             <t pos="A">rauhallinen</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fredelig</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>om egenskap</re>
             <t pos="A">rauhanomainen</t>
          </tg>
       </mg>
@@ -4267,26 +4264,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">rohkea</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fremmed</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">outo</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fremmed</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">sivullinen</t>
          </tg>
       </mg>
    </e>
@@ -4317,16 +4294,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">vapaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">vapaamuotoinen</t>
          </tg>
       </mg>
    </e>
@@ -4366,16 +4333,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">tarkoituksellinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">frivillig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">vapaaehtoinen</t>
          </tg>
       </mg>
@@ -4397,16 +4354,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">hedelmällinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fruktbar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">viljava</t>
          </tg>
       </mg>
    </e>
@@ -4457,36 +4404,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">täysi-ikäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fullvoksen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">täysimittainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fungerende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kelvollinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fungerende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">toimintakykyinen</t>
          </tg>
       </mg>
    </e>
@@ -4582,7 +4499,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">fysisk</l>
+         <l pos="A">kroppslig</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -4607,15 +4524,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">harvalukuinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">fåtallig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">vähälukuinen</t>
          </tg>
       </mg>
@@ -4737,16 +4645,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">vanha</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">gammeldags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">muinainen</t>
          </tg>
       </mg>
    </e>
@@ -4915,7 +4813,8 @@
          <l pos="A">gjeldende</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>den det er tale om</re>
             <t pos="A">kyseinen</t>
          </tg>
       </mg>
@@ -4925,7 +4824,8 @@
          <l pos="A">gjeldende</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>den som er i kraft nå</re>
             <t pos="A">vallitseva</t>
          </tg>
       </mg>
@@ -4985,17 +4885,14 @@
          <l pos="A">glatt</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>som man glir på</re>
             <t pos="A">liukas</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">glatt</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>som er glatt å ta på</re>
             <t pos="A">sileä</t>
          </tg>
       </mg>
@@ -5006,26 +4903,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">globaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">global</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">globaalinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">global</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">maailmanlaajuinen</t>
          </tg>
       </mg>
@@ -5117,15 +4995,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">ilmainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">gratis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">maksuton</t>
          </tg>
       </mg>
@@ -5197,16 +5066,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">karkea</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">grov</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">raaka</t>
          </tg>
       </mg>
    </e>
@@ -5316,16 +5175,6 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A">jumalainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">guddommelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="A">jumalallinen</t>
          </tg>
       </mg>
@@ -5367,16 +5216,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="A">punaruskea</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">gulbrun</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">ruskea</t>
          </tg>
       </mg>
    </e>
@@ -15973,6 +15812,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <t pos="A">kelvollinen</t>
             <t pos="A">joutilas</t>
          </tg>
       </mg>
