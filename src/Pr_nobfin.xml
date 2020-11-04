@@ -1482,6 +1482,28 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
+            <t pos="suff">-sta</t>
+	    <xg>
+	      <x>Jeg er fra Norge.</x>
+	      <xt>Minä olen Norjasta.</xt>
+	    </xg>
+	    <xg>
+	      <x>A:sta B:hen.</x>
+	      <xt>Fra A til B</xt>
+	    </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="suff">-lta</t>
+	    <xg>
+	      <x>Katten hoppa ned fra taket.</x>
+	      <xt>Kissa hyppäsi katolta alas.</xt>
+	    </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
             <t pos="Po">tyköä</t>
          </tg>
       </mg>
@@ -1495,14 +1517,9 @@
             <t pos="Po">tähden</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">på grunnav</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Po">tähden</t>
+            <t pos="Po">takia</t>
          </tg>
       </mg>
    </e>
@@ -1653,6 +1670,20 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välille</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">i</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+           <t pos="suff">-ssa</t>
+            <xg>
+               <x>Jeg drar fra Børselv i morgen.</x>
+               <xt>Mie lähđen Pyssyjovesta huomena.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
