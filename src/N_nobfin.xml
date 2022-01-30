@@ -28090,17 +28090,12 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">sivullinen</t>
+            <t pos="N">ulkopuolinen</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fremmed</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">ulkopuolinen</t>
+            <t pos="N">muukalainen</t>
          </tg>
       </mg>
    </e>
@@ -112417,6 +112412,869 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">saarivaltio</t>
+         </tg>
+      </mg>
+   </e>   <e>
+      <lg>
+         <l pos="N">situasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tilanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sykepleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairaanhoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">helsepersonell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoitohenkilökunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">relasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suhde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">faktor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kerroin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utgangspunkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lähtökohta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">forskning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tutkimus</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">kvalitetsutvikling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laadunkehitys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kropp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">keho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omgivelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ympäristö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">velvære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hyvinvointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">årsak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">syy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">trykksår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">painehaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">determs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">muistisairaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hjemmesykepleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kotisairaanhoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sammenheng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yhteys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omsorg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoito</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omsorgstjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoitopalvelu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">egenomsorg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">itsehoito</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">beboer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">asukas</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utøvelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">harjoitus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">verdighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ihmisarvo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">liv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">elämä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">livssituasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">elämäntilanne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pasientsikkerhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilasturvallisuus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">refleksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">heijastus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">demens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">dementia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hjemmesykepleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kotisairaanhoito</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">parannuskeino</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">atferd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käyttäytyminen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">krenkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rikkomus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">egenomsorg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">itsehoito</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">egenomsorgskapasitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">itsehoitokyky</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">medarbeider</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työntekijä</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aihe</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fagkunnskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ammattitieto</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">part</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">osa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jobb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työ</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tross</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">uhmaa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">helsesvikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveyshäiriö</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">profesjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ammatti</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">integritet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eheys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">helse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gjensidighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vastavuoroisuus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tilfredshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tyydytys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">krave</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaulus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kommune</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kunta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kirke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kirkko</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pasienttilfredshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilastyytyväisyys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sympati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sympatia</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alvorlighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vakavuus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kyndighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pätevyys</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kvalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laatu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kvalitetsindikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laatuindikaattori</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innvandrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">maahanmuuttaja</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">anvendelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sovellus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sønn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">poika</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pasientskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilasvamma</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innflytelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaikutusvalta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">barmhjertighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">armo</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bruk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käyttö</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utøvelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">harjoitus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omtanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">harkinta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hjemmetjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kotipalvelu</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">arbeidssituasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työtilanne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">interaksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vuorovaikutus</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
          </tg>
       </mg>
    </e>
