@@ -97869,8 +97869,20 @@
          <l pos="N">tak</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+	  <re>hustak</re>
+        <tg xml:lang="fin">
             <t pos="N">katto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tak</l>
+      </lg>
+      <mg>
+	  <re>grep</re>
+         <tg xml:lang="fin">
+            <t pos="N">ote</t>
          </tg>
       </mg>
    </e>
