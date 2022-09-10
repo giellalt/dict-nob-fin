@@ -2193,18 +2193,23 @@
          <l pos="V">brenne</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
             <t pos="V">palaa</t>
+            <xg>
+               <x>Bålet brenner.</x>
+               <xt>Nuotio palaa.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">brenne</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">polttaa</t>
+            <xg>
+               <x>Jeg brenner gamle papirer.</x>
+               <xt>Poltan vanhat paperit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2593,18 +2598,15 @@
          <l pos="V">bøye seg</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">suostutella</t>
+        <tg xml:lang="fin">
+	  <re>fysisk</re>
+            <t pos="V">taipua</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bøye seg</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">taipua</t>
+        <tg xml:lang="fin">
+	  <re>gå med på</re>
+            <t pos="V">suostutella</t>
          </tg>
       </mg>
    </e>
@@ -2613,7 +2615,8 @@
          <l pos="V">bøye</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">taivuttaa</t>
          </tg>
       </mg>
@@ -3721,7 +3724,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="inn i noe">
+        <tg xml:lang="fin">
+	  <re>inn i noe</re>
             <t pos="V">langeta</t>
             <xg>
               <x>Jeg falt i fella.</x>
@@ -3730,7 +3734,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="falle ned">
+        <tg xml:lang="fin">
+	  <re>falle ned</re>
             <t pos="V">pudota</t>
          </tg>
       </mg>      
@@ -3950,8 +3955,15 @@
          <l pos="V">feste</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv, sette noe fast</re>
             <t pos="V">kiinnittää</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>intransitiv, ha en sammenkomst, feire</re>
+            <t pos="V">juhlia</t>
          </tg>
       </mg>
    </e>
@@ -5671,7 +5683,7 @@
          <l pos="V">bli kald</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" re="bli kald">
+         <tg xml:lang="fin">
             <t pos="V">jäätyä</t>
          </tg>
       </mg>
@@ -5681,13 +5693,23 @@
          <l pos="V">fryse</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">palella</t>
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
+          <t pos="V">palella</t>
+	  <xg>
+	    <x>Barnet fraus i sprengkulda.</x>
+	    <xt>Lapsi paleli pakkassessa.</xt>
+	  </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">paleltua</t>
+        <tg xml:lang="fin">
+	  <re>transitiv: fryse ned noe</re>
+            <t pos="V">pakastaa</t>
+	  <xg>
+	    <x>Vi rensker bæra før vi fryser dem.</x>
+	    <xt>Puhdistetaan marjat ennen, kuin pakastetaan ne.</xt>
+	  </xg>
          </tg>
       </mg>
    </e>
@@ -6206,6 +6228,16 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="V">piilotella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gjemme seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">piiloutua</t>
          </tg>
       </mg>
    </e>
@@ -7378,28 +7410,35 @@
          <l pos="V">henge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">hirttää</t>
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
+          <t pos="V">ripustaa</t>
+	  <xg>
+	    <x>Vi hengte klær til tørk.</x>
+	    <xt>Ripustimme vaatteet kuivumaan.</xt>
+	  </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">henge</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">riippua</t>
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
+          <t pos="V">riippua</t>
+	  <xg>
+	    <x>Klærne hang til tørk.</x>
+	    <xt>Vaatteet riippuivat kuivumassa.</xt>
+	  </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">henge</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>henge og slenge</re>
             <t pos="V">roikkua</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>transiiv, i galgen</re>
+            <t pos="V">hirttää</t>
          </tg>
       </mg>
    </e>
@@ -8923,7 +8962,22 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">taittaa</t>
+            <re>intransitivt</re>
+            <t pos="V">katkea</t>
+            <xg>
+               <x>Greina brekker.</x>
+               <xt>Oksa katkeaa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <re>transitivt</re>
+            <t pos="V">katkaistaa</t>
+            <xg>
+               <x>Jeg brekker greina.</x>
+               <xt>Katkaisen oksan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9026,18 +9080,23 @@
          <l pos="V">koke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">keittää</t>
+            <xg>
+               <x>Bestemor kokte kaffe.</x>
+               <xt>Isoäiti keitti kahvia.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">koke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
             <t pos="V">kiehua</t>
+            <xg>
+               <x>Vannet koker.</x>
+               <xt>Vesi kiehuu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10384,7 +10443,8 @@
          <l pos="V">lukte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
             <t pos="V">haista</t>
             <xg>
               <x>Mange bygninger lukter mugg.</x>
@@ -10393,11 +10453,37 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">haistaa</t>
             <xg>
               <x>En hund lukter en mobiltelefon i fengselscella.</x>
               <xt>Koiraa haistaa kännykän vankilasellista.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">velte</l>
+      </lg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
+            <t pos="V">kaatua</t>
+            <xg>
+              <x>Treet velta.</x>
+              <xt>Puu kaatui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
+            <t pos="V">kaataa</t>
+            <xg>
+              <x>De velta treet.</x>
+              <xt>He kaatoivat puun.</xt>
             </xg>
          </tg>
       </mg>
@@ -13374,24 +13460,10 @@
             <t pos="V">matkustaa</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">reise</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>holde på å reise</re>
             <t pos="V">matkustella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">reise</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="V">patistaa</t>
          </tg>
       </mg>
    </e>
@@ -13810,18 +13882,25 @@
          <l pos="V">riste</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">ravistaa</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">riste</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
+	  <re>transitiv, flere ganger</re>
             <t pos="V">ravistella</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
+          <t pos="V">täristä</t>
+	  <xg>
+	    <x>Bilen ristet da den kjørte nedover den dårlige vegen.</x>
+	    <xt>Auto tärisi ajaessaaan huonoa tietä.</xt>
+	  </xg>
          </tg>
       </mg>
    </e>
@@ -13965,7 +14044,22 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">vyöryä</t>
+            <re>intransitivː rulle av seg selv</re>
+            <t pos="V">pyöriä</t>
+            <xg>
+               <x>Ballen ruller.</x>
+               <xt>Pallo pyörii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitiv: få noe til å rulle</re>
+            <t pos="V">pyörittää</t>
+            <xg>
+               <x>Inga ruller ballen.</x>
+               <xt>Inga ruller ballen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15023,23 +15117,9 @@
             <t pos="V">kiiltää</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skinne</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">kuultaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skinne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>om sola</re>
             <t pos="V">paistaa</t>
          </tg>
       </mg>
@@ -15103,11 +15183,6 @@
             <t pos="V">täristä</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skjelve</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">väristä</t>
@@ -15133,11 +15208,6 @@
             <t pos="V">häpeillä</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skjemmes</l>
-      </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">hävetä</t>
@@ -15746,27 +15816,13 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">iskeä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">slå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="V">lyödä</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">slå</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">takoa</t>
+        <tg xml:lang="fin">
+	  <re>slå med knyttneven</re>
+            <t pos="V">iskeä</t>
          </tg>
       </mg>
    </e>
@@ -15835,18 +15891,23 @@
          <l pos="V">smelte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">sulaa</t>
+        <tg xml:lang="fin">
+	  <re>intransitiv</re>
+          <t pos="V">sulaa</t>
+            <xg>
+               <x>Snøen smelter.</x>
+               <xt>Lumi sulaa.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">smelte</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
             <t pos="V">sulattaa</t>
+            <xg>
+               <x>Regnet smelter snøen.</x>
+               <xt>Sade sulattaa lumen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16604,8 +16665,23 @@
          <l pos="V">starte</l>
       </lg>
       <mg>
+        <tg xml:lang="fin">
+	  <re>transitiv</re>
+          <t pos="V">käynnistää</t>
+	  <xg>
+	    <x>Jeg startet bilen.</x>
+	    <xt>Käynnistin auton.</xt>
+	  </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fin">
-            <t pos="V">käynnistää</t>
+	  <re>intransitiv</re>
+            <t pos="V">käynnistyä</t>
+	  <xg>
+	    <x>Bilen startet.</x>
+	    <xt>Auto käynnistyi.</xt>
+	  </xg>
          </tg>
       </mg>
    </e>
@@ -16706,8 +16782,15 @@
          <l pos="V">stifte</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>grunnlegge</re>
             <t pos="V">perustaa</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>papirark</re>
+            <t pos="V">nitoa</t>
          </tg>
       </mg>
    </e>
@@ -16718,6 +16801,19 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="V">kohota</t>
+            <xg>
+               <x>Røyken stiger mot himmelen.</x>
+               <xt>Savu kohoaa taivaalle</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">noustaa</t>
+            <xg>
+               <x>Vannet stiger i flomtida.</x>
+               <xt>Vesi nousee tulva-aikana.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16728,15 +16824,6 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="V">käväistä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">stikke innom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
             <t pos="V">piipahtaa</t>
          </tg>
       </mg>
@@ -16747,17 +16834,13 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">pistellä</t>
+            <t pos="V">pistää</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">stikke</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="V">pistää</t>
+        <tg xml:lang="fin">
+	  <re>flere ganger</re>
+            <t pos="V">pistellä</t>
          </tg>
       </mg>
    </e>
@@ -16830,13 +16913,9 @@
             <t pos="V">hyytyä</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">stivne</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>stivne fort</re>
             <t pos="V">jähmettyä</t>
          </tg>
       </mg>
@@ -16863,16 +16942,20 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="V">luottaa</t>
+            <xg>
+              <x>Jeg stolte på ham.</x>
+              <xt>Luotin häneen.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">stole på</l>
-      </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>støtte seg til for å være trygg</re>
             <t pos="V">turvautua</t>
+            <xg>
+              <x>I den ytterste livsfare stolte han på Gud.</x>
+              <xt>Hengenhädässään hän turvautui Jumalaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16882,7 +16965,8 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="V">pysähtyä</t>
+           <t pos="V">pysähtyä</t>
+	   <re>intransitiv</re>
             <xg>
               <x>Toget stoppa.</x>
               <xt>Juna pysähtyi.</xt>
@@ -16891,6 +16975,7 @@
       </mg>
       <mg>
          <tg xml:lang="fin">
+	   <re>transitiv</re>
             <t pos="V">pysäyttää</t>
             <xg>
               <x>Lokomotivføreren stoppa toget.</x>
@@ -17363,12 +17448,14 @@
          <l pos="V">svekke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" re="få noe til å bli svekka">
+        <tg xml:lang="fin">
+	  <re>transitiv, få noe til å bli svekka</re>
             <t pos="V">heikentää</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="bli svekka">
+        <tg xml:lang="fin">
+	  <re>intransitiv, bli svekka</re>
             <t pos="V">heiketä</t>
          </tg>
       </mg>
@@ -17438,8 +17525,15 @@
          <l pos="V">svi</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin">
+	  <re>intransitiv, fysisk smerte</re>
             <t pos="V">kirvellä</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>transitiv, brenne noe</re>
+          <t pos="V">polttaa</t>
          </tg>
       </mg>
    </e>
@@ -18274,11 +18368,21 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trengeseg på</l>
+         <l pos="V">trenge seg på</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="V">tunkeutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">trenge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tarvita</t>
          </tg>
       </mg>
    </e>
@@ -18509,27 +18613,32 @@
          <l pos="V">tørke</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" re="få til å bli tørr">
+        <tg xml:lang="fin">
+	  <re>få til å bli tørr</re>
             <t pos="V">kuivata</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="få noen til å tørke">
+        <tg xml:lang="fin">
+	    <re>få noen til å tørke</re>
             <t pos="V">kuivattaa</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="bli tørr">
+        <tg xml:lang="fin">
+	  <re>bli tørr</re>
             <t pos="V">kuivua</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="tørke med tue eller handduk">
+        <tg xml:lang="fin">
+	  <re>tørke med tue eller handduk</re>
             <t pos="V">pyyhkiä</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="tørke fort over">
+        <tg xml:lang="fin">
+	  <re>tørke fort over</re>
             <t pos="V">pyyhkäistä</t>
          </tg>
       </mg>
@@ -20089,12 +20198,14 @@
          <l pos="V">ødelegge</l>
       </lg>
       <mg>
-         <tg xml:lang="fin" re="gjøre ubrukelig">
+        <tg xml:lang="fin">
+	  <re>gjøre ubrukelig</re>
             <t pos="V">pilata</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="fin" re="få til å gå i stykker">
+        <tg xml:lang="fin">
+	  <re>få til å gå i stykker</re>
             <t pos="V">rikkoa</t>
          </tg>
       </mg>
