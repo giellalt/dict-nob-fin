@@ -110326,6 +110326,26 @@
    </e>
    <e>
       <lg>
+         <l pos="N">vitnemål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tutkintotodistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">attest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työtodistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">vitnegodtgjørelse</l>
       </lg>
       <mg>
