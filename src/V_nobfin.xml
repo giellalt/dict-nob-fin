@@ -20417,7 +20417,17 @@
    </e>
    <e src="spl">
       <lg>
-         <l pos="V">bli trist/lei seg</l>
+         <l pos="V">bli lei seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tulla surulliseksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli trist</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
