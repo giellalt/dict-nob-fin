@@ -20315,4 +20315,635 @@
          </tg>
       </mg>
    </e>
- </r>
+   <e src="spl">
+      <lg>
+         <l pos="V">amputere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">amputoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">avleire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kerrostua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">avruse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">vieroittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bandasjere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">sitoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bekymre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">huolestuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli forkalket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kalkkeutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli frisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tervehtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli såret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">loukkaantua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli sinnsforvirret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">joutua mielenhäiriöön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli solbrent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">palaa auringossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bli trist/lei seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tulla surulliseksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bøye seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kumartua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">taipua</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">antautua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">briste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">repeytyä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">särkyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">bryte ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">puhjeta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">diagnostisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">diagnosoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">dope</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">huumata doupata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">dosere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">annostella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">dovne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">puutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">feilbehandle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">hoitaa väärin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">fettsuge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">imeä rasvaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">forbrenne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">polttaa </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">foreskrive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">määrätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">forfryse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">paleltua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">forgifte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">myrkyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">forstrekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">venähdyttää revähdyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">forstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">nyrjäyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">fraråde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">neuvoa luopumaan jostakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">friskmelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">julistaa terveeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">gipse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kipsata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">hele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">parantaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">hutre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">hytistä värjötellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">inhalere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">hengittää sitään</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">kaste opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">oksentaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">antaa ylen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">klore</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">raapia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kynsiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">koppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kupata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">kurere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">parantaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">lindre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">lievitää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">menstruere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">menstruoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">obdusere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tehdä ruumiinavaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">overbelaste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">liikakuormittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">overfalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">hyökätä jonkun kimppuun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">plastre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">laastaroida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">prikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">pistellä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">pilkuttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">slite</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">repiä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kuluttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">snyte seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">niistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">spre seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">lievitä hajota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">stoppe blod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tyrehdyttää verenvuoto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">surkle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">rohista lotista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">svime av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">pyörtyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">svulme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">paisua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">syte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">valittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">tørste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">olla janoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">trakassere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kiusata ahdistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">tyrannisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tyrannisoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">utsondre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">erittää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">være nervøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">olla hermostunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">være sulten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">olla nälkäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">være tørst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">olla janoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">vrikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">nyrjäyttää</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">venäyttää</t>
+            <t pos="V">keikuttaa</t>
+         </tg>
+      </mg>
+   </e>
+</r>

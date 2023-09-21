@@ -131880,7 +131880,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">hoitotiede??</t>
+            <t pos="N">sairaanhoidon oppiaine</t>
          </tg>
       </mg>
    </e>
@@ -131890,7 +131890,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">hoitotyön (käden)taidot</t>
+            <t pos="N">hoitotyön kädentaidot</t>
          </tg>
       </mg>
    </e>
@@ -135271,6 +135271,5751 @@
       <mg>
          <tg xml:lang="fin">
             <t pos="N">suorituskyky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">CRP-måler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">CRP-mittari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">Cowperkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">Cowperin rauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">abstinens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">abstinenssi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">achillessene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">akillesjänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">akupunktur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">akupunktio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">albueledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynärnivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">aldring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vanheneminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">allergimedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">allergialääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">allmennlege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yleislääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">alternativ medisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">uskomuslääkintä vaihtoehtolääkintä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">amalgam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">amalgaami</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ambolten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alasin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ambulansesjåfør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ambulanssikuski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">amfetamin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">amfetamiini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ampull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ampulli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">anamnese</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">esitiedot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">anamneesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">åndedrettsorgan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hengityselin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">angrepille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jälkiehkäisytabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">antibiotikum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">antibiootti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">antihistamin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">antihistamiini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">antistoff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vasta-aine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">apetitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruokahalu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">arbeidsterapeut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">toimintaterapeutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">åreinnsnevring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisuonen kaventuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">åreknute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suonikohju</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">armbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käsimurtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">armkrok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käsitaive</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">armledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rannenivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">avlastningspute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">painehaavatyyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">avleiring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kerrostuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bakhode</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">takaraivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">balansenerve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tasapainohermo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barnehjemsbarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lastenkotilapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barneorm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kihomato</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barnesmekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruokalappu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barnesykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lastentauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barnløshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lapsettomuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barselfeber</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lapsivuodekuume</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">barselseng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lapsivuodeaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">viiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bedøvelsesmiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">puudutusaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">beinbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luunmurtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">beinmarg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">selkäydin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">beinskjørhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luukato osteoporoosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bekken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lantio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">belastningsskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasitusvamma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bendelorm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">heisimato</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">besvimelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pyörtyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bevisstløshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tajuttomuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bihule</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sivuontelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bihulebetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">poskiontelotulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bindehinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sidekalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">binyre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lisämunuainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">biopsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">biopsia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blåmerke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mustelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blærehalskjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eturauhanen prostata</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blærekatarr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsarakon tulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bleietruse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaippahousut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blekhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kalpeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blindtarmsbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">umpilisäketulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bloddråpe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">veripisara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bløder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hemofiliapotilas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenvuototautia sairastava ihminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blødersykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenvuototauti hemofilia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodforgiftning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenmyrkytys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sepsis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodgiver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenluovuttaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodgivning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenluovutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodigle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verijuotikas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iilimato</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodkar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisuoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodkreft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisyöpä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodlegeme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisolu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodmangel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vähäverisyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">anemia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenvähyys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodoverføring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verensiirto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodplasma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">veriplasma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodstyrtning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verensyöksy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodsukkerapparat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verensokerimittari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodtrykksfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenpaineen lasku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodtrykksmåler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenpainemittari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodtrykksmedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenpainelääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">blodtype</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verityyppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">boveileder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tukiasumisen omatyöntekijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">brannlaken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pelastuslakana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">brannsår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">palohaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">brenne seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">polttaa itsensä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">brist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">puute</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">särö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bronkie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">keuhkoputki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bronkitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">keuhkoputkentulehdus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">bronkiitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">brystbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rintalasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">buegang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaarikäytävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bukdekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vatsanpeite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bukhulen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vatsaontelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bukspyttkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">haima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">bulimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ahmimishäiriö</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">bulimia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">cannabis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kannabis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">marihuana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">cellegift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">solunsalpaaja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sytostaatti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">solumyrkky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">desinfiseringsmiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">desinfiointiaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">diare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ripuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">difteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kurkkumätä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">difteria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dødsangst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuolemanpelko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dødsårsak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuolinsyy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">doping</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">doping</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dosett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkeannostelija</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">dosetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dostol</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">WC-tuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">døvetolk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">viittomakielen tulkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skoovertrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kenkäsuoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dusjstol</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suihkutuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dyrebitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eläimen purema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">eggstokkbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">munasarjatulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">eggstokkreft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">munasarjasyöpä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">elveblest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nokkosihottuma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nokkosrokko urtikaria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">enzym</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">entsyymi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">epilepsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">epilepsia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ereksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">erektio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ereksjonsproblem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">erektio-ongelma (erektiohäiriö)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ergoterapeut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">toimintaterapeutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ettermiddagsvakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iltapäivävuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">faresignal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaaranmerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fastlege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">omalääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fatle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kolmioliina mitella </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fattigdomsgrense</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">köyhyysraja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">febernedsettende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuumetta alentava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fellesstue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilaiden yhteistila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasvainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fettkul</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasvapatti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lipooma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fettsuging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasvaimnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fibromyalgi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">fibromyalgia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fingerbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sormen murtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fingerledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sorminivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fingerspiss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sormenpää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">piereskellä pierrä </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fluor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">fluori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fødselshjelper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">synnytyksessä avustava kätilö tai lääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fødselsmerke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">syntymämerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fødseltermin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laskettu aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fontanelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aukile</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fordøyelseskanalen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruoansulatuskanava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fordøyelsesorgan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruoansulatuselin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forfryse seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paleltua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forfrysning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paleltuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forkalke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kalkkeutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forkalkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kalkkeutuma kalkkeutuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forkammer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">etukammio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forstørrelsesglass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suurennuslasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forstrekkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">venähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">forstuing</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nyrjähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fostervann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lapsivesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fotbue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jalan holvikaari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fotpleier</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jalkahoitaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fotroten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nilkka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tarsus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fotsopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jalkasieni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">friskmelding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveeksi julistaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">frontallappdemens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">frontotemporaalinen dementia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">otsa-ohimolohkorappeumasta johtuva muistisairaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">fuktighetskrem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kosteusvoide</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gallegang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sappitiehyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gallestein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sappikivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ganeseil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kitakieleke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">genetikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">perinnöllisyystiede genetiikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gentest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">geenitesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">giktfeber</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reumakuume</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">giktknute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reumakyhmy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gjesp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">haukotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">glemsomhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">huonomuistisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gluten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">gluteeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">graviditet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">raskaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">graviditetstest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">raskaustesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hallusinasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aistiharha</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hallusinaatio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">halssene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">päännyökkääjälihas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">halsvirvel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaulanikama</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">håndbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käsimurtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">håndledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ranne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">håndleddsbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">(jänne)tulehdus ranteessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hareskår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">halkio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hårfeste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiusraja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hårrot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiusjuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hårskille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jakaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hårstrå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiuskarva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hasjisj</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hasis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helbreder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">parantaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helsekø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoitojono</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helseplage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveyshaitta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helsesekretær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveydenhuollon sihteeri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">osastonsihteeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helsesjekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveystarkastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helsetilstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveydentila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helvetesild</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vyöruusu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hemoroide</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">peräpukama</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hemorroidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">heroin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">heroiini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hetetokt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuuma aalto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjernebark</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aivokuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjernehinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aivokalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjernehinnebetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aivokalvontulehdus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">meningiitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjernerystelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aivotärähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjertekammer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydämen kammio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjerteklaff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydänläppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjertekrampe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasitusrintakipu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">angina pectoris</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjertemedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydänlääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjerteslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydämenlyönti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjertestans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydänpysähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hjertestarter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sydäniskuri defibrillaattori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hodebunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">päänahka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiusmarto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hodelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">päätäi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hodepinetablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">päänsärkytabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hoftebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lonkkaluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hofteoperasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lonkkaleikkaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hoftepartiet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lonkan seutu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hørenerve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuulohermo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hornhinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sarveiskalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hørselsbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuuloluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hostemedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yskänlääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hovedtillitsvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pääluottamusmies</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hundegalskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vesikauhu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rabies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">raivotauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hvile seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">levätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hvitøye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kovakalvo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">skleera silmämunan valkoinen osa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hypofyse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aivolisäke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hypokonder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luulosairas hypokondrikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">idrettsskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">urheiluvamma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">illebefinnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">huonovointisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">indremedisiner</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sisätautilääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">inhalasjonsspray</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">inhalaatiosumute</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">inkontinens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsankarkailu inkontinenssi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">inneklima</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sisäilma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">innlegge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ottaa sisään (potilaaksi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">innleggelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sisäänkirjautuminen (esim. sairaalaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">insulinsprøyte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">insuliiniruisku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">intensivavdeling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">teho-osasto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">intravenøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suonensisäisesti annettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">iris</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iiris värikalvo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kehäkalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">isjias</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lonkkahermosärky</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iskias</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">isolat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eristyshuone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">jerntablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rautatabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">jomfruhinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">immenkalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kaldsvette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kylmä hiki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kalori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kalori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kapilær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiussuoni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kapillaari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kapsel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kapseli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kardeks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairaanhoitajan kirjaamat potilasta koskevat tiedot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">karvegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suonen seinämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">katarr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">limakalvon tulehdustila katarri </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kikhoste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hinkuyskä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kinin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kiniini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kink</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">venähdys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nyrjähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kinnbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">poskiluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kiropraktor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kiropraktikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjeve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">leuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjevebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">leukaluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjevespyttkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">leuanalussylkirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnshormon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolihormoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnskjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnslemlestelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolielinten silpominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnsoperasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolenkorjausleikkaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnsorgan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolielin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kladd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sängynsuoja vuodesuoja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kosteussuoja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luonnos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">klyster</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">peräruiske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kneledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">polvinivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">knoke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luurangon ulkoneva osa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">esim. kädessä rystynen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">knuskbrenning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tiettyjen yrttien polttaminen tiettyjen akupunktiokohtien kohdalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">koldbrann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuolio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nekroosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kolera</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kolera</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kolesterolsenkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kolesterolia laskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">komplikasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">komplikaatio</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lisävaikeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">konemishandler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaimon pahoinpitelijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">korsbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ristiluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">korsrygg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ristiselkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kosttilskudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ravintolisä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kransåre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisuoni, joka tuo elimeen verta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kravebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">solisluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kreftadvarsel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">varoitus syövästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">krenkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">loukkaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rikkomus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">krybbedød</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kätkytkuolema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">krykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynärsauva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kugalskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hullun lehmän tauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kulltablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hiilitabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kusma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sikotauti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">parotiitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">viilto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">leikkaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kveldsvakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iltavuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kvinneundertrykking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">naisten sorto</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">naisten alistaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kyssesyke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mononukleoosi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kansanomaisesti "pusutauti"</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">laktose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laktoosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">laktoseintoleranse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laktoosi-intoleranssi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">langtidseffekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pikäaikaisvaikutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lårbeinsbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reisiluun murtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lårhals</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reisiluun kaulan murtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">laser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">latexhanske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lateksikäsine</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lateksihanska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">leddbånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelside</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ligamentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">leddgikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelreuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">leddknoke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelnasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">legehjelp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkärin antama hoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">legemiddelskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkkeen aiheuttama haitta/vaurio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">legemsfeil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kehon vika/vamma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">legetime</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkäriaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">leggbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pohjeluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nostolaite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">liggesår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">painehaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">likevektsorgan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tasapainoelin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lintøyrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">liinavaatehuone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">livmormunning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kohdunsuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">livmornedfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kohdun laskeuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">livredning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hengenpelastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">livsfare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hengenvaara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">livsstilsendring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">elämäntapamuutos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">løfter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nostolaite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">løfteseil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nostoliina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">logoped</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">puheterapeutti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lokalbedøvelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paikallispuudutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">luftrør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">henkitorvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ilmaputki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">luftsmerte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ilmavaivojen aiheuttama kipu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">luktkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hajurauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lungeblære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">keuhkorakkula</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alveoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lymfeåre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">imusuoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lymfekjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">imurauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lymfekreft</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">imusolmukesyöpä imukudossyöpä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lymfooma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">lymfesystem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">imusuonisto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">madrassovertrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">patjansuojus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">magesår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vatsahaava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ulkustauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">malaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">malaria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mania</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">manisk-depressiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaksisuuntainen bipolaarinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">maanis-depressiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">massasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hieronta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">matforgiftning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruokamyrkytys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">medisinbeger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkekuppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">medisinrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkehuone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">medisinrør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkeputki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">melkeåre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">maitotiehyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">melkekjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">maitorauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mellomgulvet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pallea</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">menisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelkierukka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">meniski</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">menstruasjonsblod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuukautisvuoto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">menstruasjonssmerter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuukautiskipu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">meslinger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tuhkarokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">migrene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">migreeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mikrobe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mikrobi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mikroskop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mikroskooppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mikstur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mikstuura</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mildhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hellävaraisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mishandler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pahoinpitelijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">mobbeoffer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kiusaamisen uhri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">morfin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">morfiini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">morkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">istukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">motgift</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vastamyrkky antidootti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">munnsår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rohtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">muskelknute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lihaskyhmy</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lihassolukasvain esim. kohdussa myooma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nakkesene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">niskajänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">narkose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nukutus yleisanestesia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">narkoosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nattevakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yövuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nattevåking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yöheräily</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">naturmedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luontaislääkintä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">luonnonlääkintä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">navlebrokk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">napatyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">navlesnor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">napanuora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nedstemthet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alakuloisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">neglebitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sormien paleltuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">neglerotsbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kynsivallintulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nesebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenäluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">neseblødning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenäverenvuoto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nesebrusk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenärusto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nesedråper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenätippa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">neserot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenäjuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">neseskillevegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenän väliseinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nesespray</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nenäsuihke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nevrolog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">neurologi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nevrose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">neuroosi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lievä psykkinen häiriötila esim. ahdistuneisuushäiriö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nikotinplaster</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nikotiinilaastari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nyresten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">munuaiskivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nyresvikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">munuaisten_vajaatoiminta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">nødsituasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hätätila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">oduksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruumiinavaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">obduktio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">oksygenflaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">happipullo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">opium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">oopiumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">oppkast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">oksennus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">optiker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">optikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">overarm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">olkavarsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">overarmsbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">olkaluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">overhud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">orvaskesi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">epidermi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">overkjeve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yläleuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">overvåkningen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">valvomo valvonta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">p-pille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ehkäisypilleri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">e-pilleri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">panikkangst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paniikkihäiriö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pannebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">otsaluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pariapparat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkesumutin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pasientskadeerstatning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilasvahinkokorvaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">passivitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">passiivisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">penicillin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">penisilliini</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">penishode</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terska</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">peniksen kärki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">peniksen pää</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pilleavhengig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lääkeriippuvuus tableteista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pinsett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pinsetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">plasstillitsvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tietyn työyksikön luottamusmies</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">plattfot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lättäjalka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lattajalka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pleietrengende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoivaa tarvitseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">portør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilaskuljettaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">praktikant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">harjoittelija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">prevensjonsmiddel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ehkäisymenetelmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">privatklinikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yksityisklinikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">prolaps</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pullistuma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">esiin luiskahtaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">prolapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">protese</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">proteesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">psoriasis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psoriasis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psoriaasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">psykiater</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psykiatri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">psykose</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psykoosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">psykotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psykoottinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pustebesvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hengitysvaikeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pustemaskin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hengityslaite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">radiograf</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">röntgenhoitaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">radon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">radon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">regnbuehinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">värikalvo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kehäkalvo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iiris</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">reisesyke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">matkapahoinvointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">reisesyketablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">matkapahoinvointilääke (-tabletti)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">renholder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">siivooja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">revmatiker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reumapotilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">revmatisme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">reumasairaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ribbeinsbrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kylkiluun_murtuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ringfinger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nimetön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ringesnor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">soittokello (hoitolaitoksessa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ringorm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ihosilsa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ihon sieni-infektio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">rosen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruusu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">erysipelas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">rullator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rollaattori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">rusmisbruker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">huumausaineiden väärinkäyttäjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">huumeidenkäyttäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ryggmargsbrokk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hermostoputken sulkeutumishäiriö</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">meningomyeloseele (MMC)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ryggvirvelsøyle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">selkäranka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">selkänikamien muodostama ranka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">røykebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">katkokävely klaudikaatio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">røyker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tupakoija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">saltvann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suolavesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">schizofreni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">skitsofrenia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sekret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">erite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">seksualliv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">seksuaalielämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">senebetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jännetulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">senefeste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jänteen luukiinnityskohta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">senestrekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suonenveto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sengehest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sängynlaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sengeliggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vuoteenoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">senilitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vanhuudenheikkous</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vanhuudenhöperyys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">seniliteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sidebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kylkiluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sidemuskel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vino vatsalihas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sirkulasjonssvikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verenkiertohäiriö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skambein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">häpylyy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skarlagenfeber</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tulirokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skinnbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sääriluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skjelving</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vapina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skrumplever</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kirroosi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">maksakirroosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skulderbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">olkatulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skulderledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">olkanivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">skurv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vauvan tali-ihottuma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vauvan taliköhnä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">slitasjegikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelrikko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">artroosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">smerteklinikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kipuklinikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sneglehus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">simpukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">snue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nuha</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">soppinfeksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sieni-infektio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sovetablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">unilääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">spesialist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">spesialisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sprøytespiss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">(ruiskun) neula</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">spyttkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sylkirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">stemmebånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">äänihuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">steroid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">steroidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">stetoskop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">stetoskooppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">stigbøyle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">jalustin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">stikklaken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">poikkilakana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">strekkskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">venähdys</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">revähdys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">struma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suurentunut kilpirauhanen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">struuma </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">strupelokk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kurkunkansi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">strålebehandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sädehoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">strålesmerte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">säteilevä kipu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">styrketrening</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">voimaharjoittelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">stær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kaihi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kottarainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">støtskade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">iskuvamma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">støttebandasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tukiside</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sugetablett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">imeskelytabletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sunnhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">surhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">happamuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">svie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kirvely</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykdomsstadium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairauden vaihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykebåre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">paarit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykejournal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilasasiakirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykeleie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairastaminen vuoteenomana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pyöräily</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sårsalve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">haavavoide</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">haavasalva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sårskorpe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rupi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sårsting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">haavaommel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sædblære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rakkularauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">søliaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">keliakia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">søsterhjelp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kohottautumisteline</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">søvnløshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">unettomuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tannhelsesjef</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hampaiden hoidon ylin johtaja (läänissä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tannkjøtt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ien</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tannkjøttbetennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ientulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tannpine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hammassärky</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tannregulering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hampaiden oikominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tempur-madrass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tempur-patja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tempur-pute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tempur-tyyny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tennisalbue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tenniskyynärpää epikondyliitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">termometer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lämpömittari</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuumemittari</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tidligvakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">aamuvuoro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">toalettforhøyer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">WC-istuimen koroke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tolketilbud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tulkkauspalvelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">transplantasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">elinsiirto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tredagersfeber</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vauvarokko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kolmen päivän kuume</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">treningsrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuntosali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">trygghetsalarm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">turvahälytin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">trykksår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">painehaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tuffer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vanutuppo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pumpulituppo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tungebein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kieliluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tungeblad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tungerot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kielen tyvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tungespyttkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kielenalussylkirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tvangsforestilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pakkoajatus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tvangsinnleggelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pakkohoitoon määrääminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pakkohoitoon joutuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tyfus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lavantauti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tyyfus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tynntarm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ohutsuoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tåledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">varvasnivel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tårekanal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynelkanava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tårenesekanal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynelkanava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">underarm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynärvarsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">underarmsbein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kyynärluu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">underkjevetann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alaleuan hammas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">underleppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alahuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">urinblære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsarakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">urinflaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsapullo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">urinrør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsaputki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">urinsyregikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kihti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">urolog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">urologi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vaginaåpning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">emättimen suuaukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vaktturnus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työvuorolista</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">työvuoroluettelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vannlatingsproblem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virtsaamisongelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vaskekrem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pesuvoide</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">virus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">virus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">virusmedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">viruslääke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vitaminmangel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vitamiinivaje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ødem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">turvotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øredråper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">korvatipat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øregrop</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">preaurikulaarinen imusolmuke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ørespyttkjertel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">korvasylkirauhanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øretrompet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">korvatorvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">østrogen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">estrogeeni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øyehule</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">silmäkuoppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øyelege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">silmälääkäri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øyets bindehinne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">silmän sidekalvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">øyevipper</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">silmäripset</t>
          </tg>
       </mg>
    </e>
