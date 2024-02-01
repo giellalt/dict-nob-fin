@@ -18578,5 +18578,7505 @@
          </tg>
       </mg>
    </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">abdominal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">abdominaali abdominalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selkärankaisen vatsaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">adaptiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">adaptiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eliöiden sopeutumiseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">administrerende direktør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toimitusjohtaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">aerob</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aerobinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hapellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hapen käyttöön liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">affektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">affektiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tunnetilaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">akseptabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyväksyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">akuttgeriatrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">akuuttigeriatria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">akuttmedisinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">akuuttilääketieteellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vammojen ja akuuttien sairauksien kiireellinen hoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">akuttpsykiatrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">akuuttipsykiatria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">alarmerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hälyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">aldersbetinget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ikään liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">alderstypisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ikätyypillinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tiettyyn ikään liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">aldrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ikääntyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vanheneva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">alert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valpas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">varuilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">alfablokkerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alfareseptoreita salpaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">allmennkulturell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleiseen kulttuuriin liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">allmennmenneskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleisinhimillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">allmennpraktiserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleislääketieteeseen perehtynyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ambivalent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ambivalentti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ambivalenttinen ristiriitainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">anal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">anaali-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"> peräaukon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">anatomisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">anatominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">angstdempende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ahdistusta lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">animalsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eläin-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">animaalinen eläimiin liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">anorektal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">peräaukko-peräsuoli-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">anspent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jännittynyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">anstrengende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rasittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">antipsykotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">antipsykoottinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykoosien hoitoon käytettävä </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">apatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">apaattinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">henkisesti lamaantunut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välinpitämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">åpenlys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">avoin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">julkinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">appetittvekkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ruokahalua herättävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">karakteristisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luonteenomainen kuvaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">arbeidsbesparende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käytännöllinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">työtä helpottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">aromatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aromaattinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyvänhajuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">arteriell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valtimollinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valtimoihin liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">aterosklerotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valtimotauti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ateroskleroosi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valtimonkovettumatauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">atferdsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käyttäytymis-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käyttäytymiseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">atypisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">atyyppinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätyypillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">autorisert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laillistettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">avbrutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">katkonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">avførende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laksatiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suolen toimintaa stimuloiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">avklarende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selventävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">avslappet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rento</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rentoutunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">avtakende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vähenevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">heikkenevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tyyntyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bærbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kannettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bakenforliggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">takana oleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taustalla piilossa oleva merkityksellinen asia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bakerst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taimmainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taimpana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bakteriologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">bakteriologinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">bakteeriopillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">balinesisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">balilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">banal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">banaali</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lattea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">arkinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">basal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">basaali</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">basaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">(lääket) tyven puoleinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bedervet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pilaantunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">begynnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alkava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">orastava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">beisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kitkerä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">karvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pureva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">besk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kitkerä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">karvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pureva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bekreftende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vahvistava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myöntävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myönteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bekvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mukava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">benzodiazepinliknende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">bentsodiatsepiinin kaltainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">beslektet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">være - med noen olla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sukua jollekin sukulais-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bevegelseshemmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikuntarajoitteinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikuntaesteinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikuntavammainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bevegelseshindrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikkumista estävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bifil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">biseksuaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">biografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">elämänkerrallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">biopsykososial</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">biopsykososiaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">blendende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">häikäisevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">loistava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">blødende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vuotava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">blodglukosesenkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">verensokeria alentava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">blodtrykkssenkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">verenpainetta alentava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">brannfarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">palovaarallinen tulenarka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">brannforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tulipalojen ehkäisy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">brysk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">töykeä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tuima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">buet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kaareva käyrä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">väärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">cellebiologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">solubiologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">cyanotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sinertävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syanoottinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">dedikert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">omistautunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">definitiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lopullinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">delikat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">herkullinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">arkaluontoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">dement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">dementoitunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">dempende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaimentava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hillitsevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taltuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">dental</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hammas-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">deskriptiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuvaileva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">deskriptiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">diabetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">diabeteksesta johtuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sokeritautinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">diakonal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lävistäjä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viisto</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">diastolisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">diastolinen - blodtrykk alapaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">diskriminerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syrjivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">disponibel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käytettävissä oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">distinkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">drømmeliknende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">unenomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">effektfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaikuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">egenomsorgsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itsehoitoa koskea</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">eksakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tarkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">eksemplarisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">esimerkillinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">esikuvallinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mallikelpoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">eksistensiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eksistentiaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">olemassaoloon liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">endimensjonal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksiulotteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">energikrevende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">voimia vaativa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">engasjerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiinnostusta herättävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">osallistumista edistävä </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">epileptisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epileptinen epilepsiaan liittyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epilepsiasta aiheutuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">epokegjørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käänteentekevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">erfaringsbasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kokemukseen perustuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ernæringsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ravitsemusta koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">essensiell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">olennainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välttämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">evidensbasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">näyttöön perustuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fagetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattietiikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fallforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kaatumisia ehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fallisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fåmælt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vähäpuheinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaitelias</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaitonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">familiær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">perhe-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tuttavallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">familiebasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">perheeseen perustuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">perheeseen pohjautuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">farmakodynamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">farmakodynaaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lääkeaineen vaikutusta koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">farmakokinetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">farmakokineettinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lääkeaineen imeytymiseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">farmakologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">farmakologiaan liittyvä lääkeaineoppiin liityvä lääkeaineen vaikutusta tutkivaan tieteeseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fatal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kohtalokas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">feilfri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">virheetön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fekal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">uloste- ulosteperäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fekaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fellesmenneskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleisinhimillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fenomenologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fenomenologinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fenomenologian mukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fettoppløselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rasvaliukoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fibrøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fibroottinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">flekkvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paikoin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paikoitellen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">flerfoldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">moninkertainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">følbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tuntuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">havaittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">følelsesmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tunneperäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">følgelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">siis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">niinpä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">joten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">foranderlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">muuttuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forbausende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hämmästyttävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ihmeteltävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forberedt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valmistautunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forenlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteensopiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sopiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">foreslått</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ehdotettu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">esitetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forhøyet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">korotettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forlengede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jatkettu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pidennetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forsinket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myöhästynyt viivästynyt myöhässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forskningsbasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tutkimukseen perustuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forskriftsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">määräysten mukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forstått</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ymmärretty</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käsitetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forstemmende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">masentava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forstyrrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">häiritsevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forsvarsløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">puolustuskyvytön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fortløpende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jatkuva yhtäjaksoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fortvilet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätoivoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">forutinntatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ennakkoluuloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">framoverbøyd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eteenpäin taipunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">framoverlutende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eteenpäin kallistunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">framtredende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">näkyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tärkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fredfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rauhallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fremragende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erinomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fristende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">houkutteleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">from</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hurskas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nöyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">frontal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">otsa-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">otsaan liittyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">frontaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">frossen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jäätynyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viluinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fuktighetsgivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kosteuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fundamental</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">perustavanlaatuinen olennainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fundamentaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">funksjonsbegrensende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toimintaa rajoittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">funksjonsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toiminnallinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toimintoja koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">funksjonsstøttende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toimintaa tukeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">fyllestgjørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">riittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gastrointestinal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mahaan ja suoleen liittyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">gastrointestinaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">gastroenteraalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gastrokolisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">gastrokolinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ulostamis- </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">geriatrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">geriatrinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gerontologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ikääntmistä ja vanhenemisprosessia koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">gerontologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">givende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">antoisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjenkjennelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tunnistettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjenlevende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">elossa oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjennomførbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toteuttamiskelpoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjennomgående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleinen toistuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läpikotaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjennomskinnelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läpikuultava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjentakende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toistuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kertautuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gjentatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toistuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hedelmätön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">maho</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">gropdannende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuoppia muodostava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">habituell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toistuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luonteenomainen habituaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">halvsittende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">puoli-istuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">håndgripelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kouriintuntuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">helsefaglig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">terveysalaa koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">helsemessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">terveyttä koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">helsepolitisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">terveyspolitiikkaa koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">helserelatert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">terveyteen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">heterofil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">heterofiilinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vetovoima erilaisuuksien välillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjelpavhengig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">avusta riippuvainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjelpeløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">avuton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjemløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">koditon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjemmeboende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kotona asuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjemmekoselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kodikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjemmeværende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kotona oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hjertesyk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sydänsairas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">homøostatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">homeostaattinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"> homeostaasin mukainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itseään tasapainottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">høyfrekvent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">korkeafrekvenssinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">humørfylt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyväntuulinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hurtigvirkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nopeasti vaikuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hverdagslig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">arkipäiväinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jokapäiväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hygienisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hygieeninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hyperplastisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyperplastinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikaa kasvava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">iboende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sisäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luontainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">identitetsbærende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">identiteettiä kantava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">identitetsbevarende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">identiteettiä yllä pitävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">iherdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sinnikäs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sitkeä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">uuttera</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">illeluktende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pahanhajuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ilter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiivas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">äksy</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kimeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="Adv">imidlertid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">silti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv"></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv"></t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">immobiliserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikkumista estävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">imponerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaikuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inaktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäaktiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">individbasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksilöpohjainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">individualistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksilökeskeinen individualistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">indremedisinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sisätauteja koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">infeksjonsforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">infektioita ehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inflammatorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tulehdusta aiheuttava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">inflammatorinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">infrarød</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">infrapunainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">infrapuna-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">initial</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alkukirjain</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">initiativløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aloitekyvytön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inkl.</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jkn mukaan luettuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inklusiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jonkun mukaan luettuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">innadvendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sisäänpäinkääntynyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">innbydende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">houkutteleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inngående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">saapuva perusteellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">innledende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alustava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alku-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inspirerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">innoittava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">inspiroiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">institusjonell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laitosmainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">insituutioon liittyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valtion laitokseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">instrumentell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">instrumentaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välineellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">insulinproduserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">insuliinia tuottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">intakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">koskematon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ehjä </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">intens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">voimakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">iøynefallende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">silmiinpistävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">irrasjonell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">järjenvastainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">irriterende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ärsyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">isolerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eristävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">istykkerrevet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kappaleiksi revitty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">karibisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">karibialainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">katabolsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">katabolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kirurgisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kirurginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kjærkommen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mieluinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tervetullut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">klam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kostea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nihkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kohortavhengig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">riippuvainen kohortista</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kollateral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kollateraalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kollektivistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kollektiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteisöllinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteisöä koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kolonial</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kolonialistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">komfortabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mukava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kommunikativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kommunikatiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kommunikoiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viestintään liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">komorbid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">monihäiriönen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kompensatorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sairauksien yhteisesiintymiseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">komplementær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">komplementaarinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">täydentävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">komplikasjonsforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">komplikaatioita ehkäisevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hoidon sivuvaikutuksia ehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">konsistent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteneväinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">loogisesti ristiriidaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kontaktskapende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteydenpitoa edistävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kontakteja edistävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kontekstuell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">(tekstin) asiayhteyttä koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kontekstuaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">koordinerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">koordinoiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kortfattet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lyhytsanainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suppea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tiivis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kortsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lyhytaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kosmetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kosmeettinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kulturbetinget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kulttuurista johtuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kunnskapsbasert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tutkimukseen pohjautuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">kvantitativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">määrällinen kvantitatiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">labil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">labiili epästabiili pysymätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lærerik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">opettavainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">låg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">matala</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pieni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">landlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">maalainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">maalais-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">langtidsvirkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkävaikutteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">latent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">piilevä latentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lateral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lateraalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sivuttainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ulko-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">latterlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">naurettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lavgradig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">matala-asteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lavmælt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hiljainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaimea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">matalaääninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">legal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laillinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luvallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">legemlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ruumiillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">legitim</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laillinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">oikeutettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lekker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">herkullinen viehättävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lesbisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lesbo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">homoseksuaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lettfattelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">helppotajuinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yleistajuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">levd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">eletty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liila</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sinipunainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">violetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">livgivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">elämää antava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">livsbegrensende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">elämää rajoittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">livsforlengende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">elämää pidentävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lokalbedøvende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paikallisesti puuduttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lokalmedisinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhden tai useamman kunnan yhdessä sairaalan kanssa järjestämä terveydenhoitokeskus </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">longitudinal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkittäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkittäissuuntainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">longitudinell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkittäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkittäis- pitkittäissuuntainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">løsningsorientert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ratkaisukeskeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lovbestemt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lakisääteinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lainalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lovfestet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">laillistettu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lailla vahvistettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lovregulert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lailla säännelty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">lydhør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">herkkäkuuloinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valpas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">maktesløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">voimaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">målbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mitattavissa oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">markant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">huomattava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">maskinell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">koneellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kone-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">måteholden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kohtuullinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taloudellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">medansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">osavastuullinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">medikamentell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lääkkeellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lääke-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">medisinskfaglig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lääketieteellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">mellommenneskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ihmistenvälinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">meningsfylt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mielekäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">menneskevennlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ihmisystävällinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">merkantil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kaupallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">metabolsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">metabolinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"> aineenvaihdunnallinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">metaboliaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">metodisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">järjestelmällinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">menetelmällinen metodinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">middels</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">keskinkertainen keskitasoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">miljømessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ympäristöllinen ympäristöä koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">mini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pikku-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">minkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vähenevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pienenevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">mistenkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäilyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">molekylær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">molekulaarinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">molekyylinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">monitorerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">monitoroiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valvova</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tarkkaileva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">monoton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksitoikkoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">motivasjonsstyrkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">motivaatiota vahvistava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">motiverende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">motivoiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">motorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">motorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikettä koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">liikkumista koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">motsetningsfylt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ristiriitainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">motstandsdyktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vastustuskykyinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">mottakelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vastaanottavainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">altis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">herkkä jollk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">mottatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vastaanotettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">multifaktoriell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">monitekijäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">multifaktoriaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">muslimsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">muslimi islamilainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">islaminuskoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nærstående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läheinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nattlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yöllinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">öinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nedlatende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alentuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nevrobiologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neurobiologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nevrologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neurologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nevropsykiatrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neuropsykiatrinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nevroradiologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neuroradiologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nevrotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neuroottinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">neuroosiin liittyvä neuroosia poteva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">non-verbal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nonverbaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sanaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">normalvektig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">normaalipainoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nøyeregnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tarkka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kitsas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nøysom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaatimaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">nytteløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyödytön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">obstruktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">obstruktiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tukkeuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">odontologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">odontologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oksygentransporterende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">happea kuljettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">omforent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sovittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ondartet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pahanlaatuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppdelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jaettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">opplevd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">koettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppløftende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mieltä ylentävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppmuntrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">piristävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rohkaiseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppnåelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">saavutettavissa olevasaatavissa oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">opprivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">järkyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">opprørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">Järkyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppsøkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">- virksomhet etsivä toiminta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppstått</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syntynyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">muodostunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oppsvulmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pöhöttynyt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paisunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">oral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suullinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">oraalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">organisasjonsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">järjestöllinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ortogeriatrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vanhusten tuki- ja liikuntaelinkirurginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ortopedisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tuki- ja liikuntaelinkirurginen ortopedinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">osmotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">osmoottinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">osteoporotisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">osteoporoottinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luukatoon liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ovennevnt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yllä mainittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ovenstående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yllä oleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">edellä mainittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overaktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yliaktiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overflatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pinnallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overkommelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kohtuullinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overrepresentert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yliedustettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overskytende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ylijäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">overvektig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ylipainoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">øyeblikkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">silmänräpäyksellinen oitis välitön </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">palliativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">palliatiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">(oireita) lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">påpasselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valpas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">huolellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">parkinsonistisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">Parkinsonintautiin liittyvä parkinsonismia koskeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">pasientansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">potilaasta vastuussa oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">pasientrapportert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">potilaan itsensä raportoima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">passé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ohi mennyt vanhanaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">patologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">patologinen tautiperäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sairaalloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">patologisk-anatomisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">patologisanatominen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">perifer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ääreis- perifeerinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toisarvoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">periodevis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kausittainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jaksottainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">peristaltisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">peristaltiikka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suoliston liike</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">peroral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">peroraalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suun kautta otettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">personsentrert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksilöllinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">potilaskeskeinen </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">pinlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiusallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">poliklinisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">polikliininen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">poliklinikalla avohoitona annettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">porøs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">huokoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">postmenopausal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">menopaussin jälkeinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">postmenopausaalinen kuukautisten loppumisen jälkeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">postoperativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">postoperatiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">leikkauksen jälkeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">posttraumatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">posttraumaattinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vamman jälkeinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaurion jälkeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">potent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">voimakas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">potentti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">praktiserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattia harjoittava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jtk harjoittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">prehospital</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ensihoitoa koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">akuuttihoitoon liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">perimenopausal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">perimenopausaalinen viimeisten kuukautisten aikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">prekær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tukala</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epävärma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiperä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">preliminær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alustava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">premenopausal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">premenopausaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuukautisten loppumista edeltävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">premorbid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ennen sairastumista esiintyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">present</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paikalla oleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nyt mielessä oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">presserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiireellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pakottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">primærforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ennaltaehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">problemløsende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ongelmia ratkaiseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">progredierende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">etenevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">prosentvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">prosentuaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">prosessorientert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">prosessiorientoitunut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">prosessisuuntautunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">provisorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tilapäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">väliaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">provoserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">provosoiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">provokatiivinen provokatorinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">psykometrisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykometrinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykologisia kykyjä ja ominaisuuksia mittaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">psykomotorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykomotorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ajatukseen ja liikkeeseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">psykoterapeutisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykoterapeuttinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">puborektal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">puborektaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rådende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valliteseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ram</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">- til å løpe kova juoksemaan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">- til å lyve kamala valehtelemaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rasediskriminerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rotusortoa koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rotuerotteluun liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">realitetsorienterende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">realiteettiterapia (dementian hoidossa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">refleksiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tahdosta riippumaton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">refleksiivinomainen taaksepäin suuntautuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">reflektorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">reflektorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">heijasteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">resiprok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">resiprookkinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vastavuoroinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">keskinäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">resterende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">puuttuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jäljellä oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">restriktiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rajoittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">retningsgivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viitteellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">reversibel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">palautuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käännettävä (tekn) vaihtosuuntainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">revmatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">reumaattinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rigid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jäykkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">risikabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaarallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">risikofylt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaarallinen riskialtis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rituell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rituaalinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">raju</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rødlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">punertava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ruglet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">horjuva epävakaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätasainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">rykkvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nykivä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nykien</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sysäyksittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">særegen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erityinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">omaleimainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">- for noe(n) jllk ominainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sammenpresset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteenpuristettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sammenvirkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhdessä vaikuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sanselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aistittava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aistillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sansestimulerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aisteja stimuloiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sederende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">rauhoittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sekundærforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toissijaisesti ennaltaehkäisevä (rajoittaa sairauden / vamman laatua)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sekundærprofylaktisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toissijaisesti profylaktinen / ennaltaehkäisevä / ennakolta suojaava (ehkäisee sairauden / vamman uusiutumista)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selektiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selektiivinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valikoiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvbiografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">omaelämänkerrallinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">autobiograafinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvforsterkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itseään vahvistava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvhevdende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itseään korostava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvkritisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itsekriittinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvmordsforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itsemurhia ennaltaehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">selvsentrert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itsekeskeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sensitiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">herkkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sensomotorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sensomotorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aistituntemuksien ja liikeiden yhteistoimintaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sensorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sensorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aistituntemuksiin tai niiden työstämiseen aivoissa liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">simpel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksinkertainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">arkinen arkipäiväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">simultan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">samanaikainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">simultaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sinnslidende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mielenterveysongelmia poteva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sistnevnt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viimeksi mainittu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">situasjonell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tilannekohtainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skadd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vahingoittunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skadelidende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vahinkoa kärsinyt / kärsivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skadet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vahingoittunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skamfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nolo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nolostunut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">bli - over noe nolostua jstk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skiftende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaihteleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skjønnsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">harkinnanvarainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skremt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pelästunyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">skrøpelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hauras</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">heikko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaivainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">slagrammende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aivoinfarktin saava </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">slagrammet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aivoinfarktin saanut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">små</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pieni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pienet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">smakfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aistikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">smertefri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kivuton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">smertelindrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kipua lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">smertestillende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kipua lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">snau</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paljas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">niukka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vajaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">somatosensorisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">somatosensorinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">omasta kehosta saapuviin tunto¨rsykkeisiin liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sømløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">uneton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sosialpsykologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sosiaalipsykologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sovende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nukkuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">søvndyssende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">unettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sparsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">säästeliäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">spekulativ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">spekulatiivinen keinotteleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">järkeilyyn pohjautuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">spesialtilpasset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mittojen mukaan tehty</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mittatilaustyönä tehty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">spirende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">orastava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">itävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">spiselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syötävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">språkkyndig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kielitaitoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stabiliserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vakauttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stedlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">paikallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">steril</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">steriili</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stilltiende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sanaton hiljainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stimulerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">stimuloiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stoisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">stoalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">storstilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suurimittakaavainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">støtabsorberende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">iskuja vaimentava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">støttende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">(ihmistä) tukeva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">støyende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">metelöivä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">meluisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">stressreduserende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">stressiä vähentävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">strevsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">työteliäs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">työläs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sviktende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pettävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sykdomsforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sairauksia ennaltaehkäisevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sykdomsframkallende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tauteja aiheuttava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">patogeeninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sykdomsmodulerende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sairautta lieventävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sairautta jarruttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">sykepleievitenskapelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hoitotiedettä koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hoitotieteellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">symptomatisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">oireenmukainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">symptomaattinen nosotrooppinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">symptomlindrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">oireita lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">synshemmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">näkövammainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">synsnedsettende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">näköä haittaava </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">systemisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">systeeminen (lääk) sisävaikutteinen järjestelmätason</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">systolisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">systolinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sydämen supistumisvaiheeseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">talende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">puhuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tankevekkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ajatuksia herättävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">telemedisinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">telelääketiede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">etälääketiede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">temporal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aika-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ajallinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ohimo-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tenkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ajateltavissa oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">terapeutisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">terapeuttinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tertiær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tertiääri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kolmantena oleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kolmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tertiærforebyggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yritys estää tai rajoittaa ongelmasta, vammasta tai sairaudesta johtuvia seuraamuksia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilbakeholden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pidättyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pidättyväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilbakeskuende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taaksepäin suuntautuva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">takautuva retrospektiivinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilbakestående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jälkeenjäänyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilbøyelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">taipuvainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tillitsskapende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">luottamusta herättävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilstedeværende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läsnäoleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läsnäolija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tiltakende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lisääntyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yltyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tilvant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">totunnainen tuttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tjenesteytende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">palvelun tarjoava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">toksisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toksinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myrkyllinen myrkky-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tolerant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suvaitseva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tolerantti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tørr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">trekkpsykologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">persoonallisuuspiirrepsykologinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">trisyklisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">trisyklinen kolmirenkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">trukket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vedetty vähennetty</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">päällystetty</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">trykkavlastende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">painetta lievittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">tyngende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">raskas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uærbødig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäkunnioittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uaktuell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäajankohtainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uatskillelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erottamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uavvendelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">väistämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ubearbeidet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">työstämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ubesværet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaivaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ubetydelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mitätön merkityksetön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vähäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ubevisst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tiedostamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ubrukt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">käyttämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">udekket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">peittämätön katteeton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tyydyttämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uelastisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">joustamaton venymätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ufaglært</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattitaidoton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uforenlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yhteensopimaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uforklarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selittämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uforsvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vastuuton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uforutsett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ennalta aavistamaton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yllättävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uforutsigbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yllätyksellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ugjenkjennelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tunnistamaton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mahdoton tuntea / tunnistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ugjennomsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">läpinäkymätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uhemmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">estoton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uinteressert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välinpitämätön</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">haluton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ukarakterisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäluonteenomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ukomfortabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epämukava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ukontrollert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hallitsematon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uleselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mahdoton lukea</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ulønnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">palkaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uløst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ratkaisematon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">umenneskelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäinhimillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">underrepresentert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aliedustettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">undervektig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alipainoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ungdommelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nuorekas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">unnvikende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välttelevä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kiertelevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uoppmerksom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tarkaamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uoppnåelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">saavuttamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uoverstigelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ylitsepääsemätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">upåklagelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">moitteeton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">upresis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätäsmällinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uproblematisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ongelmaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">urodynamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">urodynaaminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">alavirtsateiden toimintaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uskadd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vahingoittumaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uspiselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syötäväksi kelpaamaton</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">syömäkelvoton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">usunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäterveellinen epäterve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utelukkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksinomaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utenkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mahdoton ajatella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utflytende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäselvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sekava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uthvilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">levännyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utilfredsstillende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätyydyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utøvende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jtk harjoittava</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">utøvende kunstner</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">esittävä taiteilija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utpreget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tyypillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utslagsgivende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ratkaiseva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">määräävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uttørrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuivattava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valittu valikoitu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utviklingsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kehityksellinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kehitystä koskeva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kehitykseen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utviklingspsykologisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kehityspsykologinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kehityspsykologiaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utydelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäselvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hämärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">utypisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epätyypillinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uutholdelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sietämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uvegerlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">väistämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">uvesentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäolennainen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäoleellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epämääräinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäselvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ympäripyöreä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vaginal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaginaalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">emättimeen liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vakthavende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">päivystävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">päivystäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vandig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vetinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vandrende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaeltava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vanedannende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">riippuvuutta aiheuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vannoppløselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vesiliukoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">varsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">varovainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vederlagsfri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">maksuton</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vedlagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">oheinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vektbærende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">painoa kantava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">velbefinnende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hyvinvointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">velegnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sopiva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">omiaan oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">veletablert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vakiintunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">velkjent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tuttu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tunnettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">velment</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hyväntahtoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vemodig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">haikea</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kaihoisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">verdighetsbevarende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ihmisarvoa säilyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">verst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pahin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pahimmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">vertikal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pystysuora</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">medvirkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myötävaikuttava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">visceral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">viskeraalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sisäelimiin liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">volumøkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tilavuutta lisäävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">volyymia lisäävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">yrkesetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattietiikkaan liittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">ytterligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lisä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vielä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">entistä enemmän </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">bestående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kestävä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pysyvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">det bestående</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">cerebral</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aivoperäinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">serebraalinen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">cerebral parese</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">diffus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">epäselvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">diffuusi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">diffust lys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">distriktsmedisinsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">distriktsmedisinsk senter haja-asutusseudulla oleva erikois- ja perusterveydenhuollon yhteinen keskus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">henseende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suhde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">i så henseende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">siinä suhteessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">hvilende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lepäävä hvilende nattevakt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">passiivinen yövuoro, jossa voi levätä lyhytkestoisia tai akuutteja työtehtäviä lukuunottamatta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">inneliggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">sisällä oleva</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">inneliggende kateter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kestokatetri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="A">opplagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">selvä</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">føle seg opplagt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">olla vireessä/vedossa</t>
+         </tg>
+      </mg>
+   </e>
 </r>
 
