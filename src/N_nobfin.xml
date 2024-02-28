@@ -11,6 +11,16 @@
    </e>
    <e>
       <lg>
+         <l pos="N">ambolt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alasin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">ABC-bok</l>
       </lg>
       <mg>
