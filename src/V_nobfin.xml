@@ -24826,4 +24826,30 @@
          </tg>
       </mg>
    </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">aspirere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">aspiroida</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">vetää (henkeen) (pois)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="V">dehydrere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">dehydroida</t>
+            <t pos="V">kuivattaa</t>
+         </tg>
+      </mg>
+   </e>
 </r>

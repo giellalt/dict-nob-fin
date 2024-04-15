@@ -898,7 +898,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">aktor</l>
+        <l pos="N">aktor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -114353,21 +114353,6 @@
    </e>
    <e src="spl">
       <lg>
-         <l pos="N">aspirere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">aspiroida</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">vetää (henkeen) (pois)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="spl">
-      <lg>
          <l pos="N">astmaanfall</l>
       </lg>
       <mg>
@@ -116552,11 +116537,14 @@
    </e>
    <e src="spl">
       <lg>
-         <l pos="N">dehydrere</l>
+         <l pos="N">dehydrering</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kuivua</t>
+            <t pos="N">dehydraatio</t>
+            <t pos="N">kuivuminen</t>
+            <t pos="N">kuivattaminen</t>
+            <t pos="N">nestehukka</t>
          </tg>
       </mg>
    </e>
