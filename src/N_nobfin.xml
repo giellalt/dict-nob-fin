@@ -20526,6 +20526,16 @@
    </e>
    <e>
       <lg>
+         <l pos="N">fakkling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">soihdutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">faktum</l>
       </lg>
       <mg>
