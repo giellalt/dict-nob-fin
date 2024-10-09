@@ -44142,7 +44142,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kaliff</l>
+         <l pos="N">kalif</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -135754,7 +135754,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">luukato osteoporoosi</t>
+            <t pos="N">luukato</t>
+            <t pos="N">osteoporoosi</t>
          </tg>
       </mg>
    </e>
