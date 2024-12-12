@@ -50605,7 +50605,14 @@ For the full license text, see the link above.</lic>
          <l pos="N">kost</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
+        <tg xml:lang="fin"
+	    <re>til å koste med</re>
+           <t pos="N">luuta</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+	  <re>til å spise</re>
             <t pos="N">ruoka</t>
          </tg>
       </mg>
@@ -149156,6 +149163,353 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kiintymys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dobbeltkretslæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">muutetaan sekä toimintatapoja että arvomaailmaa johtamisessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">doktorgrad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tohtorinarvo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dyreterapi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">eläinterapia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">evaluering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">arviointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">folkehelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kansanterveys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">gest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ele</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">handlingskompetanse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pätevyys tiettyyn toimintaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">håndverksfag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">käsityöammatti</t>
+            <t pos="N">ammatti, jossa toimitaan käsin tehden </t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helsearbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kansanterveyteen liittyvä työ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">helseforskjell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveysero</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">indikator</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">indikaattori</t>
+            <t pos="N">osoitin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">informasjonsteknologi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tietotekniikka</t>
+            <t pos="N">informaatioteknologia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">internkontroll</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sisäinen valvonta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kjønnsrolle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sukupuolirooli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kompetanseutvikling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">(työntekijän) osaamisen kehittäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kulturbakgrunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kulttuuritausta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">litterat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kirjallisuusihminen kirjailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">menneskesyn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ihmiskäsitys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">normalitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">normaalius</t>
+            <t pos="N">normaalitila</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">påkjenning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rasitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">pasientrettighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">potilaan oikeudet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">personopplysningslov</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">laki asiakastietojen käsittelystä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">personvern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">henkilötietosuoja</t>
+            <t pos="N">intimiteettisuoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">prioritering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">priorisointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">profesjonsutdanning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ammatillinen koulutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">prosessmål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">prosessin tavoitteet (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">psykonevroimmunologi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">psykoneuroimmunologia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">realitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tosiasia</t>
+            <t pos="N">realiteetti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">samfunnsmedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">terveyden ja sairastamisen yhteiskunnallisten yhteyksien tutkimiseen suuntautuva lääketiede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">strukturmål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">rakenteelliset tavoitteet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykdomsforklaring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairautta selittävät tekijät (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">taushet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaitiolo</t>
+            <t pos="N">vaikeneminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">telemedisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">telelääketiede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">tydning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tulkinta</t>
          </tg>
       </mg>
    </e>
