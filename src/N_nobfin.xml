@@ -149513,4 +149513,266 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+<r>
+   <e src="spl">
+      <lg>
+         <l pos="N">avlastning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">apu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">helpotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">dilemma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pulma</t>
+            <t pos="N">dilemma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">hofte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lonkka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lanne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">lantio</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">innvirkning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vaikutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ivaretakelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">huolehtiminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoitaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">astia</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mies</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">karsykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">verisuonisairaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">kartlegging</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kartoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">leddbevegelighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">nivelten liikkuvuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">ly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suoja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">miljøtiltak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ympäristötoimenpide</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">toimenpiteet, jotka tukevat sairaan ihmisen omien resurssien käyttöä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">omsorgsarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hoitotyö</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">opplæring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">oppiminen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">opetus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">koulutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">oversikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">yleiskatsaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">problemstilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ongelmanasettelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">samtykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">suostumus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sluttfase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">loppuvaihe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">viimeinen vaihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">spesialisthelsetjeneste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">erikoissairaanhoito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">sykehjem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sairaskoti</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">vanhustenhoitolaitos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">søvn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">uni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
+         <l pos="N">vurderingsskjema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">arviointilomake</t>
+         </tg>
+      </mg>
+   </e>
 </r>

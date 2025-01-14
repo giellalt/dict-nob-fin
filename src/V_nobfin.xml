@@ -30067,4 +30067,24 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">mies    astia</t>
+         </tg>
+      </mg>
+   <e src="spl">
+      <lg>
+         <l pos="V">inndele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">jakaa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">jaotella</t>
+         </tg>
+      </mg>
+   </e>
 </r>
