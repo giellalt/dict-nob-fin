@@ -33,1401 +33,1401 @@ For the full license text, see the link above.</lic>
 
    <e>
       <lg>
-         <l pos="Prop">Afrika</l>
+         <l pos="N" type="Prop">Afrika</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Afrikka</t>
+            <t pos="N" type="Prop">Afrikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Albania</l>
+         <l pos="N" type="Prop">Albania</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Albania</t>
+            <t pos="N" type="Prop">Albania</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Amerika</l>
+         <l pos="N" type="Prop">Amerika</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Amerikka</t>
+            <t pos="N" type="Prop">Amerikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Argentina</l>
+         <l pos="N" type="Prop">Argentina</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Argentiina</t>
+            <t pos="N" type="Prop">Argentiina</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Armenia</l>
+         <l pos="N" type="Prop">Armenia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Armenia</t>
+            <t pos="N" type="Prop">Armenia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Asia</l>
+         <l pos="N" type="Prop">Asia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Aasia</t>
+            <t pos="N" type="Prop">Aasia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Aten</l>
+         <l pos="N" type="Prop">Aten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Ateena</t>
+            <t pos="N" type="Prop">Ateena</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Atlanterhavet</l>
+         <l pos="N" type="Prop">Atlanterhavet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Atlantti</t>
+            <t pos="N" type="Prop">Atlantti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Baltikum</l>
+         <l pos="N" type="Prop">Baltikum</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Baltia</t>
+            <t pos="N" type="Prop">Baltia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Belgia</l>
+         <l pos="N" type="Prop">Belgia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Belgia</t>
+            <t pos="N" type="Prop">Belgia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Berghäll</l>
+         <l pos="N" type="Prop">Berghäll</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kallio</t>
+            <t pos="N" type="Prop">Kallio</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Berlin</l>
+         <l pos="N" type="Prop">Berlin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Berliini</t>
+            <t pos="N" type="Prop">Berliini</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Bibelen</l>
+         <l pos="N" type="Prop">Bibelen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Raamattu</t>
+            <t pos="N" type="Prop">Raamattu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Bjørneborg</l>
+         <l pos="N" type="Prop">Bjørneborg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pori</t>
+            <t pos="N" type="Prop">Pori</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Borgå</l>
+         <l pos="N" type="Prop">Borgå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Porvoo</t>
+            <t pos="N" type="Prop">Porvoo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Bulgaria</l>
+         <l pos="N" type="Prop">Bulgaria</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Bulgaria</t>
+            <t pos="N" type="Prop">Bulgaria</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Bysants</l>
+         <l pos="N" type="Prop">Bysants</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Bysantti</t>
+            <t pos="N" type="Prop">Bysantti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">California</l>
+         <l pos="N" type="Prop">California</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kalifornia</t>
+            <t pos="N" type="Prop">Kalifornia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Canada</l>
+         <l pos="N" type="Prop">Canada</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kanada</t>
+            <t pos="N" type="Prop">Kanada</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Cuba</l>
+         <l pos="N" type="Prop">Cuba</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kuuba</t>
+            <t pos="N" type="Prop">Kuuba</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Danmark</l>
+         <l pos="N" type="Prop">Danmark</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tanska</t>
+            <t pos="N" type="Prop">Tanska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Dickursby</l>
+         <l pos="N" type="Prop">Dickursby</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tikkurila</t>
+            <t pos="N" type="Prop">Tikkurila</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Donald Duck</l>
+         <l pos="N" type="Prop">Donald Duck</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Aku Ankka</t>
+            <t pos="N" type="Prop">Aku Ankka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Egypt</l>
+         <l pos="N" type="Prop">Egypt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Egypti</t>
+            <t pos="N" type="Prop">Egypti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Enare</l>
+         <l pos="N" type="Prop">Enare</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Inari</t>
+            <t pos="N" type="Prop">Inari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">England</l>
+         <l pos="N" type="Prop">England</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Englanti</t>
+            <t pos="N" type="Prop">Englanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Esbo</l>
+         <l pos="N" type="Prop">Esbo</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Espoo</t>
+            <t pos="N" type="Prop">Espoo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Estland</l>
+         <l pos="N" type="Prop">Estland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Viro</t>
+            <t pos="N" type="Prop">Viro</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Eurasia</l>
+         <l pos="N" type="Prop">Eurasia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Euraasia</t>
+            <t pos="N" type="Prop">Euraasia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Europa</l>
+         <l pos="N" type="Prop">Europa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Eurooppa</t>
+            <t pos="N" type="Prop">Eurooppa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Finland</l>
+         <l pos="N" type="Prop">Finland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Suomi</t>
+            <t pos="N" type="Prop">Suomi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Frankrike</l>
+         <l pos="N" type="Prop">Frankrike</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Ranska</t>
+            <t pos="N" type="Prop">Ranska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Grønland</l>
+         <l pos="N" type="Prop">Grønland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Grönlanti</t>
+            <t pos="N" type="Prop">Grönlanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Gud</l>
+         <l pos="N" type="Prop">Gud</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Jumala</t>
+            <t pos="N" type="Prop">Jumala</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Gustav</l>
+         <l pos="N" type="Prop">Gustav</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kustaa</t>
+            <t pos="N" type="Prop">Kustaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Handelskompaniet</l>
+         <l pos="N" type="Prop">Handelskompaniet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kauppakomppania</t>
+            <t pos="N" type="Prop">Kauppakomppania</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Hellas</l>
+         <l pos="N" type="Prop">Hellas</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kreikka</t>
+            <t pos="N" type="Prop">Kreikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Helsingfors</l>
+         <l pos="N" type="Prop">Helsingfors</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Helsinki</t>
+            <t pos="N" type="Prop">Helsinki</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Holland</l>
+         <l pos="N" type="Prop">Holland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Hollanti</t>
+            <t pos="N" type="Prop">Hollanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">India</l>
+         <l pos="N" type="Prop">India</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Intia</t>
+            <t pos="N" type="Prop">Intia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Indonesia</l>
+         <l pos="N" type="Prop">Indonesia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Indonesia</t>
+            <t pos="N" type="Prop">Indonesia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Irland</l>
+         <l pos="N" type="Prop">Irland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Irlanti</t>
+            <t pos="N" type="Prop">Irlanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Island</l>
+         <l pos="N" type="Prop">Island</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Islanti</t>
+            <t pos="N" type="Prop">Islanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Italia</l>
+         <l pos="N" type="Prop">Italia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Italia</t>
+            <t pos="N" type="Prop">Italia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Japan</l>
+         <l pos="N" type="Prop">Japan</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Japani</t>
+            <t pos="N" type="Prop">Japani</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Jesus</l>
+         <l pos="N" type="Prop">Jesus</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Jeesus</t>
+            <t pos="N" type="Prop">Jeesus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Jorda</l>
+         <l pos="N" type="Prop">Jorda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Maa</t>
+            <t pos="N" type="Prop">Maa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kampen</l>
+         <l pos="N" type="Prop">Kampen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kamppi</t>
+            <t pos="N" type="Prop">Kamppi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Karelen</l>
+         <l pos="N" type="Prop">Karelen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Karjala</t>
+            <t pos="N" type="Prop">Karjala</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Karl</l>
+         <l pos="N" type="Prop">Karl</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kaarle</t>
+            <t pos="N" type="Prop">Kaarle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Karlsvogna</l>
+         <l pos="N" type="Prop">Karlsvogna</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Otava</t>
+            <t pos="N" type="Prop">Otava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kenya</l>
+         <l pos="N" type="Prop">Kenya</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kenia</t>
+            <t pos="N" type="Prop">Kenia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kina</l>
+         <l pos="N" type="Prop">Kina</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kiina</t>
+            <t pos="N" type="Prop">Kiina</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kiribati</l>
+         <l pos="N" type="Prop">Kiribati</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kiribati</t>
+            <t pos="N" type="Prop">Kiribati</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kongo</l>
+         <l pos="N" type="Prop">Kongo</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kongo</t>
+            <t pos="N" type="Prop">Kongo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Konstantinopel</l>
+         <l pos="N" type="Prop">Konstantinopel</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Konstantinopoli</t>
+            <t pos="N" type="Prop">Konstantinopoli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Koranen</l>
+         <l pos="N" type="Prop">Koranen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Koraani</t>
+            <t pos="N" type="Prop">Koraani</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Korea</l>
+         <l pos="N" type="Prop">Korea</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Korea</t>
+            <t pos="N" type="Prop">Korea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kotka</l>
+         <l pos="N" type="Prop">Kotka</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kotka</t>
+            <t pos="N" type="Prop">Kotka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kroatia</l>
+         <l pos="N" type="Prop">Kroatia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kroatia</t>
+            <t pos="N" type="Prop">Kroatia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Kyrkslätt</l>
+         <l pos="N" type="Prop">Kyrkslätt</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kirkkonummi</t>
+            <t pos="N" type="Prop">Kirkkonummi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">København</l>
+         <l pos="N" type="Prop">København</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Kööpenhamina</t>
+            <t pos="N" type="Prop">Kööpenhamina</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Ladoga</l>
+         <l pos="N" type="Prop">Ladoga</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Laatokka</t>
+            <t pos="N" type="Prop">Laatokka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Lahtis</l>
+         <l pos="N" type="Prop">Lahtis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Lahti</t>
+            <t pos="N" type="Prop">Lahti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Lappland</l>
+         <l pos="N" type="Prop">Lappland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Lappi</t>
+            <t pos="N" type="Prop">Lappi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Latvia</l>
+         <l pos="N" type="Prop">Latvia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Latvia</t>
+            <t pos="N" type="Prop">Latvia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Litauen</l>
+         <l pos="N" type="Prop">Litauen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Liettua</t>
+            <t pos="N" type="Prop">Liettua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">London</l>
+         <l pos="N" type="Prop">London</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Lontoo</t>
+            <t pos="N" type="Prop">Lontoo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Lovisa</l>
+         <l pos="N" type="Prop">Lovisa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Loviisa</t>
+            <t pos="N" type="Prop">Loviisa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Mali</l>
+         <l pos="N" type="Prop">Mali</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Mali</t>
+            <t pos="N" type="Prop">Mali</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Malta</l>
+         <l pos="N" type="Prop">Malta</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Malta</t>
+            <t pos="N" type="Prop">Malta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Mari</l>
+         <l pos="N" type="Prop">Mari</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Mari</t>
+            <t pos="N" type="Prop">Mari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Marokko</l>
+         <l pos="N" type="Prop">Marokko</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Marokko</t>
+            <t pos="N" type="Prop">Marokko</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Melkeveien</l>
+         <l pos="N" type="Prop">Melkeveien</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Linnunrata</t>
+            <t pos="N" type="Prop">Linnunrata</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Midtøsten</l>
+         <l pos="N" type="Prop">Midtøsten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Lähi-itä</t>
+            <t pos="N" type="Prop">Lähi-itä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Moldova</l>
+         <l pos="N" type="Prop">Moldova</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Moldova</t>
+            <t pos="N" type="Prop">Moldova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Moskva</l>
+         <l pos="N" type="Prop">Moskva</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Moskova</t>
+            <t pos="N" type="Prop">Moskova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nauru</l>
+         <l pos="N" type="Prop">Nauru</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Nauru</t>
+            <t pos="N" type="Prop">Nauru</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nederland</l>
+         <l pos="N" type="Prop">Nederland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Alankomaa</t>
+            <t pos="N" type="Prop">Alankomaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nepal</l>
+         <l pos="N" type="Prop">Nepal</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Nepal</t>
+            <t pos="N" type="Prop">Nepal</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nord-Amerika</l>
+         <l pos="N" type="Prop">Nord-Amerika</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pohjois-Amerikka</t>
+            <t pos="N" type="Prop">Pohjois-Amerikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nord-Europa</l>
+         <l pos="N" type="Prop">Nord-Europa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pohjois-Eurooppa</t>
+            <t pos="N" type="Prop">Pohjois-Eurooppa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Norden</l>
+         <l pos="N" type="Prop">Norden</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pohjola</t>
+            <t pos="N" type="Prop">Pohjola</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Norge</l>
+         <l pos="N" type="Prop">Norge</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Norja</t>
+            <t pos="N" type="Prop">Norja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nyland</l>
+         <l pos="N" type="Prop">Nyland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Uusimaa</t>
+            <t pos="N" type="Prop">Uusimaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nådendal</l>
+         <l pos="N" type="Prop">Nådendal</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Naantali</t>
+            <t pos="N" type="Prop">Naantali</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Palestina</l>
+         <l pos="N" type="Prop">Palestina</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Palestiina</t>
+            <t pos="N" type="Prop">Palestiina</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Paris</l>
+         <l pos="N" type="Prop">Paris</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pariisi</t>
+            <t pos="N" type="Prop">Pariisi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Polen</l>
+         <l pos="N" type="Prop">Polen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Puola</t>
+            <t pos="N" type="Prop">Puola</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Portugal</l>
+         <l pos="N" type="Prop">Portugal</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Portugali</t>
+            <t pos="N" type="Prop">Portugali</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Preussen</l>
+         <l pos="N" type="Prop">Preussen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Preussi</t>
+            <t pos="N" type="Prop">Preussi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Raumo</l>
+         <l pos="N" type="Prop">Raumo</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Rauma</t>
+            <t pos="N" type="Prop">Rauma</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Riga</l>
+         <l pos="N" type="Prop">Riga</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Riika</t>
+            <t pos="N" type="Prop">Riika</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Roma</l>
+         <l pos="N" type="Prop">Roma</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Rooma</t>
+            <t pos="N" type="Prop">Rooma</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Russland</l>
+         <l pos="N" type="Prop">Russland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Venäjä</t>
+            <t pos="N" type="Prop">Venäjä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">SI-system</l>
+         <l pos="N" type="Prop">SI-system</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">SI-järjestelmä</t>
+            <t pos="N" type="Prop">SI-järjestelmä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sahara</l>
+         <l pos="N" type="Prop">Sahara</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Sahara</t>
+            <t pos="N" type="Prop">Sahara</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Satakunda</l>
+         <l pos="N" type="Prop">Satakunda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Satakunta</t>
+            <t pos="N" type="Prop">Satakunta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Savolax</l>
+         <l pos="N" type="Prop">Savolax</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Savo</t>
+            <t pos="N" type="Prop">Savo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Serbia</l>
+         <l pos="N" type="Prop">Serbia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Serbia</t>
+            <t pos="N" type="Prop">Serbia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sibir</l>
+         <l pos="N" type="Prop">Sibir</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Siperia</t>
+            <t pos="N" type="Prop">Siperia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Skottland</l>
+         <l pos="N" type="Prop">Skottland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Skotlanti</t>
+            <t pos="N" type="Prop">Skotlanti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sodankylä</l>
+         <l pos="N" type="Prop">Sodankylä</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Sodankylä</t>
+            <t pos="N" type="Prop">Sodankylä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sola</l>
+         <l pos="N" type="Prop">Sola</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Aurinko</t>
+            <t pos="N" type="Prop">Aurinko</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sovjetunionen</l>
+         <l pos="N" type="Prop">Sovjetunionen</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Neuvostoliitto</t>
+            <t pos="N" type="Prop">Neuvostoliitto</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Spania</l>
+         <l pos="N" type="Prop">Spania</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Espanja</t>
+            <t pos="N" type="Prop">Espanja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">St. Michel</l>
+         <l pos="N" type="Prop">St. Michel</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Mikkeli</t>
+            <t pos="N" type="Prop">Mikkeli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">St. Petersburg</l>
+         <l pos="N" type="Prop">St. Petersburg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pietari</t>
+            <t pos="N" type="Prop">Pietari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Stockholm</l>
+         <l pos="N" type="Prop">Stockholm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tukholma</t>
+            <t pos="N" type="Prop">Tukholma</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Storbritannia</l>
+         <l pos="N" type="Prop">Storbritannia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Iso-Britannia</t>
+            <t pos="N" type="Prop">Iso-Britannia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sveits</l>
+         <l pos="N" type="Prop">Sveits</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Sveitsi</t>
+            <t pos="N" type="Prop">Sveitsi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sverige</l>
+         <l pos="N" type="Prop">Sverige</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Ruotsi</t>
+            <t pos="N" type="Prop">Ruotsi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Syria</l>
+         <l pos="N" type="Prop">Syria</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Syyria</t>
+            <t pos="N" type="Prop">Syyria</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Sør-Amerika</l>
+         <l pos="N" type="Prop">Sør-Amerika</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Etelä-Amerikka</t>
+            <t pos="N" type="Prop">Etelä-Amerikka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tallinn</l>
+         <l pos="N" type="Prop">Tallinn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tallinna</t>
+            <t pos="N" type="Prop">Tallinna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tammerfors</l>
+         <l pos="N" type="Prop">Tammerfors</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tampere</t>
+            <t pos="N" type="Prop">Tampere</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tana</l>
+         <l pos="N" type="Prop">Tana</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Teno</t>
+            <t pos="N" type="Prop">Teno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tavastehus</l>
+         <l pos="N" type="Prop">Tavastehus</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Hämeenlinna</t>
+            <t pos="N" type="Prop">Hämeenlinna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Thailand</l>
+         <l pos="N" type="Prop">Thailand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Thaimaa</t>
+            <t pos="N" type="Prop">Thaimaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tibet</l>
+         <l pos="N" type="Prop">Tibet</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tiibet</t>
+            <t pos="N" type="Prop">Tiibet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tonga</l>
+         <l pos="N" type="Prop">Tonga</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tonga</t>
+            <t pos="N" type="Prop">Tonga</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Torneå</l>
+         <l pos="N" type="Prop">Torneå</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tornio</t>
+            <t pos="N" type="Prop">Tornio</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Träskenda</l>
+         <l pos="N" type="Prop">Träskenda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Järvenpää</t>
+            <t pos="N" type="Prop">Järvenpää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tuvalu</l>
+         <l pos="N" type="Prop">Tuvalu</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tuvalu</t>
+            <t pos="N" type="Prop">Tuvalu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tyrkia</l>
+         <l pos="N" type="Prop">Tyrkia</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Turkki</t>
+            <t pos="N" type="Prop">Turkki</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Tyskland</l>
+         <l pos="N" type="Prop">Tyskland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Saksa</t>
+            <t pos="N" type="Prop">Saksa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">USA</l>
+         <l pos="N" type="Prop">USA</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Yhdysvallat</t>
+            <t pos="N" type="Prop">Yhdysvallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Ukraina</l>
+         <l pos="N" type="Prop">Ukraina</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Ukraina</t>
+            <t pos="N" type="Prop">Ukraina</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Uleåborg</l>
+         <l pos="N" type="Prop">Uleåborg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Oulu</t>
+            <t pos="N" type="Prop">Oulu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Ungarn</l>
+         <l pos="N" type="Prop">Ungarn</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Unkari</t>
+            <t pos="N" type="Prop">Unkari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Vanda</l>
+         <l pos="N" type="Prop">Vanda</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Vantaa</t>
+            <t pos="N" type="Prop">Vantaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Vasa</l>
+         <l pos="N" type="Prop">Vasa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Vaasa</t>
+            <t pos="N" type="Prop">Vaasa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Viborg</l>
+         <l pos="N" type="Prop">Viborg</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Viipuri</t>
+            <t pos="N" type="Prop">Viipuri</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Vietnam</l>
+         <l pos="N" type="Prop">Vietnam</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Vietnam</t>
+            <t pos="N" type="Prop">Vietnam</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Villemannstrand</l>
+         <l pos="N" type="Prop">Villemannstrand</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Lappeenranta</t>
+            <t pos="N" type="Prop">Lappeenranta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Warsava</l>
+         <l pos="N" type="Prop">Warsava</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Varsova</t>
+            <t pos="N" type="Prop">Varsova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Åbo</l>
+         <l pos="N" type="Prop">Åbo</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Turku</t>
+            <t pos="N" type="Prop">Turku</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Åland</l>
+         <l pos="N" type="Prop">Åland</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Ahvenanmaa</t>
+            <t pos="N" type="Prop">Ahvenanmaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Österbotten</l>
+         <l pos="N" type="Prop">Österbotten</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Pohjanmaa</t>
+            <t pos="N" type="Prop">Pohjanmaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Øst-Europa</l>
+         <l pos="N" type="Prop">Øst-Europa</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Prop">Itä-Eurooppa</t>
+            <t pos="N" type="Prop">Itä-Eurooppa</t>
          </tg>
       </mg>
    </e>
