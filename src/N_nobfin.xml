@@ -97927,8 +97927,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tak</l>
       </lg>
       <mg>
-	  <re>hustak</re>
         <tg xml:lang="fin">
+	         <re>hustak</re>
             <t pos="N">katto</t>
          </tg>
       </mg>
@@ -97938,8 +97938,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tak</l>
       </lg>
       <mg>
-	  <re>grep</re>
          <tg xml:lang="fin">
+            <re>grep</re>
             <t pos="N">ote</t>
          </tg>
       </mg>
