@@ -106877,8 +106877,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">valg</l>
       </lg>
       <mg>
-	<tg xml:lang="fin">
-	  <re>prosessen å velge</re>x
+	      <tg xml:lang="fin">
+	         <re>prosessen å velge</re>
             <t pos="N">valitseminen</t>
          </tg>
       </mg>
@@ -143398,21 +143398,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="spl">
       <lg>
-         <l pos="i ro og mak N">mak</l>
+         <l pos="N">mak</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="i ro og mak N">sanonnoissa rauhallisuus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="i ro og mak N"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="i ro og mak N"></t>
+            <re>sanonnoissa</re>
+            <t pos="N">rauhallisuus</t>
          </tg>
       </mg>
    </e>
@@ -143428,21 +143419,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="spl">
       <lg>
-         <l pos="meter per sekund">m/s</l>
+         <l pos="N">m/s</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="meter per sekund">N</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="meter per sekund">metriä sekunnissa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="meter per sekund"></t>
+            <re>meter per sekund</re>
+            <t pos="Phrase">metriä sekunnissa</t>
          </tg>
       </mg>
    </e>
@@ -143498,21 +143480,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="spl">
       <lg>
-         <l pos="sette iverk N">iverk</l>
+         <l pos="N">iverk</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="sette iverk N">sanonnoissa (panna) toimeen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="sette iverk N"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="sette iverk N"></t>
+            <re>sanonnoissa</re>
+            <t pos="Phrase">(panna) toimeen</t>
          </tg>
       </mg>
    </e>
@@ -144868,21 +144841,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="spl">
       <lg>
-         <l pos="viime vuonna">fjor i fjor N</l>
+         <l pos="N">fjor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="viime vuonna"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="viime vuonna"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="viime vuonna"></t>
+            <re>i fjor</re>
+            <t pos="Phrase">viime vuonna</t>
          </tg>
       </mg>
    </e>
