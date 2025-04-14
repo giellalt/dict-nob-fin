@@ -144852,6 +144852,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="spl">
       <lg>
+         <l pos="Phrase">i fjor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Phrase">viime vuonna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="spl">
+      <lg>
          <l pos="N">fjernkontroll</l>
       </lg>
       <mg>
