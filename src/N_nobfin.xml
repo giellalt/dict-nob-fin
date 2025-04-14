@@ -116788,11 +116788,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">dikotomi</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">disiplinfag</l>
@@ -121699,11 +121699,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">kjønnslemlestelse</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">kjønnsleppe</l>
@@ -143696,11 +143696,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">audiogram</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">anoreksi</l>
@@ -144251,16 +144251,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">sammenfatning</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">rykning</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">rotoverflate</l>
@@ -146641,16 +146641,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">øygard</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">overlevering</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">overblikk</l>
@@ -147046,11 +147046,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">mikron</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">merbelastning</l>
@@ -147496,61 +147496,61 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">konkretisering</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">konfliktsituasjon</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">komfort</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">kolikk</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">knepp</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">klokkeslett</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">klokkertro</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">klipp</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">kliniker</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">klapp</l>
       </lg>
-   </e>
-   <e src="spl">
+   </e> -->
+   <!-- <e src="spl">
       <lg>
          <l pos="N">kinosjef</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">kinematograf</l>
@@ -148561,11 +148561,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="spl">
+   <!-- <e src="spl">
       <lg>
          <l pos="N">eksklusjon</l>
       </lg>
-   </e>
+   </e> -->
    <e src="spl">
       <lg>
          <l pos="N">egentid</l>
