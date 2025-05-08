@@ -30082,4 +30082,76 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+     <lg>
+       <l pos="V">votere</l>
+     </lg>
+     <mg>
+       <tg xml:lang="fin">
+	 <t pos="V">äänestää</t>
+       </tg>
+     </mg>
+   </e>
+   <e>
+   <lg>
+   <l pos="V">vektlegge</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <t pos="V">painottaa</t>
+    </tg>
+  </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="V">vedlikeholde</l>
+     </lg>
+     <mg>
+       <tg xml:lang="fin">
+	       <t pos="V">huoltaa</t>
+       </tg>
+     </mg>
+</e>
+<e>
+<lg>
+<l pos="V">utføre</l>
+</lg>
+<mg>
+<tg xml:lang="fin">utnytte
+<t pos="V">suorittaa</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V">utnytte</l>
+</lg>
+<mg>
+<tg xml:lang="fin">
+<t pos="V">toteuttaa</t>
+</tg>
+</mg>
+</e>
+
+<e>
+<lg>
+<l pos="V">uttrykke</l>
+</lg>
+<mg>
+<tg xml:lang="fin">
+<t pos="V">ilmaista</t>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V">ivareta</l>
+</lg>
+<mg>
+<tg xml:lang="fin">
+<t pos="V">huolehtia</t>
+</tg>
+</mg>
+</e>
+
 </r>
