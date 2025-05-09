@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
     </lg>
 
     <mg>
-      <tg xml:lang="fin">
+      <tg xml:lang="fin">>
         <t pos="V">kaavoittaa</t>
       </tg>
     </mg>
@@ -7225,6 +7225,45 @@ For the full license text, see the link above.</lic>
         <t pos="V">saada</t>
       </tg>
     </mg>
+    <mg>
+      <re>ta imot</re>
+      <tg xml:lang="fin">
+        <t pos="V">saada</t>
+
+        <xg>
+          <x>Han fikk en ny bil.</x>
+          <xt>Hän sai uuden auton.</xt>
+        </xg>
+        <xg>
+          <x>Får jeg komme på besøk?</x>
+          <xt>Saanko tulla käymään?</xt>
+        </xg>
+        <xg>
+          <x>Jeg spurte, men fikk ikke lov.</x>
+          <xt>Pyysin, mutta en saanut lupaa.</xt>
+      </tg>
+      </mg>
+    <mg>
+    <re>bli utsatt for</re>
+      <tg xml:lang="fin">
+        <t pos="Phrase">Adverbial + verb</t>
+
+        <xg>
+          <x>Jeg har fått feber.</x>
+          <xt>Minulla on noussut kuume.</xt>
+        </xg>
+        <xg>
+          <x>Frakken fikk rifter.</x>
+          <xt>Takkiin tuli repeämiä.</xt>
+        </xg>
+        <xg>
+          <x>Nå har jeg fått nok.</x>
+          <xt>Nyt minulle riitti.</xt>
+        </xg>
+      </tg>
+      </mg>
+      
+
   </e>
 
   <e>
@@ -13826,6 +13865,10 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="fin">
         <t pos="V">täytyä</t>
       </tg>
+      <xg>
+        <x>Jeg må gå.</x>
+        <xt>Minun täytyy mennä.</xt>
+      </xg>
     </mg>
   </e>
 
@@ -30153,5 +30196,46 @@ For the full license text, see the link above.</lic>
 </tg>
 </mg>
 </e>
+<e>
+<lg>
+<l pos="V">ha</l>
+</lg>
+<mg>
+z´<re>eie</re>
+<tg xml:lang="fin">
+<t pos="V">olla</t>
+<xg>
+<x>Jeg har en venn.</x> 
+<xt>Minulla on ystävä.</xt>
+</tg>
+</mg>
+<mg>
+<re>avslutta handling</re>
+<tg xml:lang="fin">
+<t pos="V">olla</t>
+<xg>
+<x>Jeg har vært på reise.</x>
+<xt>Olen ollut matkalla.</xt>
+</tg>
+</mg>
+</e>
+<e>
+<lg>
+<l pos="V">bli</l>
+</lg>
 
+<mg>  
+<tg xml:lang="fin">
+<t pos="V">tulla</t>
+<xg>
+<x>Han ble syk.</x>
+<xt>Hän tuli sairaaksi.</xt>
+</xg>
+<xg>
+<x>Han ble en god lærer.</x>
+<xt>Hänestä tuli hyvä opettaja.</xt>
+</xg>
+</tg>
+</mg>
+</e>
 </r>
