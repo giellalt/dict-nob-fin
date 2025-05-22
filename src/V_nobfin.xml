@@ -11755,7 +11755,6 @@ For the full license text, see the link above.</lic>
 
         <xg>
           <x>Jeg kan svømme.</x>
-
           <xt>Osaan uida.</xt>
         </xg>
       </tg>
@@ -18759,6 +18758,10 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">pitää</t>
+        <xg>
+          <x>Hva skal vi gjøre?</x>
+          <xt>Mitä meidän pitää tehdä?</xt>
+        </xg>
       </tg>
     </mg>
   </e>
