@@ -7241,6 +7241,7 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Jeg spurte, men fikk ikke lov.</x>
           <xt>Pyysin, mutta en saanut lupaa.</xt>
+	</xg>
       </tg>
       </mg>
     <mg>
@@ -30210,6 +30211,7 @@ z´<re>eie</re>
 <xg>
 <x>Jeg har en venn.</x> 
 <xt>Minulla on ystävä.</xt>
+</xg>
 </tg>
 </mg>
 <mg>
@@ -30219,6 +30221,7 @@ z´<re>eie</re>
 <xg>
 <x>Jeg har vært på reise.</x>
 <xt>Olen ollut matkalla.</xt>
+</xg>
 </tg>
 </mg>
 </e>
@@ -30241,4 +30244,51 @@ z´<re>eie</re>
 </tg>
 </mg>
 </e>
+<e>
+<lg>
+  <l pos="V">oppfylle</l>
+</lg>
+     <mg>
+       <tg xml:lang="fin">
+         <t pos="V">täyttää</t>
+       </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+        <l pos="V">kombinere</l>
+      </lg>
+      <mg>
+        <tg xml:lang="fin">
+          <t pos="V">yhdistää</t>
+        </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="fin">
+          <t pos="V">yhdistellä</t>
+        </tg>
+      </mg>
+      </e>
+  <e>
+    <lg>
+      <l pos="V">overleve</l>
+    </lg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="V">jäädä henkiin</t>
+      </tg>
+    </mg>
+    </e>
+    <e>
+    <lg>
+    <l pos="V">mg</l>
+    </lg>
+    <mg>
+    <tg xml:lang="fin">
+    <t pos="V">pitää</t>
+    </tg>
+    </mg>
+    </e>
+
+
 </r>
