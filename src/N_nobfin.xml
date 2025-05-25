@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">ambolt</l>
       </lg>
-      <mg>
+      <mg>>
          <tg xml:lang="fin">
             <t pos="N">alasin</t>
          </tg>
@@ -149748,4 +149748,76 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="">
+      <lg>
+         <l pos="N">manntall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">väestönlaskenta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">marginalisering</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">syrjäytyminen</t>
+         </tg>
+      </mg>
+      </e>
+   <e>
+      <lg>
+         <l pos="N">senter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">senter</t>
+         </tg>
+      </mg>
+      </e>
+      <e>
+      <lg>
+         <l pos="N">urfolk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alkuperäiskansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kuuri</t>
+         </tg>
+      </mg>
+      </e>
+   <e>|
+      <lg>
+         <l pos="N">fjernundervisning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">etäopetus</t>
+         </tg>
+      </mg>
+      </e>
+      <e>
+      <lg>
+         <l pos="N">distrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">alue</t>
+            <t pos="N">seutu</t>
+         </tg>
+         </mg>
+         </e>
+
 </r>
