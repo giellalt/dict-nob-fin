@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
     </lg>
 
     <mg>
-      <tg xml:lang="fin">>
+      <tg xml:lang="fin">
         <t pos="V">kaavoittaa</t>
       </tg>
     </mg>
@@ -7226,10 +7226,9 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
     <mg>
-      <re>ta imot</re>
       <tg xml:lang="fin">
+        <re>ta imot</re>
         <t pos="V">saada</t>
-
         <xg>
           <x>Han fikk en ny bil.</x>
           <xt>Hän sai uuden auton.</xt>
@@ -7241,12 +7240,12 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Jeg spurte, men fikk ikke lov.</x>
           <xt>Pyysin, mutta en saanut lupaa.</xt>
-	</xg>
+	      </xg>
       </tg>
-      </mg>
+    </mg>
     <mg>
-    <re>bli utsatt for</re>
       <tg xml:lang="fin">
+        <re>bli utsatt for</re>
         <t pos="Phrase">Adverbial + verb</t>
 
         <xg>
@@ -7262,8 +7261,7 @@ For the full license text, see the link above.</lic>
           <xt>Nyt minulle riitti.</xt>
         </xg>
       </tg>
-      </mg>
-      
+    </mg>  
 
   </e>
 
@@ -13864,11 +13862,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <t pos="V">täytyä</t>
+        <xg>
+          <x>Jeg må gå.</x>
+          <xt>Minun täytyy mennä.</xt>
+        </xg>
       </tg>
-      <xg>
-        <x>Jeg må gå.</x>
-        <xt>Minun täytyy mennä.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -30160,89 +30158,89 @@ For the full license text, see the link above.</lic>
      </mg>
 </e>
 <e>
-<lg>
-<l pos="V">utføre</l>
-</lg>
-<mg>
-<tg xml:lang="fin">utnytte
-<t pos="V">suorittaa</t>
-</tg>
-</mg>
+  <lg>
+    <l pos="V">utføre</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <t pos="V">suorittaa</t>
+    </tg>
+  </mg>
 </e>
 <e>
-<lg>
-<l pos="V">utnytte</l>
-</lg>
-<mg>
-<tg xml:lang="fin">
-<t pos="V">toteuttaa</t>
-</tg>
-</mg>
+  <lg>
+    <l pos="V">utnytte</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <t pos="V">toteuttaa</t>
+    </tg>
+  </mg>
 </e>
 
 <e>
-<lg>
-<l pos="V">uttrykke</l>
-</lg>
-<mg>
-<tg xml:lang="fin">
-<t pos="V">ilmaista</t>
-</tg>
-</mg>
+  <lg>
+    <l pos="V">uttrykke</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <t pos="V">ilmaista</t>
+    </tg>
+  </mg>
 </e>
 <e>
-<lg>
-<l pos="V">ivareta</l>
-</lg>
-<mg>
-<tg xml:lang="fin">
-<t pos="V">huolehtia</t>
-</tg>
-</mg>
+  <lg>
+    <l pos="V">ivareta</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <t pos="V">huolehtia</t>
+    </tg>
+  </mg>
 </e>
 <e>
-<lg>
-<l pos="V">ha</l>
-</lg>
-<mg>
-z´<re>eie</re>
-<tg xml:lang="fin">
-<t pos="V">olla</t>
-<xg>
-<x>Jeg har en venn.</x> 
-<xt>Minulla on ystävä.</xt>
-</xg>
-</tg>
-</mg>
-<mg>
-<re>avslutta handling</re>
-<tg xml:lang="fin">
-<t pos="V">olla</t>
-<xg>
-<x>Jeg har vært på reise.</x>
-<xt>Olen ollut matkalla.</xt>
-</xg>
-</tg>
-</mg>
+  <lg>
+    <l pos="V">ha</l>
+  </lg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>eie</re>
+      <t pos="V">olla</t>
+      <xg>
+        <x>Jeg har en venn.</x> 
+        <xt>Minulla on ystävä.</xt>
+      </xg>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>avslutta handling</re>
+      <t pos="V">olla</t>
+      <xg>
+        <x>Jeg har vært på reise.</x>
+        <xt>Olen ollut matkalla.</xt>
+      </xg>
+    </tg>
+  </mg>
 </e>
 <e>
-<lg>
-<l pos="V">bli</l>
-</lg>
+  <lg>
+    <l pos="V">bli</l>
+  </lg>
 
-<mg>  
-<tg xml:lang="fin">
-<t pos="V">tulla</t>
-<xg>
-<x>Han ble syk.</x>
-<xt>Hän tuli sairaaksi.</xt>
-</xg>
-<xg>
-<x>Han ble en god lærer.</x>
-<xt>Hänestä tuli hyvä opettaja.</xt>
-</xg>
-</tg>
-</mg>
+  <mg>  
+    <tg xml:lang="fin">
+      <t pos="V">tulla</t>
+      <xg>
+        <x>Han ble syk.</x>
+        <xt>Hän tuli sairaaksi.</xt>
+      </xg>
+      <xg>
+        <x>Han ble en god lærer.</x>
+        <xt>Hänestä tuli hyvä opettaja.</xt>
+      </xg>
+    </tg>
+  </mg>
 </e>
 <e>
 <lg>
