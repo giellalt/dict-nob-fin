@@ -704,6 +704,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">aseksuell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aseksuaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">asiatisk</l>
       </lg>
       <mg>
@@ -1585,7 +1595,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
         <tg xml:lang="fin">
-	  <re>hevosesta</re>
+	         <re>hevosesta</re>
             <t pos="A">vaaleankeltainen</t>
          </tg>
       </mg>
