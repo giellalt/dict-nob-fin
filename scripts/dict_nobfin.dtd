@@ -3,22 +3,19 @@
 <!ATTLIST e src CDATA #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
-<!ATTLIST l comment CDATA #IMPLIED >
-<!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
-                  N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase ) #REQUIRED >
-<!ATTLIST l src NMTOKEN #IMPLIED >
-<!ATTLIST l val ( IV | TV ) #IMPLIED >
+<!ATTLIST l pos ( A | Adv | CC | CS | Interj | N |
+                  Num | Phrase | Pr | Pron | Prop | V ) #REQUIRED >
 <!ATTLIST l type (Prop) #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>
+
 <!ELEMENT lic (#PCDATA|a)*>
 <!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+
 <!ELEMENT ref (#PCDATA|a|i)*>
 <!ELEMENT sourcenote (#PCDATA|a|i)*>
 <!ELEMENT a (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
 
 <!ELEMENT lg ( l ) >
 
@@ -28,18 +25,15 @@
 <!ATTLIST r xml:lang (nob) #IMPLIED>
 <!ATTLIST r id (nobfin) #IMPLIED>
 
-<!ELEMENT stem ( #PCDATA ) >
-
 <!ELEMENT t ( #PCDATA ) >
-<!ATTLIST t comment CDATA #IMPLIED >
-<!ATTLIST t gen ( f | m | n ) #IMPLIED >
-<!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |
-                  N | Num | Po | Pr | Pron | V | Phrase ) #REQUIRED >
-<!ATTLIST t t_type NMTOKEN #IMPLIED >
+<!ATTLIST t pos ( A | Adv | CC | CS | Interj | N | Num | 
+                  Po | Pr | Pron | V | Phrase | suff ) #REQUIRED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
-<!ELEMENT tg ( re? | syng | t | xg )* >
+<!ELEMENT te ( #PCDATA ) >
+<!ATTLIST te type ( grammar ) #IMPLIED >
+
+<!ELEMENT tg ( re? | syng | (t|te) | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( fin ) #IMPLIED >
 
