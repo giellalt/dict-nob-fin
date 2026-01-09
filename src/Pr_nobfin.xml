@@ -214,7 +214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t type="grammar">elativ</t>
+            <te type="grammar">elativ</te>
             <xg>
               <x>Hun kom fra Kautokeino i dag.</x>
               <xt>Hän tuli Koutokeinosta tänään.</xt>
@@ -223,7 +223,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <t type="grammar">ablativ</t>
+            <te type="grammar">ablativ</te>
             <xg>
               <x>Simo er fra Tammerfors.</x>
               <xt>Simo on Tampereelta.</xt>
@@ -301,7 +301,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t type="grammar">inessiv</t>
+            <te type="grammar">inessiv</te>
             <xg>
               <x>Asun kaupungissa.</x>
               <xt>Jeg bor i byen.</xt>
