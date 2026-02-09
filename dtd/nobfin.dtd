@@ -27,8 +27,9 @@
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t pos ( A | Adv | CC | CS | Interj | N | Num | 
-                  Po | Pr | Pron | V | Phrase | suff ) #REQUIRED >
+                  Po | Pr | Pron | V | suff ) #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
+<!ATTLIST t t_type ( Phrase | expl ) #IMPLIED >
 
 <!ELEMENT te ( #PCDATA ) >
 <!ATTLIST te type ( grammar ) #IMPLIED >
