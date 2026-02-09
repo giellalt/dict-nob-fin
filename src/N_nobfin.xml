@@ -4,7 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../scripts/dict_nobfin.dtd">
+"../dtd/nobfin.dtd">
 <r id="nobfin" xml:lang="nob">
   <lics>
     <lic xml:lang="en">
@@ -143424,7 +143424,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>meter per sekund</re>
-            <t pos="Phrase">metriä sekunnissa</t>
+            <t t_type="Phrase">metriä sekunnissa</t>
          </tg>
       </mg>
    </e>
@@ -143485,7 +143485,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>sanonnoissa</re>
-            <t pos="Phrase">(panna) toimeen</t>
+            <t t_type="Phrase">(panna) toimeen</t>
          </tg>
       </mg>
    </e>
@@ -144846,17 +144846,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <re>i fjor</re>
-            <t pos="Phrase">viime vuonna</t>
+            <t t_type="Phrase">viime vuonna</t>
          </tg>
       </mg>
    </e>
    <e src="spl">
       <lg>
-         <l pos="Phrase">i fjor</l>
+         <l pos="Adv">i fjor</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Phrase">viime vuonna</t>
+            <t t_type="Phrase">viime vuonna</t>
          </tg>
       </mg>
    </e>

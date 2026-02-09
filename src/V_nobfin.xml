@@ -4,7 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../scripts/dict_nobfin.dtd">
+"../dtd/nobfin.dtd">
 <r id="nobfin" xml:lang="nob">
   <lics>
     <lic xml:lang="en">
@@ -7246,7 +7246,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="fin">
         <re>bli utsatt for</re>
-        <t pos="Phrase">Adverbial + verb</t>
+        <t t_type="Phrase">Adverbial + verb</t>
 
         <xg>
           <x>Jeg har fått feber.</x>
