@@ -36,7 +36,7 @@
 
 <!ELEMENT tg ( re? | syng | (t|te) | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
-<!ATTLIST tg xml:lang ( fin ) #IMPLIED >
+<!ATTLIST tg xml:lang ( fin ) #REQUIRED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
