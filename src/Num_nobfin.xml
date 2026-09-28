@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobfin.dtd">
 <r id="nobfin" xml:lang="nob">
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -15,11 +15,9 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-    <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
+      <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,8 +27,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
-  </lics>
-
+   </lics>
    <e>
       <lg>
          <l pos="Num">atten</l>
@@ -38,6 +35,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksantoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48,6 +49,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yksitoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58,6 +63,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -68,6 +77,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -78,6 +91,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisitoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -88,6 +105,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -98,6 +119,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -108,6 +133,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -118,6 +147,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -128,6 +161,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -138,6 +175,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -148,6 +189,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -158,6 +203,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -168,6 +217,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -178,6 +231,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -188,6 +245,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -198,6 +259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljätoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -208,6 +273,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -218,6 +287,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -228,6 +301,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -238,6 +315,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -248,6 +329,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -258,6 +343,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -268,6 +357,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -278,6 +371,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -288,6 +385,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -298,6 +399,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -308,6 +413,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">sata</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -318,6 +427,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -328,6 +441,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -338,6 +455,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksäntoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -348,6 +469,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -358,6 +483,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -368,6 +497,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -378,6 +511,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -388,6 +525,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -398,6 +539,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -408,6 +553,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -418,6 +567,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -428,6 +581,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -438,6 +595,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -448,6 +609,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusitoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -458,6 +623,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -468,6 +637,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -478,6 +651,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -488,6 +665,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -498,6 +679,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -508,6 +693,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -518,6 +707,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -528,6 +721,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -538,6 +735,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -548,6 +749,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -558,6 +763,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -568,6 +777,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -578,6 +791,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -588,6 +805,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -598,6 +819,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -608,6 +833,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -618,6 +847,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -628,6 +861,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -638,6 +875,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -648,6 +889,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -658,6 +903,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -668,6 +917,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">seitsemäntoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -678,6 +931,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kymmenen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -688,6 +945,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -698,6 +959,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -708,6 +973,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -718,6 +987,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -728,6 +1001,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -738,6 +1015,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -748,6 +1029,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -758,6 +1043,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -768,6 +1057,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -778,6 +1071,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -788,6 +1085,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -798,6 +1099,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kaksitoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -808,6 +1113,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -818,6 +1127,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmetoista</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -828,6 +1141,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -838,6 +1155,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -848,6 +1169,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -858,6 +1183,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -868,6 +1197,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -878,6 +1211,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -888,6 +1225,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -898,6 +1239,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -908,6 +1253,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -918,6 +1267,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -928,6 +1281,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -938,6 +1295,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -948,6 +1309,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäyksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -958,6 +1323,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäviisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -968,6 +1337,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäneljä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -978,6 +1351,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäyhdeksän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -988,6 +1365,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäkuusi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -998,6 +1379,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäseitsemän</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1008,6 +1393,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäkaksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1018,6 +1407,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäkolme</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1028,6 +1421,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentäkahdeksan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobfin.dtd">
 <r id="nobfin" xml:lang="nob">
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -15,11 +15,9 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-    <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
+      <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,8 +27,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
-  </lics>
-
+   </lics>
    <e>
       <lg>
          <l pos="Pr">bak</l>
@@ -39,8 +36,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Po">taakse</t>
             <xg>
-              <x>Hun gikk bak huset.</x>
-              <xt>Hän mini talon taakse</xt>
+               <x>Hun gikk bak huset.</x>
+               <xt>Hän mini talon taakse</xt>
             </xg>
          </tg>
       </mg>
@@ -48,8 +45,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
             <xg>
-              <x>Hun var bak huset.</x>
-              <xt>Hän oli talon takana</xt>
+               <x>Hun var bak huset.</x>
+               <xt>Hän oli talon takana</xt>
             </xg>
          </tg>
       </mg>
@@ -61,16 +58,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -81,6 +90,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -91,6 +104,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -101,16 +118,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seasta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -122,24 +151,36 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Po">jälkeen</t>
             <xg>
-              <x>Han ble ferdig etter de andre.</x>
-              <xt>Hän valmistui muiden jälkeen.</xt>
+               <x>Han ble ferdig etter de andre.</x>
+               <xt>Hän valmistui muiden jälkeen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perään</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perässä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perästä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -150,6 +191,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takaisin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -160,6 +205,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">varten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -170,6 +219,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -180,11 +233,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">varten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -195,16 +256,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">eteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edestä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -214,19 +287,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <te type="grammar">elativ</te>
+            <t type="grammar">elativ</t>
             <xg>
-              <x>Hun kom fra Kautokeino i dag.</x>
-              <xt>Hän tuli Koutokeinosta tänään.</xt>
+               <x>Hun kom fra Kautokeino i dag.</x>
+               <xt>Hän tuli Koutokeinosta tänään.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
-            <te type="grammar">ablativ</te>
+            <t type="grammar">ablativ</t>
             <xg>
-              <x>Simo er fra Tammerfors.</x>
-              <xt>Simo on Tampereelta.</xt>
+               <x>Simo er fra Tammerfors.</x>
+               <xt>Simo on Tampereelta.</xt>
             </xg>
          </tg>
       </mg>
@@ -238,6 +311,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">eteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -248,6 +325,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">läpi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -259,14 +340,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Po">luona</t>
             <xg>
-              <x>Bono fortalte om besøket sitt hos statsministeren.</x>
-              <xt>Bono  kertoi vierailustaan pääministerin luona.</xt>
+               <x>Bono fortalte om besøket sitt hos statsministeren.</x>
+               <xt>Bono kertoi vierailustaan pääministerin luona.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tykö</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -277,6 +362,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tykönä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -287,11 +376,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sijassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sijasta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -301,16 +398,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <te type="grammar">inessiv</te>
+            <t type="grammar">inessiv</t>
             <xg>
-              <x>Asun kaupungissa.</x>
-              <xt>Jeg bor i byen.</xt>
+               <x>Asun kaupungissa.</x>
+               <xt>Jeg bor i byen.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -321,6 +422,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -331,21 +436,37 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välille</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välillä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliltä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välissä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -356,11 +477,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisään</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -371,11 +500,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisässä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -387,8 +524,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="Po">sisäpuolella</t>
             <xg>
-              <x>Han b</x>
-              <xt></xt>
+               <x>Han b</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -400,6 +537,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -410,6 +551,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -420,6 +565,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">myöten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -430,6 +579,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kanssa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -440,6 +593,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">myötä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -450,6 +607,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seurassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -460,6 +621,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -470,6 +635,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -480,6 +649,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -490,6 +663,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välille</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -500,6 +677,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välillä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -510,6 +691,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliltä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -520,6 +705,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välissä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -530,6 +719,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kohti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -540,6 +733,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vastaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -550,6 +747,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vasten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -560,6 +761,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päältä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -570,6 +775,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alapuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -580,6 +789,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alapuolelta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -590,6 +803,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -600,6 +817,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -610,6 +831,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -620,6 +845,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -630,6 +859,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">yläpuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -640,6 +873,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -650,6 +887,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -660,6 +901,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisäpuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -670,6 +915,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ulkopuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -680,6 +929,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">jälkeen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -690,6 +943,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">eteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -700,6 +957,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -710,11 +971,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">yli</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pr">yli</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -725,11 +994,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vastapuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -740,11 +1017,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -755,6 +1040,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -765,6 +1054,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -775,6 +1068,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">poikki</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -785,6 +1082,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">puolesta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -795,6 +1096,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -805,6 +1110,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -815,6 +1124,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -825,6 +1138,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -835,6 +1152,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">suhteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -845,6 +1166,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -855,6 +1180,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">luokse</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -865,16 +1194,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alla</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -885,6 +1226,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pr">ilman</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -895,6 +1240,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ulkopuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -905,6 +1254,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ulospäin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -915,6 +1268,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">rinnalla</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -925,6 +1282,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">viereen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -935,6 +1296,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vieressä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -945,6 +1310,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kautta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -955,6 +1324,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alapuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -965,11 +1338,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vastapuolella</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -980,6 +1361,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ulospäin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -990,6 +1375,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kohti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1000,6 +1389,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1010,6 +1403,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alapuolelta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1020,16 +1417,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alla</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1040,6 +1449,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">alle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1050,6 +1463,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1060,6 +1477,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1070,11 +1491,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">eteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">edessä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1085,6 +1514,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">hallussa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1095,6 +1528,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">joukossa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1105,6 +1542,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kanssa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1115,6 +1556,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">kautta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1125,6 +1570,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">lopulla</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1135,6 +1584,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">läpi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1145,6 +1598,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">myöten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1155,6 +1612,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">myötä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1165,6 +1626,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">puolesta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1175,6 +1640,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1185,6 +1654,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1195,6 +1668,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päältä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1205,6 +1682,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1215,6 +1696,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">päällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1225,6 +1710,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perään</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1235,6 +1724,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perässä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1245,6 +1738,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">perästä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1255,6 +1752,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">rinnalla</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1265,6 +1766,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1275,6 +1780,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1285,6 +1794,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1295,6 +1808,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seasta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1305,6 +1822,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1315,6 +1836,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1325,6 +1850,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sekaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1335,6 +1864,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seurassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1345,6 +1878,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">seurassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1355,6 +1892,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sijassa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1365,6 +1906,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sijasta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1375,6 +1920,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisään</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1385,6 +1934,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisälle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1395,6 +1948,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1405,6 +1962,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">sisässä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1415,6 +1976,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">suhteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1425,6 +1990,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">suhteen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1435,6 +2004,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">taka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1445,6 +2018,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takaisin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1455,6 +2032,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1465,6 +2046,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takana</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1475,6 +2060,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1485,6 +2074,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1495,6 +2088,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tykö</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1505,6 +2102,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tykönä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1515,28 +2116,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="suff">-sta</t>
-	    <xg>
-	      <x>Jeg er fra Norge.</x>
-	      <xt>Minä olen Norjasta.</xt>
-	    </xg>
-	    <xg>
-	      <x>A:sta B:hen.</x>
-	      <xt>Fra A til B</xt>
-	    </xg>
+            <xg>
+               <x>Jeg er fra Norge.</x>
+               <xt>Minä olen Norjasta.</xt>
+            </xg>
+            <xg>
+               <x>A:sta B:hen.</x>
+               <xt>Fra A til B</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="suff">-lta</t>
-	    <xg>
-	      <x>Katten hoppa ned fra taket.</x>
-	      <xt>Kissa hyppäsi katolta alas.</xt>
-	    </xg>
+            <xg>
+               <x>Katten hoppa ned fra taket.</x>
+               <xt>Kissa hyppäsi katolta alas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tyköä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1547,11 +2152,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">takia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1562,6 +2175,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1572,6 +2189,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1582,6 +2203,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">varten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1592,6 +2217,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">varten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1602,6 +2231,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vasten</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1612,6 +2245,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vastaan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1622,6 +2259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vieressä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1632,6 +2273,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vierestä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1642,6 +2287,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">viereen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1652,6 +2301,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1662,6 +2315,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1672,6 +2329,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1682,6 +2343,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1692,6 +2357,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliin</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1702,6 +2371,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välille</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1711,7 +2384,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="fin">
-           <t pos="suff">-ssa</t>
+            <t pos="suff">-ssa</t>
             <xg>
                <x>Jeg drar fra Børselv i morgen.</x>
                <xt>Mie lähđen Pyssyjovesta huomena.</xt>
@@ -1726,6 +2399,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välille</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1736,6 +2413,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliltä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1746,6 +2427,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">väliltä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1756,6 +2441,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välillä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1766,6 +2455,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välillä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1776,6 +2469,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välissä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1786,6 +2483,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">välissä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1796,6 +2497,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">ympäri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1806,6 +2511,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Pr">ilman</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1816,6 +2525,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">poikki</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1826,6 +2539,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">luokse</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1836,6 +2553,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="Po">luona</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>

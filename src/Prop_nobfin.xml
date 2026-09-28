@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobfin.dtd">
 <r id="nobfin" xml:lang="nob">
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -15,11 +15,9 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-    <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
+      <ref>Work by Trond Trosterud and Kirsti Kuosa at UiT. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,8 +27,7 @@ For the full license text, see the link above.</lic>
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
-  </lics>
-
+   </lics>
    <e>
       <lg>
          <l pos="N" type="Prop">Afrika</l>
@@ -38,6 +35,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Afrikka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48,6 +49,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Albania</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58,6 +63,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Amerikka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -68,6 +77,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Argentiina</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -78,6 +91,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Armenia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -88,6 +105,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Aasia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -98,6 +119,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Ateena</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -108,6 +133,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Atlantti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -118,6 +147,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Baltia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -128,6 +161,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Belgia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -138,6 +175,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kallio</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -148,6 +189,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Berliini</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -158,6 +203,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Raamattu</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -168,6 +217,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pori</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -178,6 +231,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Porvoo</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -188,6 +245,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Bulgaria</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -198,6 +259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Bysantti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -208,6 +273,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kalifornia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -218,6 +287,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kanada</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -228,6 +301,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kuuba</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -238,6 +315,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tanska</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -248,6 +329,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tikkurila</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -258,6 +343,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Aku Ankka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -268,6 +357,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Egypti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -278,6 +371,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Inari</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -288,6 +385,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Englanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -298,6 +399,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Espoo</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -308,6 +413,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Viro</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -318,6 +427,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Euraasia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -328,6 +441,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Eurooppa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -338,6 +455,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Suomi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -348,6 +469,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Ranska</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -358,6 +483,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Grönlanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -368,6 +497,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Jumala</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -378,6 +511,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kustaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -388,6 +525,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kauppakomppania</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -398,6 +539,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kreikka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -408,6 +553,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Helsinki</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -418,6 +567,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Hollanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -428,6 +581,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Intia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -438,6 +595,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Indonesia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -448,6 +609,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Irlanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -458,6 +623,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Islanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -468,6 +637,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Italia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -478,6 +651,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Japani</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -488,6 +665,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Jeesus</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -498,6 +679,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Maa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -508,6 +693,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kamppi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -518,6 +707,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Karjala</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -528,6 +721,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kaarle</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -538,6 +735,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Otava</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -548,6 +749,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kenia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -558,6 +763,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kiina</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -568,6 +777,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kiribati</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -578,6 +791,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kongo</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -588,6 +805,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Konstantinopoli</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -598,6 +819,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Koraani</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -608,6 +833,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Korea</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -618,6 +847,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kotka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -628,6 +861,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kroatia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -638,6 +875,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kirkkonummi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -648,6 +889,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Kööpenhamina</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -658,6 +903,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Laatokka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -668,6 +917,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Lahti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -678,6 +931,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Lappi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -688,6 +945,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Latvia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -698,6 +959,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Liettua</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -708,6 +973,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Lontoo</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -718,6 +987,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Loviisa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -728,6 +1001,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Mali</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -738,6 +1015,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Malta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -748,6 +1029,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Mari</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -758,6 +1043,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Marokko</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -768,6 +1057,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Linnunrata</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -778,6 +1071,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Lähi-itä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -788,6 +1085,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Moldova</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -798,6 +1099,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Moskova</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -808,6 +1113,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Nauru</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -818,6 +1127,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Alankomaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -828,6 +1141,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Nepal</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -838,6 +1155,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pohjois-Amerikka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -848,6 +1169,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pohjois-Eurooppa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -858,6 +1183,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pohjola</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -868,6 +1197,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Norja</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -878,6 +1211,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Uusimaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -888,6 +1225,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Naantali</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -898,6 +1239,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Palestiina</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -908,6 +1253,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pariisi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -918,6 +1267,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Puola</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -928,6 +1281,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Portugali</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -938,6 +1295,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Preussi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -948,6 +1309,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Rauma</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -958,6 +1323,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Riika</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -968,6 +1337,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Rooma</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -978,6 +1351,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Venäjä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -988,6 +1365,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">SI-järjestelmä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -998,6 +1379,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Sahara</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1008,6 +1393,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Satakunta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1018,6 +1407,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Savo</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1028,6 +1421,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Serbia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1038,6 +1435,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Siperia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1048,6 +1449,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Skotlanti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1058,6 +1463,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Sodankylä</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1068,6 +1477,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Aurinko</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1078,6 +1491,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Neuvostoliitto</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1088,6 +1505,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Espanja</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1098,6 +1519,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Mikkeli</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1108,6 +1533,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pietari</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1118,6 +1547,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tukholma</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1128,6 +1561,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Iso-Britannia</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1138,6 +1575,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Sveitsi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1148,6 +1589,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Ruotsi</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1158,6 +1603,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Syyria</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1168,6 +1617,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Etelä-Amerikka</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1178,6 +1631,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tallinna</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1188,6 +1645,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tampere</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1198,6 +1659,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Teno</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1208,6 +1673,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Hämeenlinna</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1218,6 +1687,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Thaimaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1228,6 +1701,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tiibet</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1238,6 +1715,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tonga</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1248,6 +1729,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tornio</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1258,6 +1743,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Järvenpää</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1268,6 +1757,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Tuvalu</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1278,6 +1771,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Turkki</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1288,6 +1785,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Saksa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1298,6 +1799,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Yhdysvallat</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1308,6 +1813,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Ukraina</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1318,6 +1827,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Oulu</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1328,6 +1841,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Unkari</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1338,6 +1855,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Vantaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1348,6 +1869,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Vaasa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1358,6 +1883,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Viipuri</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1368,6 +1897,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Vietnam</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1378,6 +1911,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Lappeenranta</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1388,6 +1925,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Varsova</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1398,6 +1939,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Turku</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1408,6 +1953,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Ahvenanmaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1418,6 +1967,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Pohjanmaa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1428,6 +1981,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="N" type="Prop">Itä-Eurooppa</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
