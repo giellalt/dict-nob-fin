@@ -1,4 +1,4 @@
-<!ELEMENT e ( lg, mg+ ) >
+<!ELEMENT e ( lg, mg+, ig*, xhtml:script? ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #IMPLIED >
 
@@ -19,7 +19,7 @@
 
 <!ELEMENT lg ( l ) >
 
-<!ELEMENT mg ( tg ) >
+<!ELEMENT mg ( re?,  tg+ ) >
 
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xml:lang (nob) #IMPLIED>
@@ -28,13 +28,16 @@
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t pos ( A | Adv | CC | CS | Interj | N | Num |
                   Po | Pr | Pron | V | suff ) #IMPLIED >
-<!ATTLIST t type ( Prop ) #IMPLIED >
+<!ATTLIST t type ( Prop | grammar ) #IMPLIED >
 <!ATTLIST t t_type ( Phrase | expl ) #IMPLIED >
 
+
+<!--
 <!ELEMENT te ( #PCDATA ) >
 <!ATTLIST te type ( grammar ) #IMPLIED >
+-->
+<!ELEMENT tg (re?, t+,  xg+ ) >
 
-<!ELEMENT tg ( re? | syng | (t|te) | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg xml:lang NMTOKEN #FIXED "fin" >
 
@@ -50,3 +53,17 @@
 <!ELEMENT xg ( x, xt ) >
 
 <!ELEMENT xt ( #PCDATA ) >
+
+
+<!-- Idiom phrases, faste uttrykk -->
+<!ELEMENT ig ( i+, id?, it+)+ >
+<!ELEMENT i (#PCDATA) >
+<!ATTLIST i src CDATA #IMPLIED >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT it (#PCDATA) >
+
+<!ELEMENT xhtml:script EMPTY >
+<!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
+<!ATTLIST xhtml:script src  CDATA #IMPLIED >
+<!ATTLIST xhtml:script xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
+
