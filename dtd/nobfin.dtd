@@ -26,7 +26,7 @@
 <!ATTLIST r id (nobfin) #IMPLIED>
 
 <!ELEMENT t ( #PCDATA ) >
-<!ATTLIST t pos ( A | Adv | CC | CS | Interj | N | Num | 
+<!ATTLIST t pos ( A | Adv | CC | CS | Interj | N | Num |
                   Po | Pr | Pron | V | suff ) #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 <!ATTLIST t t_type ( Phrase | expl ) #IMPLIED >
@@ -36,7 +36,7 @@
 
 <!ELEMENT tg ( re? | syng | (t|te) | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
-<!ATTLIST tg xml:lang ( fin ) #REQUIRED >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "fin" >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
