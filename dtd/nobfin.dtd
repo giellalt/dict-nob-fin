@@ -36,7 +36,7 @@
 <!ELEMENT te ( #PCDATA ) >
 <!ATTLIST te type ( grammar ) #IMPLIED >
 -->
-<!ELEMENT tg (re?, t+,  xg+ ) >
+<!ELEMENT tg (re?, t+,  xg* ) >
 
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg xml:lang NMTOKEN #FIXED "fin" >
